@@ -1,0 +1,562 @@
+[
+  {
+    "id": "vesna",
+    "name": "ヴェスナ",
+    "element": "anemo",
+    "weaponType": "sword",
+    "rarity": 5,
+    "icon": "images/character/vesna.webp"
+  },
+  {
+    "id": "vodyanitsa",
+    "name": "ヴォジャニーツァ",
+    "element": "hydro",
+    "weaponType": "catalyst",
+    "rarity": 5,
+    "icon": "images/character/vodyanitsa.webp"
+  },
+  {
+    "id": "odette",
+    "name": "オデット",
+    "element": "cryo",
+    "weaponType": "sword",
+    "rarity": 5,
+    "icon": "images/character/odette.webp"
+  },
+  {
+    "id": "alyosha",
+    "name": "アリョーシャ",
+    "element": "electro",
+    "weaponType": "polearm",
+    "rarity": 4,
+    "icon": "images/character/alyosha.webp"
+  },
+  {
+    "id": "sandrone",
+    "name": "サンドローネ",
+    "element": "cryo",
+    "weaponType": "claymore",
+    "rarity": 5,
+    "icon": "images/character/sandrone.webp"
+  },
+  {
+    "id": "lohen",
+    "name": "ローエン",
+    "element": "cryo",
+    "weaponType": "polearm",
+    "rarity": 5,
+    "icon": "images/character/lohen.webp"
+  },
+  {
+    "id": "nicole",
+    "name": "ニコ",
+    "element": "pyro",
+    "weaponType": "catalyst",
+    "rarity": 5,
+    "icon": "images/character/nicole.webp"
+  },
+  {
+    "id": "plune",
+    "name": "プルーネ",
+    "element": "anemo",
+    "weaponType": "catalyst",
+    "rarity": 4,
+    "icon": "images/character/plune.webp"
+  },
+  {
+    "id": "linnea",
+    "name": "リンネア",
+    "element": "geo",
+    "weaponType": "bow",
+    "rarity": 5,
+    "icon": "images/character/linnea.webp"
+  },
+  {
+    "id": "varka",
+    "name": "ファルカ",
+    "element": "anemo",
+    "weaponType": "claymore",
+    "rarity": 5,
+    "icon": "images/character/varka.webp"
+  },
+  {
+    "id": "zibai",
+    "name": "兹白",
+    "element": "geo",
+    "weaponType": "sword",
+    "rarity": 5,
+    "icon": "images/character/zibai.webp"
+  },
+  {
+    "id": "illuga",
+    "name": "イルーガ",
+    "element": "geo",
+    "weaponType": "polearm",
+    "rarity": 4,
+    "icon": "images/character/illuga.webp"
+  },
+  {
+    "id": "columbina",
+    "name": "コロンビーナ",
+    "element": "hydro",
+    "weaponType": "catalyst",
+    "rarity": 5,
+    "icon": "images/character/columbina.webp"
+  },
+  {
+    "id": "durin",
+    "name": "ドゥリン",
+    "element": "pyro",
+    "weaponType": "sword",
+    "rarity": 5,
+    "icon": "images/character/durin.webp"
+  },
+  {
+    "id": "jahoda",
+    "name": "ヤフォダ",
+    "element": "anemo",
+    "weaponType": "bow",
+    "rarity": 4,
+    "icon": "images/character/jahoda.webp"
+  },
+  {
+    "id": "nefer",
+    "name": "ネフェル",
+    "element": "dendro",
+    "weaponType": "catalyst",
+    "rarity": 5,
+    "icon": "images/character/nefer.webp"
+  },
+  {
+    "id": "flins",
+    "name": "フリンズ",
+    "element": "electro",
+    "weaponType": "polearm",
+    "rarity": 5,
+    "icon": "images/character/flins.webp"
+  },
+  {
+    "id": "lauma",
+    "name": "ラウマ",
+    "element": "dendro",
+    "weaponType": "catalyst",
+    "rarity": 5,
+    "icon": "images/character/lauma.webp"
+  },
+  {
+    "id": "aino",
+    "name": "アイノ",
+    "element": "hydro",
+    "weaponType": "claymore",
+    "rarity": 4,
+    "icon": "images/character/aino.webp"
+  },
+  {
+    "id": "ineffa",
+    "name": "イネファ",
+    "element": "electro",
+    "weaponType": "polearm",
+    "rarity": 5,
+    "icon": "images/character/ineffa.webp"
+  },
+  {
+    "id": "skirk",
+    "name": "スカーク",
+    "element": "cryo",
+    "weaponType": "sword",
+    "rarity": 5,
+    "icon": "images/character/skirk.webp"
+  },
+  {
+    "id": "dahlia",
+    "name": "ダリア",
+    "element": "hydro",
+    "weaponType": "sword",
+    "rarity": 4,
+    "icon": "images/character/dahlia.webp"
+  },
+  {
+    "id": "escoffier",
+    "name": "エスコフィエ",
+    "element": "cryo",
+    "weaponType": "polearm",
+    "rarity": 5,
+    "icon": "images/character/escoffier.webp"
+  },
+  {
+    "id": "ifa",
+    "name": "イファ",
+    "element": "anemo",
+    "weaponType": "catalyst",
+    "rarity": 4,
+    "icon": "images/character/ifa.webp"
+  },
+  {
+    "id": "varesa",
+    "name": "ヴァレサ",
+    "element": "electro",
+    "weaponType": "catalyst",
+    "rarity": 5,
+    "icon": "images/character/varesa.webp"
+  },
+  {
+    "id": "iansan",
+    "name": "イアンサ",
+    "element": "electro",
+    "weaponType": "polearm",
+    "rarity": 4,
+    "icon": "images/character/iansan.webp"
+  },
+  {
+    "id": "yumemizuki mizuki",
+    "name": "夢見月瑞希",
+    "element": "anemo",
+    "weaponType": "catalyst",
+    "rarity": 5,
+    "icon": "images/character/yumemizuki mizuki.webp"
+  },
+  {
+    "id": "lan yan",
+    "name": "藍硯",
+    "element": "anemo",
+    "weaponType": "catalyst",
+    "rarity": 4,
+    "icon": "images/character/lan yan.webp"
+  },
+  {
+    "id": "mavuika",
+    "name": "マーヴィカ",
+    "element": "pyro",
+    "weaponType": "claymore",
+    "rarity": 5,
+    "icon": "images/character/mavuika.webp"
+  },
+  {
+    "id": "citlali",
+    "name": "シトラリ",
+    "element": "cryo",
+    "weaponType": "catalyst",
+    "rarity": 5,
+    "icon": "images/character/citlali.webp"
+  },
+  {
+    "id": "chasca",
+    "name": "チャスカ",
+    "element": "anemo",
+    "weaponType": "bow",
+    "rarity": 5,
+    "icon": "images/character/chasca.webp"
+  },
+  {
+    "id": "ororon",
+    "name": "オロルン",
+    "element": "electro",
+    "weaponType": "bow",
+    "rarity": 4,
+    "icon": "images/character/ororon.webp"
+  },
+  {
+    "id": "xilonen",
+    "name": "シロネン",
+    "element": "geo",
+    "weaponType": "sword",
+    "rarity": 5,
+    "icon": "images/character/xilonen.webp"
+  },
+  {
+    "id": "kinich",
+    "name": "キィニチ",
+    "element": "dendro",
+    "weaponType": "claymore",
+    "rarity": 5,
+    "icon": "images/character/kinich.webp"
+  },
+  {
+    "id": "mualani",
+    "name": "ムアラニ",
+    "element": "hydro",
+    "weaponType": "catalyst",
+    "rarity": 5,
+    "icon": "images/character/mualani.webp"
+  },
+  {
+    "id": "kachina",
+    "name": "カチーナ",
+    "element": "geo",
+    "weaponType": "polearm",
+    "rarity": 4,
+    "icon": "images/character/kachina.webp"
+  },
+  {
+    "id": "emilie",
+    "name": "エミリエ",
+    "element": "dendro",
+    "weaponType": "polearm",
+    "rarity": 5,
+    "icon": "images/character/emilie.webp"
+  },
+  {
+    "id": "sigewinne",
+    "name": "シグウィン",
+    "element": "hydro",
+    "weaponType": "bow",
+    "rarity": 5,
+    "icon": "images/character/sigewinne.webp"
+  },
+  {
+    "id": "clorinde",
+    "name": "クロリンデ",
+    "element": "electro",
+    "weaponType": "sword",
+    "rarity": 5,
+    "icon": "images/character/clorinde.webp"
+  },
+  {
+    "id": "sethos",
+    "name": "セトス",
+    "element": "electro",
+    "weaponType": "bow",
+    "rarity": 4,
+    "icon": "images/character/sethos.webp"
+  },
+  {
+    "id": "arlecchino",
+    "name": "アルレッキーノ",
+    "element": "pyro",
+    "weaponType": "polearm",
+    "rarity": 5,
+    "icon": "images/character/arlecchino.webp"
+  },
+  {
+    "id": "chiori",
+    "name": "千織",
+    "element": "geo",
+    "weaponType": "sword",
+    "rarity": 5,
+    "icon": "images/character/chiori.webp"
+  },
+  {
+    "id": "xianyun",
+    "name": "閑雲",
+    "element": "anemo",
+    "weaponType": "catalyst",
+    "rarity": 5,
+    "icon": "images/character/xianyun.webp"
+  },
+  {
+    "id": "gaming",
+    "name": "嘉明",
+    "element": "pyro",
+    "weaponType": "claymore",
+    "rarity": 4,
+    "icon": "images/character/gaming.webp"
+  },
+  {
+    "id": "chevreuse",
+    "name": "シュヴルーズ",
+    "element": "pyro",
+    "weaponType": "polearm",
+    "rarity": 4,
+    "icon": "images/character/chevreuse.webp"
+  },
+  {
+    "id": "navia",
+    "name": "ナヴィア",
+    "element": "geo",
+    "weaponType": "claymore",
+    "rarity": 5,
+    "icon": "images/character/navia.webp"
+  },
+  {
+    "id": "furina",
+    "name": "フリーナ",
+    "element": "hydro",
+    "weaponType": "sword",
+    "rarity": 5,
+    "icon": "images/character/furina.webp"
+  },
+  {
+    "id": "charlotte",
+    "name": "シャルロット",
+    "element": "cryo",
+    "weaponType": "catalyst",
+    "rarity": 4,
+    "icon": "images/character/charlotte.webp"
+  },
+  {
+    "id": "wriothesley",
+    "name": "リオセスリ",
+    "element": "cryo",
+    "weaponType": "catalyst",
+    "rarity": 5,
+    "icon": "images/character/wriothesley.webp"
+  },
+  {
+    "id": "neuvillette",
+    "name": "ヌヴィレット",
+    "element": "hydro",
+    "weaponType": "catalyst",
+    "rarity": 5,
+    "icon": "images/character/neuvillette.webp"
+  },
+  {
+    "id": "lyney",
+    "name": "リネ",
+    "element": "pyro",
+    "weaponType": "bow",
+    "rarity": 5,
+    "icon": "images/character/lyney.webp"
+  },
+  {
+    "id": "faruzan",
+    "name": "ファルザン",
+    "element": "anemo",
+    "weaponType": "bow",
+    "rarity": 4,
+    "icon": "images/character/faruzan.webp"
+  },
+  {
+    "id": "nahida",
+    "name": "ナヒーダ",
+    "element": "dendro",
+    "weaponType": "catalyst",
+    "rarity": 5,
+    "icon": "images/character/nahida.webp"
+  },
+  {
+    "id": "nilou",
+    "name": "ニィロウ",
+    "element": "hydro",
+    "weaponType": "sword",
+    "rarity": 5,
+    "icon": "images/character/nilou.webp"
+  },
+  {
+    "id": "shenhe",
+    "name": "申鶴",
+    "element": "cryo",
+    "weaponType": "polearm",
+    "rarity": 5,
+    "icon": "images/character/shenhe.webp"
+  },
+  {
+    "id": "raiden shogun",
+    "name": "雷電将軍",
+    "element": "electro",
+    "weaponType": "polearm",
+    "rarity": 5,
+    "icon": "images/character/raiden shogun.webp"
+  },
+  {
+    "id": "kamisato ayaka",
+    "name": "神里綾華",
+    "element": "cryo",
+    "weaponType": "sword",
+    "rarity": 5,
+    "icon": "images/character/kamisato ayaka.webp"
+  },
+  {
+    "id": "albedo",
+    "name": "アルベド",
+    "element": "geo",
+    "weaponType": "sword",
+    "rarity": 5,
+    "icon": "images/character/albedo.webp"
+  },
+  {
+    "id": "zhongli",
+    "name": "鍾離",
+    "element": "geo",
+    "weaponType": "polearm",
+    "rarity": 5,
+    "icon": "images/character/zhongli.webp"
+  },
+  {
+    "id": "tartaglia",
+    "name": "タルタリヤ",
+    "element": "hydro",
+    "weaponType": "bow",
+    "rarity": 5,
+    "icon": "images/character/tartaglia.webp"
+  },
+  {
+    "id": "diona",
+    "name": "ディオナ",
+    "element": "cryo",
+    "weaponType": "bow",
+    "rarity": 4,
+    "icon": "images/character/diona.webp"
+  },
+  {
+    "id": "jean",
+    "name": "ジン",
+    "element": "anemo",
+    "weaponType": "sword",
+    "rarity": 5,
+    "icon": "images/character/jean.webp"
+  },
+  {
+    "id": "mona",
+    "name": "モナ",
+    "element": "hydro",
+    "weaponType": "catalyst",
+    "rarity": 5,
+    "icon": "images/character/mona.webp"
+  },
+  {
+    "id": "qiqi",
+    "name": "七七",
+    "element": "cryo",
+    "weaponType": "sword",
+    "rarity": 5,
+    "icon": "images/character/qiqi.webp"
+  },
+  {
+    "id": "bennett",
+    "name": "ベネット",
+    "element": "pyro",
+    "weaponType": "sword",
+    "rarity": 4,
+    "icon": "images/character/bennett.webp"
+  },
+  {
+    "id": "barbara",
+    "name": "バーバラ",
+    "element": "hydro",
+    "weaponType": "catalyst",
+    "rarity": 4,
+    "icon": "images/character/barbara.webp"
+  },
+  {
+    "id": "sucrose",
+    "name": "スクロース",
+    "element": "anemo",
+    "weaponType": "catalyst",
+    "rarity": 4,
+    "icon": "images/character/sucrose.webp"
+  },
+  {
+    "id": "fischl",
+    "name": "フィッシュル",
+    "element": "electro",
+    "weaponType": "bow",
+    "rarity": 4,
+    "icon": "images/character/fischl.webp"
+  },
+  {
+    "id": "xingqiu",
+    "name": "行秋",
+    "element": "hydro",
+    "weaponType": "sword",
+    "rarity": 4,
+    "icon": "images/character/xingqiu.webp"
+  },
+  {
+    "id": "beidou",
+    "name": "北斗",
+    "element": "electro",
+    "weaponType": "claymore",
+    "rarity": 4,
+    "icon": "images/character/beidou.webp"
+  }
+]

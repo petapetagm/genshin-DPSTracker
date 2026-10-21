@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DPSTracker</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <script src="js/tailwind-config.js"></script>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="p-3 md:p-6 pb-20">
+
+    <div class="max-w-7xl mx-auto">
+        <!-- ヘッダー -->
+        <header class="flex flex-col md:flex-row justify-between items-center mb-8 border-b border-gray-800 pb-5 gap-4">
+            <div class="flex items-center space-x-3">
+                <div class="w-10 h-10 rounded-full bg-amber-500/20 border border-amber-400/50 flex items-center justify-center text-amber-300 text-xl font-bold">
+                    <i class="fa-solid fa-bolt"></i>
+                </div>
+                <div>
+                    <h1 class="text-2xl md:text-3xl font-bold tracking-wide text-genshin-gold">DPSTracker</h1>
+                </div>
+            </div>
+            <div class="flex flex-wrap items-center justify-center gap-2">
+                <button id="exportDataBtn" class="px-3 py-2 rounded-lg border border-slate-700 text-xs text-gray-300 hover:border-amber-400 hover:text-amber-300 transition" title="登録データをJSONで保存">
+                    <i class="fa-solid fa-file-export mr-1"></i>エクスポート
+                </button>
+                <button id="importDataBtn" class="px-3 py-2 rounded-lg border border-slate-700 text-xs text-gray-300 hover:border-cyan-400 hover:text-cyan-300 transition" title="JSONバックアップを読み込み">
+                    <i class="fa-solid fa-file-import mr-1"></i>インポート
+                </button>
+                <input type="file" id="importDataFile" accept=".json,application/json" class="hidden">
+                <button id="openCreateModalBtn" class="genshin-btn-primary px-5 py-2.5 rounded-lg flex items-center space-x-2 text-sm tracking-wider">
+                    <i class="fa-solid fa-plus"></i>
+                    <span>新規チーム登録</span>
+                </button>
+            </div>
+        </header>
+
+        <!-- 検索・ソート・フィルター バー -->
+        <div class="genshin-card p-4 rounded-xl mb-6 flex flex-col md:flex-row justify-between items-center gap-4">
+            <!-- 検索 -->
+            <div class="relative w-full md:w-72">
+                <i class="fa-solid fa-magnifying-glass absolute left-3 top-1/2 -translate-y-1/2 text-gray-400 text-sm"></i>
+                <input type="text" id="searchInput" placeholder="チーム名・キャラ名で検索..." 
+                    class="w-full bg-slate-900/80 border border-slate-700 text-sm rounded-lg pl-9 pr-4 py-2 focus:outline-none focus:border-amber-400/70 text-gray-200">
+            </div>
+
+            <!-- フィルター＆並び替え -->
+            <div class="flex flex-wrap items-center gap-3 w-full md:w-auto">
+                <div class="flex items-center space-x-2 text-xs text-gray-400">
+                    <i class="fa-solid fa-filter"></i>
+                    <span>元素:</span>
+                </div>
+                <select id="elementFilter" class="bg-slate-900/80 border border-slate-700 text-xs rounded-lg px-3 py-2 text-gray-300 focus:outline-none focus:border-amber-400">
+                    <option value="all">すべての元素</option>
+                    <option value="pyro">炎 (Pyro)</option>
+                    <option value="hydro">水 (Hydro)</option>
+                    <option value="anemo">風 (Anemo)</option>
+                    <option value="electro">雷 (Electro)</option>
+                    <option value="dendro">草 (Dendro)</option>
+                    <option value="cryo">氷 (Cryo)</option>
+                    <option value="geo">岩 (Geo)</option>
+                </select>
+
+                <div class="flex items-center space-x-2 text-xs text-gray-400 ml-2">
+                    <i class="fa-solid fa-sort"></i>
+                    <span>並び替え:</span>
+                </div>
+                <select id="sortBy" class="bg-slate-900/80 border border-slate-700 text-xs rounded-lg px-3 py-2 text-gray-300 focus:outline-none focus:border-amber-400">
+                    <option value="dps-desc">DPSが高い順</option>
+                    <option value="dps-asc">DPSが低い順</option>
+                    <option value="date-desc">更新が新しい順</option>
+                    <option value="date-asc">更新が古い順</option>
+                    <option value="name-asc">チーム名順 (A-Z)</option>
+                </select>
+            </div>
+        </div>
+
+        <!-- 統計サマリー -->
+        <div id="statsSummary" class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-6">
+            <div class="genshin-card p-3.5 rounded-lg flex items-center justify-between">
+                <div>
+                    <div class="text-xs text-gray-400">登録チーム数</div>
+                    <div id="statTotalTeams" class="text-xl font-bold text-amber-300">0</div>
+                </div>
+                <i class="fa-solid fa-users text-2xl text-amber-500/30"></i>
+            </div>
+            <div class="genshin-card p-3.5 rounded-lg flex items-center justify-between">
+                <div>
+                    <div class="text-xs text-gray-400">最高DPS</div>
+                    <div id="statMaxDps" class="text-xl font-bold text-emerald-400">0</div>
+                </div>
+                <i class="fa-solid fa-trophy text-2xl text-emerald-500/30"></i>
+            </div>
+            <div class="genshin-card p-3.5 rounded-lg flex items-center justify-between">
+                <div>
+                    <div class="text-xs text-gray-400">平均DPS</div>
+                    <div id="statAvgDps" class="text-xl font-bold text-cyan-400">0</div>
+                </div>
+                <i class="fa-solid fa-chart-line text-2xl text-cyan-500/30"></i>
+            </div>
+            <div class="genshin-card p-3.5 rounded-lg flex items-center justify-between">
+                <div>
+                    <div class="text-xs text-gray-400">最多使用キャラ</div>
+                    <div id="statTopChar" class="text-sm font-bold text-purple-300 truncate max-w-[100px]">-</div>
+                </div>
+                <i class="fa-solid fa-crown text-2xl text-purple-500/30"></i>
+            </div>
+        </div>
+
+        <!-- チームカード一覧コンテナ -->
+        <main id="teamListContainer" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <!-- JavaScriptによってカードが動的に挿入されます -->
+        </main>
+
+        <!-- 空状態表示 -->
+        <div id="emptyState" class="hidden text-center py-16 genshin-card rounded-xl my-8 border-dashed border-slate-700">
+            <i class="fa-regular fa-folder-open text-5xl text-gray-600 mb-3"></i>
+            <p class="text-gray-400 text-lg font-medium">登録されているチームがありません</p>
+            <p class="text-gray-500 text-xs mt-1 mb-4">右上の「新規チーム登録」ボタンからチームを入力してみましょう</p>
+            <button id="emptyStateAddBtn" class="genshin-btn-primary px-4 py-2 rounded-lg text-xs">
+                新規チームを作成する
+            </button>
+        </div>
+    </div>
+
+    <!-- モーダル: チーム作成・編集 -->
+    <div id="teamModal" class="fixed inset-0 bg-black/80 backdrop-blur-sm z-50 flex items-center justify-center hidden p-3 md:p-4 overflow-y-auto">
+        <div class="genshin-card border border-amber-500/30 w-full max-w-2xl rounded-xl p-5 md:p-6 my-8 max-h-[90vh] overflow-y-auto">
+            <div class="flex justify-between items-center border-b border-gray-700 pb-3 mb-4">
+                <h2 id="modalTitle" class="text-xl font-bold text-genshin-gold flex items-center space-x-2">
+                    <i class="fa-solid fa-pen-to-square"></i>
+                    <span>チームDPSデータの登録</span>
+                </h2>
+                <button id="closeTeamModalBtn" class="text-gray-400 hover:text-white transition">
+                    <i class="fa-solid fa-xmark text-xl"></i>
+                </button>
+            </div>
+
+            <form id="teamForm" onsubmit="return false;" class="space-y-5">
+                <input type="hidden" id="teamIdInput" value="">
+
+                <!-- チーム名 -->
+                <div>
+                    <label class="block text-xs text-gray-300 font-medium mb-1">チーム名 <span class="text-rose-400">*</span></label>
+                    <input type="text" id="teamNameInput" required placeholder="例: アタッカー名元素反応パーティ" 
+                        class="w-full bg-slate-900 border border-slate-700 text-sm rounded-lg p-2.5 focus:outline-none focus:border-amber-400 text-gray-100">
+                </div>
+
+                <!-- キャラクター選択 4スロット -->
+                <div>
+                    <label class="block text-xs text-gray-300 font-medium mb-2">編成キャラクター (4枠) <span class="text-rose-400">*</span></label>
+                    <div class="grid grid-cols-4 gap-2 md:gap-3">
+                        <!-- スロット 0..3 -->
+                        <div onclick="openCharSelectModal(0)" class="char-slot cursor-pointer border-2 border-dashed border-slate-700 hover:border-amber-400/80 rounded-xl p-2 bg-slate-900/50 flex flex-col items-center justify-center text-center transition min-h-[110px]" data-slot="0">
+                            <div class="slot-content flex flex-col items-center">
+                                <i class="fa-solid fa-plus text-xl text-gray-500 mb-1"></i>
+                                <span class="text-[11px] text-gray-400">枠 1</span>
+                            </div>
+                        </div>
+                        <div onclick="openCharSelectModal(1)" class="char-slot cursor-pointer border-2 border-dashed border-slate-700 hover:border-amber-400/80 rounded-xl p-2 bg-slate-900/50 flex flex-col items-center justify-center text-center transition min-h-[110px]" data-slot="1">
+                            <div class="slot-content flex flex-col items-center">
+                                <i class="fa-solid fa-plus text-xl text-gray-500 mb-1"></i>
+                                <span class="text-[11px] text-gray-400">枠 2</span>
+                            </div>
+                        </div>
+                        <div onclick="openCharSelectModal(2)" class="char-slot cursor-pointer border-2 border-dashed border-slate-700 hover:border-amber-400/80 rounded-xl p-2 bg-slate-900/50 flex flex-col items-center justify-center text-center transition min-h-[110px]" data-slot="2">
+                            <div class="slot-content flex flex-col items-center">
+                                <i class="fa-solid fa-plus text-xl text-gray-500 mb-1"></i>
+                                <span class="text-[11px] text-gray-400">枠 3</span>
+                            </div>
+                        </div>
+                        <div onclick="openCharSelectModal(3)" class="char-slot cursor-pointer border-2 border-dashed border-slate-700 hover:border-amber-400/80 rounded-xl p-2 bg-slate-900/50 flex flex-col items-center justify-center text-center transition min-h-[110px]" data-slot="3">
+                            <div class="slot-content flex flex-col items-center">
+                                <i class="fa-solid fa-plus text-xl text-gray-500 mb-1"></i>
+                                <span class="text-[11px] text-gray-400">枠 4</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- キャラクター別ビルド設定 -->
+                <div>
+                    <div class="flex items-center justify-between mb-2">
+                        <label class="block text-xs text-gray-300 font-medium">キャラクター別ビルド設定</label>
+                        <span class="text-[10px] text-gray-500">聖遺物・武器・凸数・精錬ランク</span>
+                    </div>
+                    <div id="characterBuildSettings" class="grid grid-cols-1 sm:grid-cols-2 gap-3"></div>
+                </div>
+
+                <!-- 数値入力セクション (ローテーション / DPS) -->
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-3 bg-slate-900/60 p-3.5 rounded-xl border border-slate-800">
+                    <div>
+                        <label class="block text-xs text-gray-400 mb-1">ローテーション時間 (秒)</label>
+                        <select id="rotationTimeInput" class="w-full bg-slate-800 border border-slate-700 text-sm rounded p-2 text-center text-gray-100 focus:border-amber-400">
+                            <option value="16">16 秒</option>
+                            <option value="18">18 秒</option>
+                            <option value="20" selected>20 秒</option>
+                        </select>
+                    </div>
+                    <div>
+                        <label class="block text-xs text-amber-300 font-semibold mb-1">DPS (手動入力)</label>
+                        <input type="number" id="dpsInput" step="1" min="0" required placeholder="例: 92500" 
+                            class="w-full bg-amber-950/40 border border-amber-500/50 text-amber-300 font-bold text-sm rounded p-2 text-center font-mono focus:border-amber-400">
+                    </div>
+                </div>
+
+                <!-- ローテーション・メモ -->
+                <div>
+                    <label class="block text-xs text-gray-300 font-medium mb-1">ローテーション・ビルドメモ</label>
+                    <textarea id="notesInput" rows="3" placeholder="スキル回し: ヴェスナEQ -> ヴォジャニーツァE -> ... 聖遺物条件や武器など" 
+                        class="w-full bg-slate-900 border border-slate-700 text-sm rounded-lg p-2.5 text-gray-200 focus:outline-none focus:border-amber-400"></textarea>
+                </div>
+
+                <!-- アクションボタン -->
+                <div class="flex justify-end space-x-3 pt-2 border-t border-slate-800">
+                    <button type="button" id="cancelTeamModalBtn" class="px-4 py-2 border border-slate-700 text-xs rounded-lg text-gray-400 hover:bg-slate-800 transition">
+                        キャンセル
+                    </button>
+                    <button type="submit" id="saveTeamBtn" class="genshin-btn-primary px-5 py-2 rounded-lg text-xs">
+                        保存する
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- モーダル: 汎用ピッカー（キャラクター・武器・聖遺物で共用） -->
+    <div id="pickerModal" class="fixed inset-0 bg-black/85 backdrop-blur-md z-50 flex items-center justify-center hidden p-3 md:p-4">
+        <div class="genshin-card border border-amber-500/40 w-full max-w-3xl rounded-xl p-5 max-h-[85vh] flex flex-col">
+            <div class="flex justify-between items-center border-b border-gray-700 pb-3 mb-3">
+                <h3 id="pickerTitle" class="text-lg font-bold text-genshin-gold flex items-center space-x-2"></h3>
+                <button type="button" id="closePickerBtn" class="text-gray-400 hover:text-white">
+                    <i class="fa-solid fa-xmark text-xl"></i>
+                </button>
+            </div>
+            <div class="space-y-3 mb-3">
+                <input type="text" id="pickerSearch"
+                    class="w-full bg-slate-900 border border-slate-700 text-xs rounded-lg p-2 text-gray-200 focus:border-amber-400">
+                <div id="pickerFilters" class="flex flex-wrap gap-1.5 text-xs"></div>
+            </div>
+            <div id="pickerGrid" class="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-6 gap-3 overflow-y-auto pr-1 p-1 flex-1"></div>
+            <div id="pickerFooter" class="hidden mt-3 pt-3 border-t border-slate-800"></div>
+        </div>
+    </div>
+
+    <script src="js/core/constants.js"></script>
+    <script src="js/core/state.js"></script>
+    <script src="js/core/utils.js"></script>
+    <script src="js/core/storage.js"></script>
+    <script src="js/core/data-loader.js"></script>
+    <script src="js/ui/picker.js"></script>
+    <script src="js/ui/pickers.js"></script>
+    <script src="js/ui/team-list.js"></script>
+    <script src="js/ui/team-form.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>

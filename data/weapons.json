@@ -1,0 +1,1514 @@
+[
+  {
+    "id": "a_teaspoon_of_transcendence",
+    "name": "超越の鍵",
+    "type": "claymore",
+    "rarity": 5
+  },
+  {
+    "id": "a_thousand_blazing_suns",
+    "name": "千烈の日輪",
+    "type": "claymore",
+    "rarity": 5
+  },
+  {
+    "id": "a_thousand_floating_dreams",
+    "name": "千夜に浮かぶ夢",
+    "type": "catalyst",
+    "rarity": 5
+  },
+  {
+    "id": "absolution",
+    "name": "赦罪",
+    "type": "sword",
+    "rarity": 5
+  },
+  {
+    "id": "akuoumaru",
+    "name": "惡王丸",
+    "type": "claymore",
+    "rarity": 4
+  },
+  {
+    "id": "alley_hunter",
+    "name": "ダークアレイの狩人",
+    "type": "bow",
+    "rarity": 4
+  },
+  {
+    "id": "amenoma_kageuchi",
+    "name": "天目影打",
+    "type": "sword",
+    "rarity": 4
+  },
+  {
+    "id": "amos_bow",
+    "name": "アモスの弓",
+    "type": "bow",
+    "rarity": 5
+  },
+  {
+    "id": "angelos_heptades",
+    "name": "塵と光の七つの誓約",
+    "type": "catalyst",
+    "rarity": 5
+  },
+  {
+    "id": "apprentices_notes",
+    "name": "生徒ノート",
+    "type": "catalyst",
+    "rarity": 1
+  },
+  {
+    "id": "aqua_simulacra",
+    "name": "若水",
+    "type": "bow",
+    "rarity": 5
+  },
+  {
+    "id": "aquila_favonia",
+    "name": "風鷹剣",
+    "type": "sword",
+    "rarity": 5
+  },
+  {
+    "id": "ashgraven_drinking_horn",
+    "name": "蒼紋の角杯",
+    "type": "catalyst",
+    "rarity": 4
+  },
+  {
+    "id": "astral_vultures_crimson_plumage",
+    "name": "星鷲の紅き羽",
+    "type": "bow",
+    "rarity": 5
+  },
+  {
+    "id": "athame_artis",
+    "name": "黒蝕",
+    "type": "sword",
+    "rarity": 5
+  },
+  {
+    "id": "azurelight",
+    "name": "蒼耀",
+    "type": "sword",
+    "rarity": 5
+  },
+  {
+    "id": "ballad_of_the_boundless_blue",
+    "name": "果てなき紺碧の唄",
+    "type": "catalyst",
+    "rarity": 4
+  },
+  {
+    "id": "ballad_of_the_fjords",
+    "name": "フィヨルドの歌",
+    "type": "polearm",
+    "rarity": 4
+  },
+  {
+    "id": "beacon_of_the_reed_sea",
+    "name": "葦海の標",
+    "type": "claymore",
+    "rarity": 5
+  },
+  {
+    "id": "beginners_protector",
+    "name": "新米の長槍",
+    "type": "polearm",
+    "rarity": 1
+  },
+  {
+    "id": "beyond_the_chrysalis",
+    "name": "蝶の羽化",
+    "type": "sword",
+    "rarity": 5
+  },
+  {
+    "id": "black_tassel",
+    "name": "黒纓槍",
+    "type": "polearm",
+    "rarity": 3
+  },
+  {
+    "id": "blackcliff_agate",
+    "name": "黒岩の緋玉",
+    "type": "catalyst",
+    "rarity": 4
+  },
+  {
+    "id": "blackcliff_longsword",
+    "name": "黒岩の長剣",
+    "type": "sword",
+    "rarity": 4
+  },
+  {
+    "id": "blackcliff_pole",
+    "name": "黒岩の突槍",
+    "type": "polearm",
+    "rarity": 4
+  },
+  {
+    "id": "blackcliff_slasher",
+    "name": "黒岩の斬刀",
+    "type": "claymore",
+    "rarity": 4
+  },
+  {
+    "id": "blackcliff_warbow",
+    "name": "黒岩の戦弓",
+    "type": "bow",
+    "rarity": 4
+  },
+  {
+    "id": "blackmarrow_lantern",
+    "name": "烏髄の孤灯",
+    "type": "catalyst",
+    "rarity": 4
+  },
+  {
+    "id": "blade_of_atonement",
+    "name": "救済の剣",
+    "type": "claymore",
+    "rarity": 4
+  },
+  {
+    "id": "bloodsoaked_ruins",
+    "name": "血染めの荒れ地",
+    "type": "polearm",
+    "rarity": 5
+  },
+  {
+    "id": "bloodtainted_greatsword",
+    "name": "龍血を浴びた剣",
+    "type": "claymore",
+    "rarity": 3
+  },
+  {
+    "id": "breezeborne_refrain",
+    "name": "風に遊ぶ弦",
+    "type": "bow",
+    "rarity": 4
+  },
+  {
+    "id": "calamity_of_eshu",
+    "name": "厄水の災い",
+    "type": "sword",
+    "rarity": 4
+  },
+  {
+    "id": "calamity_queller",
+    "name": "息災",
+    "type": "polearm",
+    "rarity": 5
+  },
+  {
+    "id": "cashflow_supervision",
+    "name": "凛流の監視者",
+    "type": "catalyst",
+    "rarity": 5
+  },
+  {
+    "id": "chain_breaker",
+    "name": "チェーンブレイカー",
+    "type": "bow",
+    "rarity": 4
+  },
+  {
+    "id": "cinnabar_spindle",
+    "name": "シナバースピンドル",
+    "type": "sword",
+    "rarity": 4
+  },
+  {
+    "id": "clash_of_kings",
+    "name": "諸王の対局",
+    "type": "catalyst",
+    "rarity": 4
+  },
+  {
+    "id": "cloudforged",
+    "name": "築雲",
+    "type": "bow",
+    "rarity": 4
+  },
+  {
+    "id": "compound_bow",
+    "name": "リングボウ",
+    "type": "bow",
+    "rarity": 4
+  },
+  {
+    "id": "cool_steel",
+    "name": "冷刃",
+    "type": "sword",
+    "rarity": 3
+  },
+  {
+    "id": "covenant_of_frost_and_snow",
+    "name": "霜雪の契",
+    "type": "bow",
+    "rarity": 4
+  },
+  {
+    "id": "cranes_echoing_call",
+    "name": "鶴鳴の余韻",
+    "type": "catalyst",
+    "rarity": 5
+  },
+  {
+    "id": "crescent_pike",
+    "name": "流月の針",
+    "type": "polearm",
+    "rarity": 4
+  },
+  {
+    "id": "crimson_moons_semblance",
+    "name": "赤月のシルエット",
+    "type": "polearm",
+    "rarity": 5
+  },
+  {
+    "id": "dark_iron_sword",
+    "name": "暗鉄剣",
+    "type": "sword",
+    "rarity": 3
+  },
+  {
+    "id": "dawning_frost",
+    "name": "霜辰",
+    "type": "catalyst",
+    "rarity": 4
+  },
+  {
+    "id": "deathmatch",
+    "name": "死闘の槍",
+    "type": "polearm",
+    "rarity": 4
+  },
+  {
+    "id": "debate_club",
+    "name": "理屈責め",
+    "type": "claymore",
+    "rarity": 3
+  },
+  {
+    "id": "dialogues_of_the_desert_sages",
+    "name": "砂中の賢者達の問答",
+    "type": "polearm",
+    "rarity": 4
+  },
+  {
+    "id": "disaster_and_remorse",
+    "name": "災憾",
+    "type": "polearm",
+    "rarity": 5
+  },
+  {
+    "id": "dodoco_tales",
+    "name": "ドドコの物語",
+    "type": "catalyst",
+    "rarity": 4
+  },
+  {
+    "id": "dragons_bane",
+    "name": "匣中滅龍",
+    "type": "polearm",
+    "rarity": 4
+  },
+  {
+    "id": "dragonspine_spear",
+    "name": "ドラゴンスピア",
+    "type": "polearm",
+    "rarity": 4
+  },
+  {
+    "id": "dull_blade",
+    "name": "無鋒の剣",
+    "type": "sword",
+    "rarity": 1
+  },
+  {
+    "id": "earth_shaker",
+    "name": "アースシェイカー",
+    "type": "claymore",
+    "rarity": 4
+  },
+  {
+    "id": "echoes_of_the_heart",
+    "name": "胸中の谺",
+    "type": "catalyst",
+    "rarity": 4
+  },
+  {
+    "id": "elegy_for_the_end",
+    "name": "終焉を嘆く詩",
+    "type": "bow",
+    "rarity": 5
+  },
+  {
+    "id": "emberwell",
+    "name": "導炎の源",
+    "type": "sword",
+    "rarity": 4
+  },
+  {
+    "id": "emerald_orb",
+    "name": "翡玉法珠",
+    "type": "catalyst",
+    "rarity": 3
+  },
+  {
+    "id": "end_of_the_line",
+    "name": "竭沢",
+    "type": "bow",
+    "rarity": 4
+  },
+  {
+    "id": "engulfing_lightning",
+    "name": "草薙の稲光",
+    "type": "polearm",
+    "rarity": 5
+  },
+  {
+    "id": "etherlight_spindlelute",
+    "name": "天光のリュート",
+    "type": "catalyst",
+    "rarity": 4
+  },
+  {
+    "id": "everlasting_moonglow",
+    "name": "不滅の月華",
+    "type": "catalyst",
+    "rarity": 5
+  },
+  {
+    "id": "exaiphanes_blade",
+    "name": "星鋒の剣",
+    "type": "sword",
+    "rarity": 5
+  },
+  {
+    "id": "eye_of_perception",
+    "name": "昭心",
+    "type": "catalyst",
+    "rarity": 4
+  },
+  {
+    "id": "fading_twilight",
+    "name": "落霞",
+    "type": "bow",
+    "rarity": 4
+  },
+  {
+    "id": "fang_of_the_mountain_king",
+    "name": "山の王の長牙",
+    "type": "claymore",
+    "rarity": 5
+  },
+  {
+    "id": "favonius_codex",
+    "name": "西風秘典",
+    "type": "catalyst",
+    "rarity": 4
+  },
+  {
+    "id": "favonius_greatsword",
+    "name": "西風大剣",
+    "type": "claymore",
+    "rarity": 4
+  },
+  {
+    "id": "favonius_lance",
+    "name": "西風長槍",
+    "type": "polearm",
+    "rarity": 4
+  },
+  {
+    "id": "favonius_sword",
+    "name": "西風剣",
+    "type": "sword",
+    "rarity": 4
+  },
+  {
+    "id": "favonius_warbow",
+    "name": "西風猟弓",
+    "type": "bow",
+    "rarity": 4
+  },
+  {
+    "id": "ferrous_shadow",
+    "name": "鉄影段平",
+    "type": "claymore",
+    "rarity": 3
+  },
+  {
+    "id": "festering_desire",
+    "name": "腐植の剣",
+    "type": "sword",
+    "rarity": 4
+  },
+  {
+    "id": "fillet_blade",
+    "name": "チ虎魚の刀",
+    "type": "sword",
+    "rarity": 3
+  },
+  {
+    "id": "finale_of_the_deep",
+    "name": "海淵のフィナーレ",
+    "type": "sword",
+    "rarity": 4
+  },
+  {
+    "id": "flameforged_insight",
+    "name": "知恵の溶炎",
+    "type": "claymore",
+    "rarity": 4
+  },
+  {
+    "id": "fleuve_cendre_ferryman",
+    "name": "サーンドルの渡し守",
+    "type": "sword",
+    "rarity": 4
+  },
+  {
+    "id": "flowerwreathed_feathers",
+    "name": "花飾りの羽",
+    "type": "bow",
+    "rarity": 4
+  },
+  {
+    "id": "flowing_purity",
+    "name": "純水流華",
+    "type": "catalyst",
+    "rarity": 4
+  },
+  {
+    "id": "flute_of_ezpitzal",
+    "name": "エズピツァルの笛",
+    "type": "sword",
+    "rarity": 4
+  },
+  {
+    "id": "footprint_of_the_rainbow",
+    "name": "虹の行方",
+    "type": "polearm",
+    "rarity": 4
+  },
+  {
+    "id": "forest_regalia",
+    "name": "森林のレガリア",
+    "type": "claymore",
+    "rarity": 4
+  },
+  {
+    "id": "forged_by_the_golden_melody",
+    "name": "シンフォニーの鋳影",
+    "type": "claymore",
+    "rarity": 4
+  },
+  {
+    "id": "fractured_halo",
+    "name": "砕け散る光輪",
+    "type": "polearm",
+    "rarity": 5
+  },
+  {
+    "id": "freedomsworn",
+    "name": "蒼古なる自由への誓い",
+    "type": "sword",
+    "rarity": 5
+  },
+  {
+    "id": "frostbearer",
+    "name": "冬忍びの実",
+    "type": "catalyst",
+    "rarity": 4
+  },
+  {
+    "id": "frostbreath",
+    "name": "氷の吐息",
+    "type": "polearm",
+    "rarity": 4
+  },
+  {
+    "id": "fruit_of_fulfillment",
+    "name": "満悦の実",
+    "type": "catalyst",
+    "rarity": 4
+  },
+  {
+    "id": "fruitful_hook",
+    "name": "実りの鉤鉈",
+    "type": "claymore",
+    "rarity": 4
+  },
+  {
+    "id": "gest_of_the_mighty_wolf",
+    "name": "狼の武勲詩",
+    "type": "claymore",
+    "rarity": 5
+  },
+  {
+    "id": "golden_frostbound_oath",
+    "name": "霜契の金枝",
+    "type": "bow",
+    "rarity": 5
+  },
+  {
+    "id": "hakushin_ring",
+    "name": "白辰の輪",
+    "type": "catalyst",
+    "rarity": 4
+  },
+  {
+    "id": "halberd",
+    "name": "鉾槍",
+    "type": "polearm",
+    "rarity": 3
+  },
+  {
+    "id": "hamayumi",
+    "name": "破魔の弓",
+    "type": "bow",
+    "rarity": 4
+  },
+  {
+    "id": "haran_geppaku_futsu",
+    "name": "波乱月白経津",
+    "type": "sword",
+    "rarity": 5
+  },
+  {
+    "id": "harbinger_of_dawn",
+    "name": "黎明の神剣",
+    "type": "sword",
+    "rarity": 3
+  },
+  {
+    "id": "heretics_molten_blade",
+    "name": "異端を狩る熔刃",
+    "type": "sword",
+    "rarity": 4
+  },
+  {
+    "id": "hunters_bow",
+    "name": "狩猟弓",
+    "type": "bow",
+    "rarity": 1
+  },
+  {
+    "id": "hunters_path",
+    "name": "狩人の道",
+    "type": "bow",
+    "rarity": 5
+  },
+  {
+    "id": "hymn_of_the_maelstrom",
+    "name": "旋流の讃美歌",
+    "type": "catalyst",
+    "rarity": 5
+  },
+  {
+    "id": "ibis_piercer",
+    "name": "トキの嘴",
+    "type": "bow",
+    "rarity": 4
+  },
+  {
+    "id": "iron_point",
+    "name": "鉄尖槍",
+    "type": "polearm",
+    "rarity": 2
+  },
+  {
+    "id": "iron_sting",
+    "name": "鉄蜂の刺し",
+    "type": "sword",
+    "rarity": 4
+  },
+  {
+    "id": "jade_vista",
+    "name": "千鈞懸黎",
+    "type": "bow",
+    "rarity": 4
+  },
+  {
+    "id": "jadefalls_splendor",
+    "name": "碧落の瓏",
+    "type": "catalyst",
+    "rarity": 5
+  },
+  {
+    "id": "kagotsurube_isshin",
+    "name": "籠釣瓶一心",
+    "type": "sword",
+    "rarity": 4
+  },
+  {
+    "id": "kaguras_verity",
+    "name": "神楽の真意",
+    "type": "catalyst",
+    "rarity": 5
+  },
+  {
+    "id": "katsuragikiri_nagamasa",
+    "name": "桂木斬長正",
+    "type": "claymore",
+    "rarity": 4
+  },
+  {
+    "id": "key_of_khajnisut",
+    "name": "聖顕の鍵",
+    "type": "sword",
+    "rarity": 5
+  },
+  {
+    "id": "kings_squire",
+    "name": "王の近侍",
+    "type": "bow",
+    "rarity": 4
+  },
+  {
+    "id": "kitain_cross_spear",
+    "name": "喜多院十文字槍",
+    "type": "polearm",
+    "rarity": 4
+  },
+  {
+    "id": "light_of_foliar_incision",
+    "name": "萃光の裁葉",
+    "type": "sword",
+    "rarity": 5
+  },
+  {
+    "id": "lightbearing_moonshard",
+    "name": "三日月の含光",
+    "type": "sword",
+    "rarity": 5
+  },
+  {
+    "id": "lions_roar",
+    "name": "匣中龍吟",
+    "type": "sword",
+    "rarity": 4
+  },
+  {
+    "id": "lithic_blade",
+    "name": "千岩古剣",
+    "type": "claymore",
+    "rarity": 4
+  },
+  {
+    "id": "lithic_spear",
+    "name": "千岩長槍",
+    "type": "polearm",
+    "rarity": 4
+  },
+  {
+    "id": "lost_prayer_to_the_sacred_winds",
+    "name": "四風原典",
+    "type": "catalyst",
+    "rarity": 5
+  },
+  {
+    "id": "lumidouce_elegy",
+    "name": "ルミドゥースの挽歌",
+    "type": "polearm",
+    "rarity": 5
+  },
+  {
+    "id": "luxurious_sealord",
+    "name": "銜玉の海皇",
+    "type": "claymore",
+    "rarity": 4
+  },
+  {
+    "id": "magic_guide",
+    "name": "魔導緒論",
+    "type": "catalyst",
+    "rarity": 3
+  },
+  {
+    "id": "mailed_flower",
+    "name": "鉄彩の花",
+    "type": "claymore",
+    "rarity": 4
+  },
+  {
+    "id": "makhaira_aquamarine",
+    "name": "マカイラの水色",
+    "type": "claymore",
+    "rarity": 4
+  },
+  {
+    "id": "mappa_mare",
+    "name": "万国諸海の図譜",
+    "type": "catalyst",
+    "rarity": 4
+  },
+  {
+    "id": "master_key",
+    "name": "万能の鍵",
+    "type": "claymore",
+    "rarity": 4
+  },
+  {
+    "id": "memory_of_dust",
+    "name": "浮世の錠",
+    "type": "catalyst",
+    "rarity": 5
+  },
+  {
+    "id": "messenger",
+    "name": "文使い",
+    "type": "bow",
+    "rarity": 3
+  },
+  {
+    "id": "missive_windspear",
+    "name": "風信の矛",
+    "type": "polearm",
+    "rarity": 4
+  },
+  {
+    "id": "mistsplitter_reforged",
+    "name": "霧切の廻光",
+    "type": "sword",
+    "rarity": 5
+  },
+  {
+    "id": "mitternachts_waltz",
+    "name": "幽夜のワルツ",
+    "type": "bow",
+    "rarity": 4
+  },
+  {
+    "id": "moonpiercer",
+    "name": "ムーンピアサー",
+    "type": "polearm",
+    "rarity": 4
+  },
+  {
+    "id": "moonweavers_dawn",
+    "name": "月紡ぎの曙光",
+    "type": "sword",
+    "rarity": 4
+  },
+  {
+    "id": "mountainbracing_bolt",
+    "name": "鎮山の釘",
+    "type": "polearm",
+    "rarity": 4
+  },
+  {
+    "id": "mouuns_moon",
+    "name": "曚雲の月",
+    "type": "bow",
+    "rarity": 4
+  },
+  {
+    "id": "new_bough",
+    "name": "新たなる枝",
+    "type": "sword",
+    "rarity": 4
+  },
+  {
+    "id": "nightweavers_looking_glass",
+    "name": "夜を紡ぐ天鏡",
+    "type": "catalyst",
+    "rarity": 5
+  },
+  {
+    "id": "nocturnes_curtain_call",
+    "name": "帳の夜曲",
+    "type": "catalyst",
+    "rarity": 5
+  },
+  {
+    "id": "oathsworn_eye",
+    "name": "誓いの明瞳",
+    "type": "catalyst",
+    "rarity": 4
+  },
+  {
+    "id": "old_mercs_pal",
+    "name": "傭兵の重剣",
+    "type": "claymore",
+    "rarity": 2
+  },
+  {
+    "id": "otherworldly_story",
+    "name": "異世界旅行記",
+    "type": "catalyst",
+    "rarity": 3
+  },
+  {
+    "id": "peak_patrol_song",
+    "name": "岩峰を巡る歌",
+    "type": "sword",
+    "rarity": 5
+  },
+  {
+    "id": "pocket_grimoire",
+    "name": "ポケット魔導書",
+    "type": "catalyst",
+    "rarity": 2
+  },
+  {
+    "id": "polar_star",
+    "name": "冬極の白星",
+    "type": "bow",
+    "rarity": 5
+  },
+  {
+    "id": "portable_power_saw",
+    "name": "携帯型チェーンソー",
+    "type": "claymore",
+    "rarity": 4
+  },
+  {
+    "id": "predator",
+    "name": "プレデター",
+    "type": "bow",
+    "rarity": 4
+  },
+  {
+    "id": "primordial_jade_cutter",
+    "name": "磐岩結緑",
+    "type": "sword",
+    "rarity": 5
+  },
+  {
+    "id": "primordial_jade_wingedspear",
+    "name": "和璞鳶",
+    "type": "polearm",
+    "rarity": 5
+  },
+  {
+    "id": "prospectors_drill",
+    "name": "プロスペクタードリル",
+    "type": "polearm",
+    "rarity": 4
+  },
+  {
+    "id": "prospectors_shovel",
+    "name": "金掘りのシャベル",
+    "type": "polearm",
+    "rarity": 4
+  },
+  {
+    "id": "prototype_amber",
+    "name": "金珀·試作",
+    "type": "catalyst",
+    "rarity": 4
+  },
+  {
+    "id": "prototype_archaic",
+    "name": "古華·試作",
+    "type": "claymore",
+    "rarity": 4
+  },
+  {
+    "id": "prototype_crescent",
+    "name": "澹月·試作",
+    "type": "bow",
+    "rarity": 4
+  },
+  {
+    "id": "prototype_rancour",
+    "name": "斬岩·試作",
+    "type": "sword",
+    "rarity": 4
+  },
+  {
+    "id": "prototype_starglitter",
+    "name": "星鎌·試作",
+    "type": "polearm",
+    "rarity": 4
+  },
+  {
+    "id": "rainbow_serpents_rain_bow",
+    "name": "虹蛇の雨弦",
+    "type": "bow",
+    "rarity": 4
+  },
+  {
+    "id": "rainslasher",
+    "name": "雨裁",
+    "type": "claymore",
+    "rarity": 4
+  },
+  {
+    "id": "range_gauge",
+    "name": "レンジゲージ",
+    "type": "bow",
+    "rarity": 4
+  },
+  {
+    "id": "raven_bow",
+    "name": "鴉羽の弓",
+    "type": "bow",
+    "rarity": 3
+  },
+  {
+    "id": "recurve_bow",
+    "name": "リカーブボウ",
+    "type": "bow",
+    "rarity": 3
+  },
+  {
+    "id": "redhorn_stonethresher",
+    "name": "赤角石塵滅砕",
+    "type": "claymore",
+    "rarity": 5
+  },
+  {
+    "id": "reliquary_of_truth",
+    "name": "真言の匣",
+    "type": "catalyst",
+    "rarity": 5
+  },
+  {
+    "id": "rightful_reward",
+    "name": "正義の報酬",
+    "type": "polearm",
+    "rarity": 4
+  },
+  {
+    "id": "ring_of_yaxche",
+    "name": "ヤシュチェの環",
+    "type": "catalyst",
+    "rarity": 4
+  },
+  {
+    "id": "royal_bow",
+    "name": "旧貴族長弓",
+    "type": "bow",
+    "rarity": 4
+  },
+  {
+    "id": "royal_greatsword",
+    "name": "旧貴族大剣",
+    "type": "claymore",
+    "rarity": 4
+  },
+  {
+    "id": "royal_grimoire",
+    "name": "旧貴族秘法録",
+    "type": "catalyst",
+    "rarity": 4
+  },
+  {
+    "id": "royal_longsword",
+    "name": "旧貴族長剣",
+    "type": "sword",
+    "rarity": 4
+  },
+  {
+    "id": "royal_spear",
+    "name": "旧貴族猟槍",
+    "type": "polearm",
+    "rarity": 4
+  },
+  {
+    "id": "rust",
+    "name": "弓蔵",
+    "type": "bow",
+    "rarity": 4
+  },
+  {
+    "id": "sacrificers_staff",
+    "name": "聖祭者の輝杖",
+    "type": "polearm",
+    "rarity": 4
+  },
+  {
+    "id": "sacrificial_bow",
+    "name": "祭礼の弓",
+    "type": "bow",
+    "rarity": 4
+  },
+  {
+    "id": "sacrificial_fragments",
+    "name": "祭礼の断片",
+    "type": "catalyst",
+    "rarity": 4
+  },
+  {
+    "id": "sacrificial_greatsword",
+    "name": "祭礼の大剣",
+    "type": "claymore",
+    "rarity": 4
+  },
+  {
+    "id": "sacrificial_jade",
+    "name": "古祠の瓏",
+    "type": "catalyst",
+    "rarity": 4
+  },
+  {
+    "id": "sacrificial_sword",
+    "name": "祭礼の剣",
+    "type": "sword",
+    "rarity": 4
+  },
+  {
+    "id": "sapwood_blade",
+    "name": "原木刀",
+    "type": "sword",
+    "rarity": 4
+  },
+  {
+    "id": "scion_of_the_blazing_sun",
+    "name": "烈日の後嗣",
+    "type": "bow",
+    "rarity": 4
+  },
+  {
+    "id": "seasoned_hunters_bow",
+    "name": "歴戦の狩猟弓",
+    "type": "bow",
+    "rarity": 2
+  },
+  {
+    "id": "sequence_of_solitude",
+    "name": "冷寂の音",
+    "type": "bow",
+    "rarity": 4
+  },
+  {
+    "id": "serenitys_call",
+    "name": "静謐の笛",
+    "type": "sword",
+    "rarity": 4
+  },
+  {
+    "id": "serpent_spine",
+    "name": "螭龍の剣",
+    "type": "claymore",
+    "rarity": 4
+  },
+  {
+    "id": "sharpshooters_oath",
+    "name": "シャープシューターの誓い",
+    "type": "bow",
+    "rarity": 3
+  },
+  {
+    "id": "silver_light",
+    "name": "銀灯",
+    "type": "sword",
+    "rarity": 4
+  },
+  {
+    "id": "silver_sword",
+    "name": "銀の剣",
+    "type": "sword",
+    "rarity": 2
+  },
+  {
+    "id": "silvershower_heartstrings",
+    "name": "白雨心弦",
+    "type": "bow",
+    "rarity": 5
+  },
+  {
+    "id": "skyrider_greatsword",
+    "name": "飛天大御剣",
+    "type": "claymore",
+    "rarity": 3
+  },
+  {
+    "id": "skyrider_sword",
+    "name": "飛天御剣",
+    "type": "sword",
+    "rarity": 3
+  },
+  {
+    "id": "skyward_atlas",
+    "name": "天空の巻",
+    "type": "catalyst",
+    "rarity": 5
+  },
+  {
+    "id": "skyward_blade",
+    "name": "天空の刃",
+    "type": "sword",
+    "rarity": 5
+  },
+  {
+    "id": "skyward_harp",
+    "name": "天空の翼",
+    "type": "bow",
+    "rarity": 5
+  },
+  {
+    "id": "skyward_pride",
+    "name": "天空の傲",
+    "type": "claymore",
+    "rarity": 5
+  },
+  {
+    "id": "skyward_spine",
+    "name": "天空の脊",
+    "type": "polearm",
+    "rarity": 5
+  },
+  {
+    "id": "slingshot",
+    "name": "弾弓",
+    "type": "bow",
+    "rarity": 3
+  },
+  {
+    "id": "snare_hook",
+    "name": "羅網の針",
+    "type": "bow",
+    "rarity": 4
+  },
+  {
+    "id": "snowtombed_starsilver",
+    "name": "雪葬の星銀",
+    "type": "claymore",
+    "rarity": 4
+  },
+  {
+    "id": "solar_pearl",
+    "name": "匣中日月",
+    "type": "catalyst",
+    "rarity": 4
+  },
+  {
+    "id": "song_of_broken_pines",
+    "name": "松韻の響く頃",
+    "type": "claymore",
+    "rarity": 5
+  },
+  {
+    "id": "song_of_stillness",
+    "name": "静寂の唄",
+    "type": "bow",
+    "rarity": 4
+  },
+  {
+    "id": "song_of_the_vigil",
+    "name": "遠望の歌",
+    "type": "polearm",
+    "rarity": 4
+  },
+  {
+    "id": "splendor_of_tranquil_waters",
+    "name": "静水流転の輝き",
+    "type": "sword",
+    "rarity": 5
+  },
+  {
+    "id": "staff_of_homa",
+    "name": "護摩の杖",
+    "type": "polearm",
+    "rarity": 5
+  },
+  {
+    "id": "staff_of_the_scarlet_sands",
+    "name": "赤砂の杖",
+    "type": "polearm",
+    "rarity": 5
+  },
+  {
+    "id": "starcallers_watch",
+    "name": "祭星者の眺め",
+    "type": "catalyst",
+    "rarity": 5
+  },
+  {
+    "id": "sturdy_bone",
+    "name": "ストロング・ボーン",
+    "type": "sword",
+    "rarity": 4
+  },
+  {
+    "id": "summit_shaper",
+    "name": "斬山の刃",
+    "type": "sword",
+    "rarity": 5
+  },
+  {
+    "id": "sunny_morning_sleepin",
+    "name": "寝正月の初晴",
+    "type": "catalyst",
+    "rarity": 5
+  },
+  {
+    "id": "surfs_up",
+    "name": "サーフィンタイム",
+    "type": "catalyst",
+    "rarity": 5
+  },
+  {
+    "id": "sword_of_descension",
+    "name": "降臨の剣",
+    "type": "sword",
+    "rarity": 4
+  },
+  {
+    "id": "sword_of_narzissenkreuz",
+    "name": "水仙十字の剣",
+    "type": "sword",
+    "rarity": 4
+  },
+  {
+    "id": "symphonist_of_scents",
+    "name": "香りのシンフォニスト",
+    "type": "polearm",
+    "rarity": 5
+  },
+  {
+    "id": "talking_stick",
+    "name": "話死合い棒",
+    "type": "claymore",
+    "rarity": 4
+  },
+  {
+    "id": "tamayuratei_no_ohanashi",
+    "name": "玉響停の御噺",
+    "type": "polearm",
+    "rarity": 4
+  },
+  {
+    "id": "the_alley_flash",
+    "name": "ダークアレイの閃光",
+    "type": "sword",
+    "rarity": 4
+  },
+  {
+    "id": "the_bell",
+    "name": "鐘の剣",
+    "type": "claymore",
+    "rarity": 4
+  },
+  {
+    "id": "the_black_sword",
+    "name": "黒剣",
+    "type": "sword",
+    "rarity": 4
+  },
+  {
+    "id": "the_catch",
+    "name": "「漁獲」",
+    "type": "polearm",
+    "rarity": 4
+  },
+  {
+    "id": "the_daybreak_chronicles",
+    "name": "暁を告げる歴史",
+    "type": "bow",
+    "rarity": 5
+  },
+  {
+    "id": "the_dockhands_assistant",
+    "name": "船渠剣",
+    "type": "sword",
+    "rarity": 4
+  },
+  {
+    "id": "the_first_great_magic",
+    "name": "始まりの大魔術",
+    "type": "bow",
+    "rarity": 5
+  },
+  {
+    "id": "the_flute",
+    "name": "笛の剣",
+    "type": "sword",
+    "rarity": 4
+  },
+  {
+    "id": "the_stringless",
+    "name": "絶弦",
+    "type": "bow",
+    "rarity": 4
+  },
+  {
+    "id": "the_unforged",
+    "name": "無工の剣",
+    "type": "claymore",
+    "rarity": 5
+  },
+  {
+    "id": "the_viridescent_hunt",
+    "name": "蒼翠の狩猟弓",
+    "type": "bow",
+    "rarity": 4
+  },
+  {
+    "id": "the_widsith",
+    "name": "流浪楽章",
+    "type": "catalyst",
+    "rarity": 4
+  },
+  {
+    "id": "thrilling_tales_of_dragon_slayers",
+    "name": "龍殺しの英傑譚",
+    "type": "catalyst",
+    "rarity": 3
+  },
+  {
+    "id": "thundering_pulse",
+    "name": "飛雷の鳴弦",
+    "type": "bow",
+    "rarity": 5
+  },
+  {
+    "id": "tidal_shadow",
+    "name": "タイダル·シャドー",
+    "type": "claymore",
+    "rarity": 4
+  },
+  {
+    "id": "tome_of_the_eternal_flow",
+    "name": "久遠流転の大典",
+    "type": "catalyst",
+    "rarity": 5
+  },
+  {
+    "id": "toukabou_shigure",
+    "name": "東花坊時雨",
+    "type": "sword",
+    "rarity": 4
+  },
+  {
+    "id": "travelers_handy_sword",
+    "name": "旅道の剣",
+    "type": "sword",
+    "rarity": 3
+  },
+  {
+    "id": "tulaytullahs_remembrance",
+    "name": "トゥライトゥーラの記憶",
+    "type": "catalyst",
+    "rarity": 5
+  },
+  {
+    "id": "twin_nephrite",
+    "name": "特級の宝玉",
+    "type": "catalyst",
+    "rarity": 3
+  },
+  {
+    "id": "ultimate_overlords_mega_magic_sword",
+    "name": "「スーパーアルティメット覇王魔剣」",
+    "type": "claymore",
+    "rarity": 4
+  },
+  {
+    "id": "uraku_misugiri",
+    "name": "有楽御簾切",
+    "type": "sword",
+    "rarity": 5
+  },
+  {
+    "id": "verdict",
+    "name": "裁断",
+    "type": "claymore",
+    "rarity": 5
+  },
+  {
+    "id": "vivid_notions",
+    "name": "ヴィヴィッド・ハート",
+    "type": "catalyst",
+    "rarity": 5
+  },
+  {
+    "id": "vortex_vanquisher",
+    "name": "破天の槍",
+    "type": "polearm",
+    "rarity": 5
+  },
+  {
+    "id": "wandering_evenstar",
+    "name": "彷徨える星",
+    "type": "catalyst",
+    "rarity": 4
+  },
+  {
+    "id": "waster_greatsword",
+    "name": "訓練用大剣",
+    "type": "claymore",
+    "rarity": 1
+  },
+  {
+    "id": "wavebreakers_fin",
+    "name": "斬波のひれ長",
+    "type": "polearm",
+    "rarity": 4
+  },
+  {
+    "id": "waveriding_whirl",
+    "name": "波乗りの旋回",
+    "type": "catalyst",
+    "rarity": 4
+  },
+  {
+    "id": "white_iron_greatsword",
+    "name": "白鉄の大剣",
+    "type": "claymore",
+    "rarity": 3
+  },
+  {
+    "id": "white_tassel",
+    "name": "白纓槍",
+    "type": "polearm",
+    "rarity": 3
+  },
+  {
+    "id": "whiteblind",
+    "name": "白影の剣",
+    "type": "claymore",
+    "rarity": 4
+  },
+  {
+    "id": "whitelake_frostfeather",
+    "name": "白銀の湖を舞う翼",
+    "type": "sword",
+    "rarity": 5
+  },
+  {
+    "id": "windblume_ode",
+    "name": "風花の頌歌",
+    "type": "bow",
+    "rarity": 4
+  },
+  {
+    "id": "wine_and_song",
+    "name": "ダークアレイの酒と詩",
+    "type": "catalyst",
+    "rarity": 4
+  },
+  {
+    "id": "winters_heavy_heart",
+    "name": "雪に沈む心",
+    "type": "catalyst",
+    "rarity": 4
+  },
+  {
+    "id": "wolffang",
+    "name": "狼牙",
+    "type": "sword",
+    "rarity": 4
+  },
+  {
+    "id": "wolfs_gravestone",
+    "name": "狼の末路",
+    "type": "claymore",
+    "rarity": 5
+  },
+  {
+    "id": "xiphos_moonlight",
+    "name": "サイフォスの月明かり",
+    "type": "sword",
+    "rarity": 4
+  }
+]

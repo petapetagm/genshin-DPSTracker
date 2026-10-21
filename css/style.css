@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700&display=swap');
+
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+    background-color: #0c1017;
+    background-image: 
+        radial-gradient(circle at 50% 0%, rgba(211, 188, 142, 0.08) 0%, transparent 70%),
+        radial-gradient(circle at 80% 80%, rgba(75, 200, 254, 0.04) 0%, transparent 50%);
+    color: #ece5d8;
+    min-height: 100vh;
+}
+
+/* カスタムスクロールバー */
+::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+::-webkit-scrollbar-track {
+    background: #121824;
+}
+::-webkit-scrollbar-thumb {
+    background: #2e3a52;
+    border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #d3bc8e;
+}
+
+/* 元素カラー定義 */
+.elem-pyro { border-color: #ef7a35; color: #ef7a35; }
+.bg-elem-pyro { background-color: rgba(239, 122, 53, 0.15); }
+
+.elem-hydro { border-color: #4bc8fe; color: #4bc8fe; }
+.bg-elem-hydro { background-color: rgba(75, 200, 254, 0.15); }
+
+.elem-anemo { border-color: #74e5a2; color: #74e5a2; }
+.bg-elem-anemo { background-color: rgba(116, 229, 162, 0.15); }
+
+.elem-electro { border-color: #b088e0; color: #b088e0; }
+.bg-elem-electro { background-color: rgba(176, 136, 224, 0.15); }
+
+.elem-dendro { border-color: #a5c83b; color: #a5c83b; }
+.bg-elem-dendro { background-color: rgba(165, 200, 59, 0.15); }
+
+.elem-cryo { border-color: #99d7da; color: #99d7da; }
+.bg-elem-cryo { background-color: rgba(153, 215, 218, 0.15); }
+
+.elem-geo { border-color: #fab733; color: #fab733; }
+.bg-elem-geo { background-color: rgba(250, 183, 51, 0.15); }
+
+/* 原神風ゴールドボーダー・カードグラデーション */
+.genshin-card {
+    background: linear-gradient(145deg, #1e2638 0%, #151c2a 100%);
+    border: 1px solid #2e3a52;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+    transition: all 0.25s ease;
+}
+.genshin-card:hover {
+    border-color: rgba(211, 188, 142, 0.5);
+    transform: translateY(-2px);
+}
+
+.genshin-btn-primary {
+    background: linear-gradient(135deg, #d3bc8e 0%, #a88d57 100%);
+    color: #121824;
+    font-weight: 700;
+    box-shadow: 0 2px 10px rgba(211, 188, 142, 0.3);
+    transition: all 0.2s ease;
+}
+.genshin-btn-primary:hover {
+    background: linear-gradient(135deg, #e5cfa3 0%, #bd9f66 100%);
+    box-shadow: 0 4px 15px rgba(211, 188, 142, 0.5);
+}
+
+/* キャラクターアイコン枠のレアリティ装飾 */
+.rarity-5 {
+    background: linear-gradient(180deg, rgba(177,100,26,0.3) 0%, rgba(203,149,69,0.7) 100%);
+    border-bottom: 3px solid #f3ba63;
+}
+.rarity-4 {
+    background: linear-gradient(180deg, rgba(90,75,133,0.3) 0%, rgba(141,114,196,0.7) 100%);
+    border-bottom: 3px solid #a283e8;
+}
+
+.build-toggle {
+    border: 1px solid #334155;
+    background: rgba(15, 23, 42, 0.85);
+    color: #cbd5e1;
+    border-radius: 0.35rem;
+    padding: 0.3rem 0.45rem;
+    font-size: 0.7rem;
+    line-height: 1.2;
+    transition: all .15s ease;
+}
+.build-toggle.active {
+    background: rgba(217, 119, 6, 0.22);
+    color: #fcd34d;
+    border-color: rgba(251, 191, 36, 0.85);
+    box-shadow: inset 0 0 0 1px rgba(251, 191, 36, 0.12);
+}
+.rank-number {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 1.65rem;
+    height: 1.65rem;
+    border-radius: 9999px;
+    border: 1px solid rgba(148,163,184,.35);
+    background: rgba(15,23,42,.8);
+    color: #cbd5e1;
+    font-size: .7rem;
+    font-weight: 700;
+}
+
+/* ランクバッジ */
+.top-dps-badge {
+    background: linear-gradient(90deg, #f59e0b, #d97706);
+    clip-path: polygon(0 0, 100% 0, 85% 100%, 0% 100%);
+}

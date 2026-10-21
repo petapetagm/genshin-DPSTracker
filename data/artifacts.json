@@ -1,0 +1,317 @@
+[
+  {
+    "id": "a_day_carved_from_rising_winds",
+    "name": "風立ちの日",
+    "rarity": 5
+  },
+  {
+    "id": "adventurer",
+    "name": "冒険者",
+    "rarity": 3
+  },
+  {
+    "id": "archaic_petra",
+    "name": "悠久の磐岩",
+    "rarity": 5
+  },
+  {
+    "id": "aubade_of_morningstar_and_moon",
+    "name": "暁の星と月の歌",
+    "rarity": 5
+  },
+  {
+    "id": "berserker",
+    "name": "狂戦士",
+    "rarity": 4
+  },
+  {
+    "id": "blizzard_strayer",
+    "name": "氷風を彷徨う勇士",
+    "rarity": 5
+  },
+  {
+    "id": "bloodstained_chivalry",
+    "name": "血染めの騎士道",
+    "rarity": 5
+  },
+  {
+    "id": "brave_heart",
+    "name": "勇士の心",
+    "rarity": 4
+  },
+  {
+    "id": "celestial_gift",
+    "name": "天からの贈り物",
+    "rarity": 5
+  },
+  {
+    "id": "crimson_witch_of_flames",
+    "name": "燃え盛る炎の魔女",
+    "rarity": 5
+  },
+  {
+    "id": "deepwood_memories",
+    "name": "深林の記憶",
+    "rarity": 5
+  },
+  {
+    "id": "defenders_will",
+    "name": "守護の心",
+    "rarity": 4
+  },
+  {
+    "id": "desert_pavilion_chronicle",
+    "name": "砂上の楼閣の史話",
+    "rarity": 5
+  },
+  {
+    "id": "disenchantment_in_deep_shadow",
+    "name": "影に沈む幻",
+    "rarity": 5
+  },
+  {
+    "id": "echoes_of_an_offering",
+    "name": "来歆の余響",
+    "rarity": 5
+  },
+  {
+    "id": "emblem_of_severed_fate",
+    "name": "絶縁の旗印",
+    "rarity": 5
+  },
+  {
+    "id": "finale_of_the_deep_galleries",
+    "name": "深廊の終曲",
+    "rarity": 5
+  },
+  {
+    "id": "flower_of_paradise_lost",
+    "name": "楽園の絶花",
+    "rarity": 5
+  },
+  {
+    "id": "fragment_of_harmonic_whimsy",
+    "name": "諧律奇想の断章",
+    "rarity": 5
+  },
+  {
+    "id": "gambler",
+    "name": "博徒",
+    "rarity": 4
+  },
+  {
+    "id": "gilded_dreams",
+    "name": "金メッキの夢",
+    "rarity": 5
+  },
+  {
+    "id": "gladiators_finale",
+    "name": "剣闘士のフィナーレ",
+    "rarity": 5
+  },
+  {
+    "id": "golden_troupe",
+    "name": "黄金の劇団",
+    "rarity": 5
+  },
+  {
+    "id": "heart_of_depth",
+    "name": "沈淪の心",
+    "rarity": 5
+  },
+  {
+    "id": "heart_of_the_furnace",
+    "name": "炉炎溶錬の心",
+    "rarity": 5
+  },
+  {
+    "id": "husk_of_opulent_dreams",
+    "name": "華館夢醒形骸記",
+    "rarity": 5
+  },
+  {
+    "id": "instructor",
+    "name": "教官",
+    "rarity": 4
+  },
+  {
+    "id": "lavawalker",
+    "name": "烈火を渡る賢者",
+    "rarity": 5
+  },
+  {
+    "id": "long_nights_oath",
+    "name": "長き夜の誓い",
+    "rarity": 5
+  },
+  {
+    "id": "lucky_dog",
+    "name": "幸運",
+    "rarity": 3
+  },
+  {
+    "id": "maiden_beloved",
+    "name": "愛される少女",
+    "rarity": 5
+  },
+  {
+    "id": "marechaussee_hunter",
+    "name": "ファントムハンター",
+    "rarity": 5
+  },
+  {
+    "id": "martial_artist",
+    "name": "武人",
+    "rarity": 4
+  },
+  {
+    "id": "night_of_the_skys_unveiling",
+    "name": "天穹の顕現せし夜",
+    "rarity": 5
+  },
+  {
+    "id": "nighttime_whispers_in_the_echoing_woods",
+    "name": "残響の森で囁かれる夜話",
+    "rarity": 5
+  },
+  {
+    "id": "noblesse_oblige",
+    "name": "旧貴族のしつけ",
+    "rarity": 5
+  },
+  {
+    "id": "nymphs_dream",
+    "name": "水仙の夢",
+    "rarity": 5
+  },
+  {
+    "id": "obsidian_codex",
+    "name": "黒曜の秘典",
+    "rarity": 5
+  },
+  {
+    "id": "oceanhued_clam",
+    "name": "海染硨磲",
+    "rarity": 5
+  },
+  {
+    "id": "pale_flame",
+    "name": "蒼白の炎",
+    "rarity": 5
+  },
+  {
+    "id": "prayers_for_destiny",
+    "name": "水祭りの人",
+    "rarity": 4
+  },
+  {
+    "id": "prayers_for_illumination",
+    "name": "火祭りの人",
+    "rarity": 4
+  },
+  {
+    "id": "prayers_for_wisdom",
+    "name": "雷祭りの人",
+    "rarity": 4
+  },
+  {
+    "id": "prayers_to_springtime",
+    "name": "氷祭りの人",
+    "rarity": 4
+  },
+  {
+    "id": "resolution_of_sojourner",
+    "name": "旅人の心",
+    "rarity": 4
+  },
+  {
+    "id": "retracing_bolide",
+    "name": "逆飛びの流星",
+    "rarity": 5
+  },
+  {
+    "id": "scarlet_proof",
+    "name": "紅血の証",
+    "rarity": 5
+  },
+  {
+    "id": "scholar",
+    "name": "学者",
+    "rarity": 4
+  },
+  {
+    "id": "scroll_of_the_hero_of_cinder_city",
+    "name": "灰燼の都に立つ英雄の絵巻",
+    "rarity": 5
+  },
+  {
+    "id": "shimenawas_reminiscence",
+    "name": "追憶のしめ縄",
+    "rarity": 5
+  },
+  {
+    "id": "silken_moons_serenade",
+    "name": "月を紡ぐ夜の歌",
+    "rarity": 5
+  },
+  {
+    "id": "song_of_days_past",
+    "name": "在りし日の歌",
+    "rarity": 5
+  },
+  {
+    "id": "tenacity_of_the_millelith",
+    "name": "千岩牢固",
+    "rarity": 5
+  },
+  {
+    "id": "the_exile",
+    "name": "亡命者",
+    "rarity": 4
+  },
+  {
+    "id": "thundering_fury",
+    "name": "雷のような怒り",
+    "rarity": 5
+  },
+  {
+    "id": "thundersoother",
+    "name": "雷を鎮める尊者",
+    "rarity": 5
+  },
+  {
+    "id": "tiny_miracle",
+    "name": "奇跡",
+    "rarity": 4
+  },
+  {
+    "id": "traveling_doctor",
+    "name": "医者",
+    "rarity": 3
+  },
+  {
+    "id": "unfinished_reverie",
+    "name": "遂げられなかった想い",
+    "rarity": 5
+  },
+  {
+    "id": "vermillion_hereafter",
+    "name": "辰砂往生録",
+    "rarity": 5
+  },
+  {
+    "id": "viridescent_venerer",
+    "name": "翠緑の影",
+    "rarity": 5
+  },
+  {
+    "id": "vourukashas_glow",
+    "name": "花海甘露の光",
+    "rarity": 5
+  },
+  {
+    "id": "wanderers_troupe",
+    "name": "大地を流浪する楽団",
+    "rarity": 5
+  }
+]

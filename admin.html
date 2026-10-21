@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>データ追加 | DPS Tracker</title>
+    <link rel="stylesheet" href="css/admin.css">
+</head>
+<body>
+    <main>
+        <h1>データ追加 <small>キャラ・武器・聖遺物をJSONに追加</small></h1>
+
+        <section class="bar">
+            <button id="pickFolderBtn" type="button">プロジェクトフォルダを選択（直接保存）</button>
+            <button id="saveBtn" type="button" class="primary">保存</button>
+            <span id="status"></span>
+        </section>
+
+        <nav id="tabs"></nav>
+
+        <section id="formPanel" class="panel" hidden>
+            <h2 id="formTitle"></h2>
+            <form id="entryForm"></form>
+            <p id="formError" class="error"></p>
+            <div id="result" hidden>
+                <p class="hint">追加したデータ（JSON形式）。「保存」を押すと data/ のJSONに書き込まれます。</p>
+                <pre id="jsonPreview"></pre>
+                <button id="copyJson" type="button">コピー</button>
+            </div>
+        </section>
+
+        <details class="panel">
+            <summary>登録済みデータを見る・編集・削除</summary>
+            <div class="row">
+                <h2 id="listTitle"></h2>
+                <input id="listSearch" type="search" placeholder="検索...">
+            </div>
+            <div class="scroll"><table id="listTable"></table></div>
+        </details>
+    </main>
+    <script src="js/admin.js"></script>
+</body>
+</html>
