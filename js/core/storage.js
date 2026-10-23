@@ -92,22 +92,132 @@ function initSampleDataIfNeeded() {
     // サンプルデータ
     teams = [
         {
-            id: 'sample-1',
-            name: 'ヴェスナ凍結パーティ',
-            charIds: ['vesna', 'vodyanitsa', 'odette', 'skirk'],
-            rotationTime: 20,
-            dps: 92500,
-            notes: 'ヴェスナEQで拡散 -> ヴォジャニーツァEで水付着 -> スカークで氷共鳴バフ -> オデット重撃ループ。',
-            updatedAt: new Date().toISOString()
+            "id": "team-1792739653779",
+            "name": "スカーク・凍結",
+            "charIds": [
+                "skirk",
+                "furina",
+                "escoffier",
+                "vodyanitsa"
+            ],
+            "builds": [
+                {
+                    "artifact": "深廊の終曲 4セット",
+                    "artifactSets": [
+                        {
+                            "name": "深廊の終曲",
+                            "pieces": 4
+                        }
+                    ],
+                    "weapon": "蒼耀",
+                    "constellation": 0,
+                    "refinement": 1
+                },
+                {
+                    "artifact": "灰燼の都に立つ英雄の絵巻 4セット",
+                    "artifactSets": [
+                        {
+                            "name": "灰燼の都に立つ英雄の絵巻",
+                            "pieces": 4
+                        }
+                    ],
+                    "weapon": "西風剣",
+                    "constellation": 0,
+                    "refinement": 5
+                },
+                {
+                    "artifact": "黄金の劇団 4セット",
+                    "artifactSets": [
+                        {
+                            "name": "黄金の劇団",
+                            "pieces": 4
+                        }
+                    ],
+                    "weapon": "西風長槍",
+                    "constellation": 0,
+                    "refinement": 5
+                },
+                {
+                    "artifact": "千岩牢固 4セット",
+                    "artifactSets": [
+                        {
+                            "name": "千岩牢固",
+                            "pieces": 4
+                        }
+                    ],
+                    "weapon": "龍殺しの英傑譚",
+                    "constellation": 0,
+                    "refinement": 5
+                }
+            ],
+            "rotationTime": 20,
+            "dps": 170000,
+            "notes": "フリーナEQ->エスコフィエEQ->ヴォジャE->スカーク\nスカーク:E N5Q N5D N5D N2C N5",
+            "updatedAt": "2026-10-23T07:14:13.779Z"
         },
         {
-            id: 'sample-2',
-            name: 'ニコ過熱パーティ',
-            charIds: ['nicole', 'nefer', 'durin', 'ineffa'],
-            rotationTime: 18,
-            dps: 78889,
-            notes: 'ネフェル草付着からニコの炎元素追撃を発動させる高回転編成。',
-            updatedAt: new Date(Date.now() - 86400000).toISOString()
+            "id": "team-1792739441760",
+            "name": "ヴェスナ・星拡散",
+            "charIds": [
+                "vesna",
+                "faruzan",
+                "odette",
+                "vodyanitsa"
+            ],
+            "builds": [
+                {
+                    "artifact": "紅血の証 4セット",
+                    "artifactSets": [
+                        {
+                            "name": "紅血の証",
+                            "pieces": 4
+                        }
+                    ],
+                    "weapon": "蝶の羽化",
+                    "constellation": 0,
+                    "refinement": 1
+                },
+                {
+                    "artifact": "翠緑の影 4セット",
+                    "artifactSets": [
+                        {
+                            "name": "翠緑の影",
+                            "pieces": 4
+                        }
+                    ],
+                    "weapon": "西風猟弓",
+                    "constellation": 6,
+                    "refinement": 5
+                },
+                {
+                    "artifact": "炉炎溶錬の心 4セット",
+                    "artifactSets": [
+                        {
+                            "name": "炉炎溶錬の心",
+                            "pieces": 4
+                        }
+                    ],
+                    "weapon": "新たなる枝",
+                    "constellation": 0,
+                    "refinement": 5
+                },
+                {
+                    "artifact": "千岩牢固 4セット",
+                    "artifactSets": [
+                        {
+                            "name": "千岩牢固",
+                            "pieces": 4
+                        }
+                    ],
+                    "weapon": "龍殺しの英傑譚",
+                    "constellation": 0,
+                    "refinement": 5
+                }
+            ],
+            "rotationTime": 20,
+            "dps": 200000,
+            "notes": "ファルザンQ->オデット(Q)E->ヴォジャE->ヴェスナE3 Q",
+            "updatedAt": "2026-10-23T07:10:41.760Z"
         }
     ];
     saveTeamsToStorage();
