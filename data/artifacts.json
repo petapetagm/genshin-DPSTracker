@@ -6,12 +6,6 @@
         "icon": "images/artifact/風立ちの日.webp"
     },
     {
-        "id": "adventurer",
-        "name": "冒険者",
-        "rarity": 3,
-        "icon": "images/artifact/冒険者.webp"
-    },
-    {
         "id": "archaic_petra",
         "name": "悠久の磐岩",
         "rarity": 5,
@@ -24,12 +18,6 @@
         "icon": "images/artifact/暁の星と月の歌.webp"
     },
     {
-        "id": "berserker",
-        "name": "狂戦士",
-        "rarity": 4,
-        "icon": "images/artifact/狂戦士.webp"
-    },
-    {
         "id": "blizzard_strayer",
         "name": "氷風を彷徨う勇士",
         "rarity": 5,
@@ -40,12 +28,6 @@
         "name": "血染めの騎士道",
         "rarity": 5,
         "icon": "images/artifact/血染めの騎士道.webp"
-    },
-    {
-        "id": "brave_heart",
-        "name": "勇士の心",
-        "rarity": 4,
-        "icon": "images/artifact/勇士の心.webp"
     },
     {
         "id": "celestial_gift",
@@ -64,12 +46,6 @@
         "name": "深林の記憶",
         "rarity": 5,
         "icon": "images/artifact/深林の記憶.webp"
-    },
-    {
-        "id": "defenders_will",
-        "name": "守護の心",
-        "rarity": 4,
-        "icon": "images/artifact/守護の心.webp"
     },
     {
         "id": "desert_pavilion_chronicle",
@@ -174,12 +150,6 @@
         "icon": "images/artifact/長き夜の誓い.webp"
     },
     {
-        "id": "lucky_dog",
-        "name": "幸運",
-        "rarity": 3,
-        "icon": "images/artifact/幸運.webp"
-    },
-    {
         "id": "maiden_beloved",
         "name": "愛される少女",
         "rarity": 5,
@@ -190,12 +160,6 @@
         "name": "ファントムハンター",
         "rarity": 5,
         "icon": "images/artifact/ファントムハンター.webp"
-    },
-    {
-        "id": "martial_artist",
-        "name": "武人",
-        "rarity": 4,
-        "icon": "images/artifact/武人.webp"
     },
     {
         "id": "night_of_the_skys_unveiling",
@@ -240,36 +204,6 @@
         "icon": "images/artifact/蒼白の炎.webp"
     },
     {
-        "id": "prayers_for_destiny",
-        "name": "水祭りの人",
-        "rarity": 4,
-        "icon": "images/artifact/水祭りの人.webp"
-    },
-    {
-        "id": "prayers_for_illumination",
-        "name": "火祭りの人",
-        "rarity": 4,
-        "icon": "images/artifact/火祭りの人.webp"
-    },
-    {
-        "id": "prayers_for_wisdom",
-        "name": "雷祭りの人",
-        "rarity": 4,
-        "icon": "images/artifact/雷祭りの人.webp"
-    },
-    {
-        "id": "prayers_to_springtime",
-        "name": "氷祭りの人",
-        "rarity": 4,
-        "icon": "images/artifact/氷祭りの人.webp"
-    },
-    {
-        "id": "resolution_of_sojourner",
-        "name": "旅人の心",
-        "rarity": 4,
-        "icon": "images/artifact/旅人の心.webp"
-    },
-    {
         "id": "retracing_bolide",
         "name": "逆飛びの流星",
         "rarity": 5,
@@ -280,12 +214,6 @@
         "name": "紅血の証",
         "rarity": 5,
         "icon": "images/artifact/紅血の証.webp"
-    },
-    {
-        "id": "scholar",
-        "name": "学者",
-        "rarity": 4,
-        "icon": "images/artifact/学者.webp"
     },
     {
         "id": "scroll_of_the_hero_of_cinder_city",
@@ -334,18 +262,6 @@
         "name": "雷を鎮める尊者",
         "rarity": 5,
         "icon": "images/artifact/雷を鎮める尊者.webp"
-    },
-    {
-        "id": "tiny_miracle",
-        "name": "奇跡",
-        "rarity": 4,
-        "icon": "images/artifact/奇跡.webp"
-    },
-    {
-        "id": "traveling_doctor",
-        "name": "医者",
-        "rarity": 3,
-        "icon": "images/artifact/医者.webp"
     },
     {
         "id": "unfinished_reverie",
