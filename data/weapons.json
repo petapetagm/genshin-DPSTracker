@@ -1,1766 +1,1762 @@
 [
-    {
-        "id": "a_teaspoon_of_transcendence",
-        "name": "超越の鍵",
-        "type": "claymore",
-        "rarity": 5,
-        "icon": "images/weapon/claymore/超越の鍵.webp"
-    },
-    {
-        "id": "a_thousand_blazing_suns",
-        "name": "千烈の日輪",
-        "type": "claymore",
-        "rarity": 5,
-        "icon": "images/weapon/claymore/千烈の日輪.webp"
-    },
-    {
-        "id": "a_thousand_floating_dreams",
-        "name": "千夜に浮かぶ夢",
-        "type": "catalyst",
-        "rarity": 5,
-        "icon": "images/weapon/catalyst/千夜に浮かぶ夢.webp"
-    },
-    {
-        "id": "absolution",
-        "name": "赦罪",
-        "type": "sword",
-        "rarity": 5,
-        "icon": "images/weapon/sword/赦罪.webp"
-    },
-    {
-        "id": "akuoumaru",
-        "name": "惡王丸",
-        "type": "claymore",
-        "rarity": 4,
-        "icon": "images/weapon/claymore/惡王丸.webp"
-    },
-    {
-        "id": "alley_hunter",
-        "name": "ダークアレイの狩人",
-        "type": "bow",
-        "rarity": 4,
-        "icon": "images/weapon/bow/ダークアレイの狩人.webp"
-    },
-    {
-        "id": "amenoma_kageuchi",
-        "name": "天目影打",
-        "type": "sword",
-        "rarity": 4,
-        "icon": "images/weapon/sword/天目影打.webp"
-    },
-    {
-        "id": "amos_bow",
-        "name": "アモスの弓",
-        "type": "bow",
-        "rarity": 5,
-        "icon": "images/weapon/bow/アモスの弓.webp"
-    },
-    {
-        "id": "angelos_heptades",
-        "name": "塵と光の七つの誓約",
-        "type": "catalyst",
-        "rarity": 5,
-        "icon": "images/weapon/catalyst/塵と光の七つの誓約.webp"
-    },
-    {
-        "id": "apprentices_notes",
-        "name": "生徒ノート",
-        "type": "catalyst",
-        "rarity": 1,
-        "icon": "images/weapon/catalyst/生徒ノート.webp"
-    },
-    {
-        "id": "aqua_simulacra",
-        "name": "若水",
-        "type": "bow",
-        "rarity": 5,
-        "icon": "images/weapon/bow/若水.webp"
-    },
-    {
-        "id": "aquila_favonia",
-        "name": "風鷹剣",
-        "type": "sword",
-        "rarity": 5,
-        "icon": "images/weapon/sword/風鷹剣.webp"
-    },
-    {
-        "id": "ashgraven_drinking_horn",
-        "name": "蒼紋の角杯",
-        "type": "catalyst",
-        "rarity": 4,
-        "icon": "images/weapon/catalyst/蒼紋の角杯.webp"
-    },
-    {
-        "id": "astral_vultures_crimson_plumage",
-        "name": "星鷲の紅き羽",
-        "type": "bow",
-        "rarity": 5,
-        "icon": "images/weapon/bow/星鷲の紅き羽.webp"
-    },
-    {
-        "id": "athame_artis",
-        "name": "黒蝕",
-        "type": "sword",
-        "rarity": 5,
-        "icon": "images/weapon/sword/黒蝕.webp"
-    },
-    {
-        "id": "azurelight",
-        "name": "蒼耀",
-        "type": "sword",
-        "rarity": 5,
-        "icon": "images/weapon/sword/蒼耀.webp"
-    },
-    {
-        "id": "ballad_of_the_boundless_blue",
-        "name": "果てなき紺碧の唄",
-        "type": "catalyst",
-        "rarity": 4,
-        "icon": "images/weapon/catalyst/果てなき紺碧の唄.webp"
-    },
-    {
-        "id": "ballad_of_the_fjords",
-        "name": "フィヨルドの歌",
-        "type": "polearm",
-        "rarity": 4,
-        "icon": "images/weapon/polearm/フィヨルドの歌.webp"
-    },
-    {
-        "id": "beacon_of_the_reed_sea",
-        "name": "葦海の標",
-        "type": "claymore",
-        "rarity": 5,
-        "icon": "images/weapon/claymore/葦海の標.webp"
-    },
-    {
-        "id": "beginners_protector",
-        "name": "新米の長槍",
-        "type": "polearm",
-        "rarity": 1,
-        "icon": "images/weapon/polearm/新米の長槍.webp"
-    },
-    {
-        "id": "beyond_the_chrysalis",
-        "name": "蝶の羽化",
-        "type": "sword",
-        "rarity": 5,
-        "icon": "images/weapon/sword/蝶の羽化.webp"
-    },
-    {
-        "id": "black_tassel",
-        "name": "黒纓槍",
-        "type": "polearm",
-        "rarity": 3,
-        "icon": "images/weapon/polearm/黒纓槍.webp"
-    },
-    {
-        "id": "blackcliff_agate",
-        "name": "黒岩の緋玉",
-        "type": "catalyst",
-        "rarity": 4,
-        "icon": "images/weapon/catalyst/黒岩の緋玉.webp"
-    },
-    {
-        "id": "blackcliff_longsword",
-        "name": "黒岩の長剣",
-        "type": "sword",
-        "rarity": 4,
-        "icon": "images/weapon/sword/黒岩の長剣.webp"
-    },
-    {
-        "id": "blackcliff_pole",
-        "name": "黒岩の突槍",
-        "type": "polearm",
-        "rarity": 4,
-        "icon": "images/weapon/polearm/黒岩の突槍.webp"
-    },
-    {
-        "id": "blackcliff_slasher",
-        "name": "黒岩の斬刀",
-        "type": "claymore",
-        "rarity": 4,
-        "icon": "images/weapon/claymore/黒岩の斬刀.webp"
-    },
-    {
-        "id": "blackcliff_warbow",
-        "name": "黒岩の戦弓",
-        "type": "bow",
-        "rarity": 4,
-        "icon": "images/weapon/bow/黒岩の戦弓.webp"
-    },
-    {
-        "id": "blackmarrow_lantern",
-        "name": "烏髄の孤灯",
-        "type": "catalyst",
-        "rarity": 4,
-        "icon": "images/weapon/catalyst/烏髄の孤灯.webp"
-    },
-    {
-        "id": "blade_of_atonement",
-        "name": "救済の剣",
-        "type": "claymore",
-        "rarity": 4,
-        "icon": "images/weapon/claymore/救済の剣.webp"
-    },
-    {
-        "id": "bloodsoaked_ruins",
-        "name": "血染めの荒れ地",
-        "type": "polearm",
-        "rarity": 5,
-        "icon": "images/weapon/polearm/血染めの荒れ地.webp"
-    },
-    {
-        "id": "bloodtainted_greatsword",
-        "name": "龍血を浴びた剣",
-        "type": "claymore",
-        "rarity": 3,
-        "icon": "images/weapon/claymore/龍血を浴びた剣.webp"
-    },
-    {
-        "id": "breezeborne_refrain",
-        "name": "風に遊ぶ弦",
-        "type": "bow",
-        "rarity": 4,
-        "icon": "images/weapon/bow/風に遊ぶ弦.webp"
-    },
-    {
-        "id": "calamity_of_eshu",
-        "name": "厄水の災い",
-        "type": "sword",
-        "rarity": 4,
-        "icon": "images/weapon/sword/厄水の災い.webp"
-    },
-    {
-        "id": "calamity_queller",
-        "name": "息災",
-        "type": "polearm",
-        "rarity": 5,
-        "icon": "images/weapon/polearm/息災.webp"
-    },
-    {
-        "id": "cashflow_supervision",
-        "name": "凛流の監視者",
-        "type": "catalyst",
-        "rarity": 5,
-        "icon": "images/weapon/catalyst/凛流の監視者.webp"
-    },
-    {
-        "id": "chain_breaker",
-        "name": "チェーンブレイカー",
-        "type": "bow",
-        "rarity": 4,
-        "icon": "images/weapon/bow/チェーンブレイカー.webp"
-    },
-    {
-        "id": "cinnabar_spindle",
-        "name": "シナバースピンドル",
-        "type": "sword",
-        "rarity": 4,
-        "icon": "images/weapon/sword/シナバースピンドル.webp"
-    },
-    {
-        "id": "clash_of_kings",
-        "name": "諸王の対局",
-        "type": "catalyst",
-        "rarity": 4,
-        "icon": "images/weapon/catalyst/諸王の対局.webp"
-    },
-    {
-        "id": "cloudforged",
-        "name": "築雲",
-        "type": "bow",
-        "rarity": 4,
-        "icon": "images/weapon/bow/築雲.webp"
-    },
-    {
-        "id": "compound_bow",
-        "name": "リングボウ",
-        "type": "bow",
-        "rarity": 4,
-        "icon": "images/weapon/bow/リングボウ.webp"
-    },
-    {
-        "id": "cool_steel",
-        "name": "冷刃",
-        "type": "sword",
-        "rarity": 3,
-        "icon": "images/weapon/sword/冷刃.webp"
-    },
-    {
-        "id": "covenant_of_frost_and_snow",
-        "name": "霜雪の契",
-        "type": "bow",
-        "rarity": 4,
-        "icon": "images/weapon/bow/霜雪の契.webp"
-    },
-    {
-        "id": "cranes_echoing_call",
-        "name": "鶴鳴の余韻",
-        "type": "catalyst",
-        "rarity": 5,
-        "icon": "images/weapon/catalyst/鶴鳴の余韻.webp"
-    },
-    {
-        "id": "crescent_pike",
-        "name": "流月の針",
-        "type": "polearm",
-        "rarity": 4,
-        "icon": "images/weapon/polearm/流月の針.webp"
-    },
-    {
-        "id": "crimson_moons_semblance",
-        "name": "赤月のシルエット",
-        "type": "polearm",
-        "rarity": 5,
-        "icon": "images/weapon/polearm/赤月のシルエット.webp"
-    },
-    {
-        "id": "dark_iron_sword",
-        "name": "暗鉄剣",
-        "type": "sword",
-        "rarity": 3,
-        "icon": "images/weapon/sword/暗鉄剣.webp"
-    },
-    {
-        "id": "dawning_frost",
-        "name": "霜辰",
-        "type": "catalyst",
-        "rarity": 4,
-        "icon": "images/weapon/catalyst/霜辰.webp"
-    },
-    {
-        "id": "deathmatch",
-        "name": "死闘の槍",
-        "type": "polearm",
-        "rarity": 4,
-        "icon": "images/weapon/polearm/死闘の槍.webp"
-    },
-    {
-        "id": "debate_club",
-        "name": "理屈責め",
-        "type": "claymore",
-        "rarity": 3,
-        "icon": "images/weapon/claymore/理屈責め.webp"
-    },
-    {
-        "id": "dialogues_of_the_desert_sages",
-        "name": "砂中の賢者達の問答",
-        "type": "polearm",
-        "rarity": 4,
-        "icon": "images/weapon/polearm/砂中の賢者達の問答.webp"
-    },
-    {
-        "id": "disaster_and_remorse",
-        "name": "災憾",
-        "type": "polearm",
-        "rarity": 5,
-        "icon": "images/weapon/polearm/災憾.webp"
-    },
-    {
-        "id": "dodoco_tales",
-        "name": "ドドコの物語",
-        "type": "catalyst",
-        "rarity": 4,
-        "icon": "images/weapon/catalyst/ドドコの物語.webp"
-    },
-    {
-        "id": "dragons_bane",
-        "name": "匣中滅龍",
-        "type": "polearm",
-        "rarity": 4,
-        "icon": "images/weapon/polearm/匣中滅龍.webp"
-    },
-    {
-        "id": "dragonspine_spear",
-        "name": "ドラゴンスピア",
-        "type": "polearm",
-        "rarity": 4,
-        "icon": "images/weapon/polearm/ドラゴンスピア.webp"
-    },
-    {
-        "id": "dull_blade",
-        "name": "無鋒の剣",
-        "type": "sword",
-        "rarity": 1,
-        "icon": "images/weapon/sword/無鋒の剣.webp"
-    },
-    {
-        "id": "earth_shaker",
-        "name": "アースシェイカー",
-        "type": "claymore",
-        "rarity": 4,
-        "icon": "images/weapon/claymore/アースシェイカー.webp"
-    },
-    {
-        "id": "echoes_of_the_heart",
-        "name": "胸中の谺",
-        "type": "catalyst",
-        "rarity": 4,
-        "icon": "images/weapon/catalyst/胸中の谺.webp"
-    },
-    {
-        "id": "elegy_for_the_end",
-        "name": "終焉を嘆く詩",
-        "type": "bow",
-        "rarity": 5,
-        "icon": "images/weapon/bow/終焉を嘆く詩.webp"
-    },
-    {
-        "id": "emberwell",
-        "name": "導炎の源",
-        "type": "sword",
-        "rarity": 4,
-        "icon": "images/weapon/sword/導炎の源.webp"
-    },
-    {
-        "id": "emerald_orb",
-        "name": "翡玉法珠",
-        "type": "catalyst",
-        "rarity": 3,
-        "icon": "images/weapon/catalyst/翡玉法珠.webp"
-    },
-    {
-        "id": "end_of_the_line",
-        "name": "竭沢",
-        "type": "bow",
-        "rarity": 4,
-        "icon": "images/weapon/bow/竭沢.webp"
-    },
-    {
-        "id": "engulfing_lightning",
-        "name": "草薙の稲光",
-        "type": "polearm",
-        "rarity": 5,
-        "icon": "images/weapon/polearm/草薙の稲光.webp"
-    },
-    {
-        "id": "etherlight_spindlelute",
-        "name": "天光のリュート",
-        "type": "catalyst",
-        "rarity": 4,
-        "icon": "images/weapon/catalyst/天光のリュート.webp"
-    },
-    {
-        "id": "everlasting_moonglow",
-        "name": "不滅の月華",
-        "type": "catalyst",
-        "rarity": 5,
-        "icon": "images/weapon/catalyst/不滅の月華.webp"
-    },
-    {
-        "id": "exaiphanes_blade",
-        "name": "星鋒の剣",
-        "type": "sword",
-        "rarity": 5,
-        "icon": "images/weapon/sword/星鋒の剣.webp"
-    },
-    {
-        "id": "eye_of_perception",
-        "name": "昭心",
-        "type": "catalyst",
-        "rarity": 4,
-        "icon": "images/weapon/catalyst/昭心.webp"
-    },
-    {
-        "id": "fading_twilight",
-        "name": "落霞",
-        "type": "bow",
-        "rarity": 4,
-        "icon": "images/weapon/bow/落霞.webp"
-    },
-    {
-        "id": "fang_of_the_mountain_king",
-        "name": "山の王の長牙",
-        "type": "claymore",
-        "rarity": 5,
-        "icon": "images/weapon/claymore/山の王の長牙.webp"
-    },
-    {
-        "id": "favonius_codex",
-        "name": "西風秘典",
-        "type": "catalyst",
-        "rarity": 4,
-        "icon": "images/weapon/catalyst/西風秘典.webp"
-    },
-    {
-        "id": "favonius_greatsword",
-        "name": "西風大剣",
-        "type": "claymore",
-        "rarity": 4,
-        "icon": "images/weapon/claymore/西風大剣.webp"
-    },
-    {
-        "id": "favonius_lance",
-        "name": "西風長槍",
-        "type": "polearm",
-        "rarity": 4,
-        "icon": "images/weapon/polearm/西風長槍.webp"
-    },
-    {
-        "id": "favonius_sword",
-        "name": "西風剣",
-        "type": "sword",
-        "rarity": 4,
-        "icon": "images/weapon/sword/西風剣.webp"
-    },
-    {
-        "id": "favonius_warbow",
-        "name": "西風猟弓",
-        "type": "bow",
-        "rarity": 4,
-        "icon": "images/weapon/bow/西風猟弓.webp"
-    },
-    {
-        "id": "ferrous_shadow",
-        "name": "鉄影段平",
-        "type": "claymore",
-        "rarity": 3,
-        "icon": "images/weapon/claymore/鉄影段平.webp"
-    },
-    {
-        "id": "festering_desire",
-        "name": "腐植の剣",
-        "type": "sword",
-        "rarity": 4,
-        "icon": "images/weapon/sword/腐植の剣.webp"
-    },
-    {
-        "id": "fillet_blade",
-        "name": "チ虎魚の刀",
-        "type": "sword",
-        "rarity": 3,
-        "icon": "images/weapon/sword/チ虎魚の刀.webp"
-    },
-    {
-        "id": "finale_of_the_deep",
-        "name": "海淵のフィナーレ",
-        "type": "sword",
-        "rarity": 4,
-        "icon": "images/weapon/sword/海淵のフィナーレ.webp"
-    },
-    {
-        "id": "flameforged_insight",
-        "name": "知恵の溶炎",
-        "type": "claymore",
-        "rarity": 4,
-        "icon": "images/weapon/claymore/知恵の溶炎.webp"
-    },
-    {
-        "id": "fleuve_cendre_ferryman",
-        "name": "サーンドルの渡し守",
-        "type": "sword",
-        "rarity": 4,
-        "icon": "images/weapon/sword/サーンドルの渡し守.webp"
-    },
-    {
-        "id": "flowerwreathed_feathers",
-        "name": "花飾りの羽",
-        "type": "bow",
-        "rarity": 4,
-        "icon": "images/weapon/bow/花飾りの羽.webp"
-    },
-    {
-        "id": "flowing_purity",
-        "name": "純水流華",
-        "type": "catalyst",
-        "rarity": 4,
-        "icon": "images/weapon/catalyst/純水流華.webp"
-    },
-    {
-        "id": "flute_of_ezpitzal",
-        "name": "エズピツァルの笛",
-        "type": "sword",
-        "rarity": 4,
-        "icon": "images/weapon/sword/エズピツァルの笛.webp"
-    },
-    {
-        "id": "footprint_of_the_rainbow",
-        "name": "虹の行方",
-        "type": "polearm",
-        "rarity": 4,
-        "icon": "images/weapon/polearm/虹の行方.webp"
-    },
-    {
-        "id": "forest_regalia",
-        "name": "森林のレガリア",
-        "type": "claymore",
-        "rarity": 4,
-        "icon": "images/weapon/claymore/森林のレガリア.webp"
-    },
-    {
-        "id": "forged_by_the_golden_melody",
-        "name": "シンフォニーの鋳影",
-        "type": "claymore",
-        "rarity": 4,
-        "icon": "images/weapon/claymore/シンフォニーの鋳影.webp"
-    },
-    {
-        "id": "fractured_halo",
-        "name": "砕け散る光輪",
-        "type": "polearm",
-        "rarity": 5,
-        "icon": "images/weapon/polearm/砕け散る光輪.webp"
-    },
-    {
-        "id": "freedomsworn",
-        "name": "蒼古なる自由への誓い",
-        "type": "sword",
-        "rarity": 5,
-        "icon": "images/weapon/sword/蒼古なる自由への誓い.webp"
-    },
-    {
-        "id": "frostbearer",
-        "name": "冬忍びの実",
-        "type": "catalyst",
-        "rarity": 4,
-        "icon": "images/weapon/catalyst/冬忍びの実.webp"
-    },
-    {
-        "id": "frostbreath",
-        "name": "氷の吐息",
-        "type": "polearm",
-        "rarity": 4,
-        "icon": "images/weapon/polearm/氷の吐息.webp"
-    },
-    {
-        "id": "fruit_of_fulfillment",
-        "name": "満悦の実",
-        "type": "catalyst",
-        "rarity": 4,
-        "icon": "images/weapon/catalyst/満悦の実.webp"
-    },
-    {
-        "id": "fruitful_hook",
-        "name": "実りの鉤鉈",
-        "type": "claymore",
-        "rarity": 4,
-        "icon": "images/weapon/claymore/実りの鉤鉈.webp"
-    },
-    {
-        "id": "gest_of_the_mighty_wolf",
-        "name": "狼の武勲詩",
-        "type": "claymore",
-        "rarity": 5,
-        "icon": "images/weapon/claymore/狼の武勲詩.webp"
-    },
-    {
-        "id": "golden_frostbound_oath",
-        "name": "霜契の金枝",
-        "type": "bow",
-        "rarity": 5,
-        "icon": "images/weapon/bow/霜契の金枝.webp"
-    },
-    {
-        "id": "hakushin_ring",
-        "name": "白辰の輪",
-        "type": "catalyst",
-        "rarity": 4,
-        "icon": "images/weapon/catalyst/白辰の輪.webp"
-    },
-    {
-        "id": "halberd",
-        "name": "鉾槍",
-        "type": "polearm",
-        "rarity": 3,
-        "icon": "images/weapon/polearm/鉾槍.webp"
-    },
-    {
-        "id": "hamayumi",
-        "name": "破魔の弓",
-        "type": "bow",
-        "rarity": 4,
-        "icon": "images/weapon/bow/破魔の弓.webp"
-    },
-    {
-        "id": "haran_geppaku_futsu",
-        "name": "波乱月白経津",
-        "type": "sword",
-        "rarity": 5,
-        "icon": "images/weapon/sword/波乱月白経津.webp"
-    },
-    {
-        "id": "harbinger_of_dawn",
-        "name": "黎明の神剣",
-        "type": "sword",
-        "rarity": 3,
-        "icon": "images/weapon/sword/黎明の神剣.webp"
-    },
-    {
-        "id": "heretics_molten_blade",
-        "name": "異端を狩る熔刃",
-        "type": "sword",
-        "rarity": 4,
-        "icon": "images/weapon/sword/異端を狩る熔刃.webp"
-    },
-    {
-        "id": "hunters_bow",
-        "name": "狩猟弓",
-        "type": "bow",
-        "rarity": 1,
-        "icon": "images/weapon/bow/狩猟弓.webp"
-    },
-    {
-        "id": "hunters_path",
-        "name": "狩人の道",
-        "type": "bow",
-        "rarity": 5,
-        "icon": "images/weapon/bow/狩人の道.webp"
-    },
-    {
-        "id": "hymn_of_the_maelstrom",
-        "name": "旋流の讃美歌",
-        "type": "catalyst",
-        "rarity": 5,
-        "icon": "images/weapon/catalyst/旋流の讃美歌.webp"
-    },
-    {
-        "id": "ibis_piercer",
-        "name": "トキの嘴",
-        "type": "bow",
-        "rarity": 4,
-        "icon": "images/weapon/bow/トキの嘴.webp"
-    },
-    {
-        "id": "iron_point",
-        "name": "鉄尖槍",
-        "type": "polearm",
-        "rarity": 2,
-        "icon": "images/weapon/polearm/鉄尖槍.webp"
-    },
-    {
-        "id": "iron_sting",
-        "name": "鉄蜂の刺し",
-        "type": "sword",
-        "rarity": 4,
-        "icon": "images/weapon/sword/鉄蜂の刺し.webp"
-    },
-    {
-        "id": "jade_vista",
-        "name": "千鈞懸黎",
-        "type": "bow",
-        "rarity": 4,
-        "icon": "images/weapon/bow/千鈞懸黎.webp"
-    },
-    {
-        "id": "jadefalls_splendor",
-        "name": "碧落の瓏",
-        "type": "catalyst",
-        "rarity": 5,
-        "icon": "images/weapon/catalyst/碧落の瓏.webp"
-    },
-    {
-        "id": "kagotsurube_isshin",
-        "name": "籠釣瓶一心",
-        "type": "sword",
-        "rarity": 4,
-        "icon": "images/weapon/sword/籠釣瓶一心.webp"
-    },
-    {
-        "id": "kaguras_verity",
-        "name": "神楽の真意",
-        "type": "catalyst",
-        "rarity": 5,
-        "icon": "images/weapon/catalyst/神楽の真意.webp"
-    },
-    {
-        "id": "katsuragikiri_nagamasa",
-        "name": "桂木斬長正",
-        "type": "claymore",
-        "rarity": 4,
-        "icon": "images/weapon/claymore/桂木斬長正.webp"
-    },
-    {
-        "id": "key_of_khajnisut",
-        "name": "聖顕の鍵",
-        "type": "sword",
-        "rarity": 5,
-        "icon": "images/weapon/sword/聖顕の鍵.webp"
-    },
-    {
-        "id": "kings_squire",
-        "name": "王の近侍",
-        "type": "bow",
-        "rarity": 4,
-        "icon": "images/weapon/bow/王の近侍.webp"
-    },
-    {
-        "id": "kitain_cross_spear",
-        "name": "喜多院十文字槍",
-        "type": "polearm",
-        "rarity": 4,
-        "icon": "images/weapon/polearm/喜多院十文字槍.webp"
-    },
-    {
-        "id": "light_of_foliar_incision",
-        "name": "萃光の裁葉",
-        "type": "sword",
-        "rarity": 5,
-        "icon": "images/weapon/sword/萃光の裁葉.webp"
-    },
-    {
-        "id": "lightbearing_moonshard",
-        "name": "三日月の含光",
-        "type": "sword",
-        "rarity": 5,
-        "icon": "images/weapon/sword/三日月の含光.webp"
-    },
-    {
-        "id": "lions_roar",
-        "name": "匣中龍吟",
-        "type": "sword",
-        "rarity": 4,
-        "icon": "images/weapon/sword/匣中龍吟.webp"
-    },
-    {
-        "id": "lithic_blade",
-        "name": "千岩古剣",
-        "type": "claymore",
-        "rarity": 4,
-        "icon": "images/weapon/claymore/千岩古剣.webp"
-    },
-    {
-        "id": "lithic_spear",
-        "name": "千岩長槍",
-        "type": "polearm",
-        "rarity": 4,
-        "icon": "images/weapon/polearm/千岩長槍.webp"
-    },
-    {
-        "id": "lost_prayer_to_the_sacred_winds",
-        "name": "四風原典",
-        "type": "catalyst",
-        "rarity": 5,
-        "icon": "images/weapon/catalyst/四風原典.webp"
-    },
-    {
-        "id": "lumidouce_elegy",
-        "name": "ルミドゥースの挽歌",
-        "type": "polearm",
-        "rarity": 5,
-        "icon": "images/weapon/polearm/ルミドゥースの挽歌.webp"
-    },
-    {
-        "id": "luxurious_sealord",
-        "name": "銜玉の海皇",
-        "type": "claymore",
-        "rarity": 4,
-        "icon": "images/weapon/claymore/銜玉の海皇.webp"
-    },
-    {
-        "id": "magic_guide",
-        "name": "魔導緒論",
-        "type": "catalyst",
-        "rarity": 3,
-        "icon": "images/weapon/catalyst/魔導緒論.webp"
-    },
-    {
-        "id": "mailed_flower",
-        "name": "鉄彩の花",
-        "type": "claymore",
-        "rarity": 4,
-        "icon": "images/weapon/claymore/鉄彩の花.webp"
-    },
-    {
-        "id": "makhaira_aquamarine",
-        "name": "マカイラの水色",
-        "type": "claymore",
-        "rarity": 4,
-        "icon": "images/weapon/claymore/マカイラの水色.webp"
-    },
-    {
-        "id": "mappa_mare",
-        "name": "万国諸海の図譜",
-        "type": "catalyst",
-        "rarity": 4,
-        "icon": "images/weapon/catalyst/万国諸海の図譜.webp"
-    },
-    {
-        "id": "master_key",
-        "name": "万能の鍵",
-        "type": "claymore",
-        "rarity": 4,
-        "icon": "images/weapon/claymore/万能の鍵.webp"
-    },
-    {
-        "id": "memory_of_dust",
-        "name": "浮世の錠",
-        "type": "catalyst",
-        "rarity": 5,
-        "icon": "images/weapon/catalyst/浮世の錠.webp"
-    },
-    {
-        "id": "messenger",
-        "name": "文使い",
-        "type": "bow",
-        "rarity": 3,
-        "icon": "images/weapon/bow/文使い.webp"
-    },
-    {
-        "id": "missive_windspear",
-        "name": "風信の矛",
-        "type": "polearm",
-        "rarity": 4,
-        "icon": "images/weapon/polearm/風信の矛.webp"
-    },
-    {
-        "id": "mistsplitter_reforged",
-        "name": "霧切の廻光",
-        "type": "sword",
-        "rarity": 5,
-        "icon": "images/weapon/sword/霧切の廻光.webp"
-    },
-    {
-        "id": "mitternachts_waltz",
-        "name": "幽夜のワルツ",
-        "type": "bow",
-        "rarity": 4,
-        "icon": "images/weapon/bow/幽夜のワルツ.webp"
-    },
-    {
-        "id": "moonpiercer",
-        "name": "ムーンピアサー",
-        "type": "polearm",
-        "rarity": 4,
-        "icon": "images/weapon/polearm/ムーンピアサー.webp"
-    },
-    {
-        "id": "moonweavers_dawn",
-        "name": "月紡ぎの曙光",
-        "type": "sword",
-        "rarity": 4,
-        "icon": "images/weapon/sword/月紡ぎの曙光.webp"
-    },
-    {
-        "id": "mountainbracing_bolt",
-        "name": "鎮山の釘",
-        "type": "polearm",
-        "rarity": 4,
-        "icon": "images/weapon/polearm/鎮山の釘.webp"
-    },
-    {
-        "id": "mouuns_moon",
-        "name": "曚雲の月",
-        "type": "bow",
-        "rarity": 4,
-        "icon": "images/weapon/bow/曚雲の月.webp"
-    },
-    {
-        "id": "new_bough",
-        "name": "新たなる枝",
-        "type": "sword",
-        "rarity": 4,
-        "icon": "images/weapon/sword/新たなる枝.webp"
-    },
-    {
-        "id": "nightweavers_looking_glass",
-        "name": "夜を紡ぐ天鏡",
-        "type": "catalyst",
-        "rarity": 5,
-        "icon": "images/weapon/catalyst/夜を紡ぐ天鏡.webp"
-    },
-    {
-        "id": "nocturnes_curtain_call",
-        "name": "帳の夜曲",
-        "type": "catalyst",
-        "rarity": 5,
-        "icon": "images/weapon/catalyst/帳の夜曲.webp"
-    },
-    {
-        "id": "oathsworn_eye",
-        "name": "誓いの明瞳",
-        "type": "catalyst",
-        "rarity": 4,
-        "icon": "images/weapon/catalyst/誓いの明瞳.webp"
-    },
-    {
-        "id": "old_mercs_pal",
-        "name": "傭兵の重剣",
-        "type": "claymore",
-        "rarity": 2,
-        "icon": "images/weapon/claymore/傭兵の重剣.webp"
-    },
-    {
-        "id": "otherworldly_story",
-        "name": "異世界旅行記",
-        "type": "catalyst",
-        "rarity": 3,
-        "icon": "images/weapon/catalyst/異世界旅行記.webp"
-    },
-    {
-        "id": "peak_patrol_song",
-        "name": "岩峰を巡る歌",
-        "type": "sword",
-        "rarity": 5,
-        "icon": "images/weapon/sword/岩峰を巡る歌.webp"
-    },
-    {
-        "id": "pocket_grimoire",
-        "name": "ポケット魔導書",
-        "type": "catalyst",
-        "rarity": 2,
-        "icon": "images/weapon/catalyst/ポケット魔導書.webp"
-    },
-    {
-        "id": "polar_star",
-        "name": "冬極の白星",
-        "type": "bow",
-        "rarity": 5,
-        "icon": "images/weapon/bow/冬極の白星.webp"
-    },
-    {
-        "id": "portable_power_saw",
-        "name": "携帯型チェーンソー",
-        "type": "claymore",
-        "rarity": 4,
-        "icon": "images/weapon/claymore/携帯型チェーンソー.webp"
-    },
-    {
-        "id": "predator",
-        "name": "プレデター",
-        "type": "bow",
-        "rarity": 4,
-        "icon": "images/weapon/bow/プレデター.webp"
-    },
-    {
-        "id": "primordial_jade_cutter",
-        "name": "磐岩結緑",
-        "type": "sword",
-        "rarity": 5,
-        "icon": "images/weapon/sword/磐岩結緑.webp"
-    },
-    {
-        "id": "primordial_jade_wingedspear",
-        "name": "和璞鳶",
-        "type": "polearm",
-        "rarity": 5,
-        "icon": "images/weapon/polearm/和璞鳶.webp"
-    },
-    {
-        "id": "prospectors_drill",
-        "name": "プロスペクタードリル",
-        "type": "polearm",
-        "rarity": 4,
-        "icon": "images/weapon/polearm/プロスペクタードリル.webp"
-    },
-    {
-        "id": "prospectors_shovel",
-        "name": "金掘りのシャベル",
-        "type": "polearm",
-        "rarity": 4,
-        "icon": "images/weapon/polearm/金掘りのシャベル.webp"
-    },
-    {
-        "id": "prototype_amber",
-        "name": "金珀·試作",
-        "type": "catalyst",
-        "rarity": 4,
-        "icon": "images/weapon/catalyst/金珀·試作.webp"
-    },
-    {
-        "id": "prototype_archaic",
-        "name": "古華·試作",
-        "type": "claymore",
-        "rarity": 4,
-        "icon": "images/weapon/claymore/古華·試作.webp"
-    },
-    {
-        "id": "prototype_crescent",
-        "name": "澹月·試作",
-        "type": "bow",
-        "rarity": 4,
-        "icon": "images/weapon/bow/澹月·試作.webp"
-    },
-    {
-        "id": "prototype_rancour",
-        "name": "斬岩·試作",
-        "type": "sword",
-        "rarity": 4,
-        "icon": "images/weapon/sword/斬岩·試作.webp"
-    },
-    {
-        "id": "prototype_starglitter",
-        "name": "星鎌·試作",
-        "type": "polearm",
-        "rarity": 4,
-        "icon": "images/weapon/polearm/星鎌·試作.webp"
-    },
-    {
-        "id": "rainbow_serpents_rain_bow",
-        "name": "虹蛇の雨弦",
-        "type": "bow",
-        "rarity": 4,
-        "icon": "images/weapon/bow/虹蛇の雨弦.webp"
-    },
-    {
-        "id": "rainslasher",
-        "name": "雨裁",
-        "type": "claymore",
-        "rarity": 4,
-        "icon": "images/weapon/claymore/雨裁.webp"
-    },
-    {
-        "id": "range_gauge",
-        "name": "レンジゲージ",
-        "type": "bow",
-        "rarity": 4,
-        "icon": "images/weapon/bow/レンジゲージ.webp"
-    },
-    {
-        "id": "raven_bow",
-        "name": "鴉羽の弓",
-        "type": "bow",
-        "rarity": 3,
-        "icon": "images/weapon/bow/鴉羽の弓.webp"
-    },
-    {
-        "id": "recurve_bow",
-        "name": "リカーブボウ",
-        "type": "bow",
-        "rarity": 3,
-        "icon": "images/weapon/bow/リカーブボウ.webp"
-    },
-    {
-        "id": "redhorn_stonethresher",
-        "name": "赤角石塵滅砕",
-        "type": "claymore",
-        "rarity": 5,
-        "icon": "images/weapon/claymore/赤角石塵滅砕.webp"
-    },
-    {
-        "id": "reliquary_of_truth",
-        "name": "真言の匣",
-        "type": "catalyst",
-        "rarity": 5,
-        "icon": "images/weapon/catalyst/真言の匣.webp"
-    },
-    {
-        "id": "rightful_reward",
-        "name": "正義の報酬",
-        "type": "polearm",
-        "rarity": 4,
-        "icon": "images/weapon/polearm/正義の報酬.webp"
-    },
-    {
-        "id": "ring_of_yaxche",
-        "name": "ヤシュチェの環",
-        "type": "catalyst",
-        "rarity": 4,
-        "icon": "images/weapon/catalyst/ヤシュチェの環.webp"
-    },
-    {
-        "id": "royal_bow",
-        "name": "旧貴族長弓",
-        "type": "bow",
-        "rarity": 4,
-        "icon": "images/weapon/bow/旧貴族長弓.webp"
-    },
-    {
-        "id": "royal_greatsword",
-        "name": "旧貴族大剣",
-        "type": "claymore",
-        "rarity": 4,
-        "icon": "images/weapon/claymore/旧貴族大剣.webp"
-    },
-    {
-        "id": "royal_grimoire",
-        "name": "旧貴族秘法録",
-        "type": "catalyst",
-        "rarity": 4,
-        "icon": "images/weapon/catalyst/旧貴族秘法録.webp"
-    },
-    {
-        "id": "royal_longsword",
-        "name": "旧貴族長剣",
-        "type": "sword",
-        "rarity": 4,
-        "icon": "images/weapon/sword/旧貴族長剣.webp"
-    },
-    {
-        "id": "royal_spear",
-        "name": "旧貴族猟槍",
-        "type": "polearm",
-        "rarity": 4,
-        "icon": "images/weapon/polearm/旧貴族猟槍.webp"
-    },
-    {
-        "id": "rust",
-        "name": "弓蔵",
-        "type": "bow",
-        "rarity": 4,
-        "icon": "images/weapon/bow/弓蔵.webp"
-    },
-    {
-        "id": "sacrificers_staff",
-        "name": "聖祭者の輝杖",
-        "type": "polearm",
-        "rarity": 4,
-        "icon": "images/weapon/polearm/聖祭者の輝杖.webp"
-    },
-    {
-        "id": "sacrificial_bow",
-        "name": "祭礼の弓",
-        "type": "bow",
-        "rarity": 4,
-        "icon": "images/weapon/bow/祭礼の弓.webp"
-    },
-    {
-        "id": "sacrificial_fragments",
-        "name": "祭礼の断片",
-        "type": "catalyst",
-        "rarity": 4,
-        "icon": "images/weapon/catalyst/祭礼の断片.webp"
-    },
-    {
-        "id": "sacrificial_greatsword",
-        "name": "祭礼の大剣",
-        "type": "claymore",
-        "rarity": 4,
-        "icon": "images/weapon/claymore/祭礼の大剣.webp"
-    },
-    {
-        "id": "sacrificial_jade",
-        "name": "古祠の瓏",
-        "type": "catalyst",
-        "rarity": 4,
-        "icon": "images/weapon/catalyst/古祠の瓏.webp"
-    },
-    {
-        "id": "sacrificial_sword",
-        "name": "祭礼の剣",
-        "type": "sword",
-        "rarity": 4,
-        "icon": "images/weapon/sword/祭礼の剣.webp"
-    },
-    {
-        "id": "sapwood_blade",
-        "name": "原木刀",
-        "type": "sword",
-        "rarity": 4,
-        "icon": "images/weapon/sword/原木刀.webp"
-    },
-    {
-        "id": "scion_of_the_blazing_sun",
-        "name": "烈日の後嗣",
-        "type": "bow",
-        "rarity": 4,
-        "icon": "images/weapon/bow/烈日の後嗣.webp"
-    },
-    {
-        "id": "seasoned_hunters_bow",
-        "name": "歴戦の狩猟弓",
-        "type": "bow",
-        "rarity": 2,
-        "icon": "images/weapon/bow/歴戦の狩猟弓.webp"
-    },
-    {
-        "id": "sequence_of_solitude",
-        "name": "冷寂の音",
-        "type": "bow",
-        "rarity": 4,
-        "icon": "images/weapon/bow/冷寂の音.webp"
-    },
-    {
-        "id": "serenitys_call",
-        "name": "静謐の笛",
-        "type": "sword",
-        "rarity": 4,
-        "icon": "images/weapon/sword/静謐の笛.webp"
-    },
-    {
-        "id": "serpent_spine",
-        "name": "螭龍の剣",
-        "type": "claymore",
-        "rarity": 4,
-        "icon": "images/weapon/claymore/螭龍の剣.webp"
-    },
-    {
-        "id": "sharpshooters_oath",
-        "name": "シャープシューターの誓い",
-        "type": "bow",
-        "rarity": 3,
-        "icon": "images/weapon/bow/シャープシューターの誓い.webp"
-    },
-    {
-        "id": "silver_light",
-        "name": "銀灯",
-        "type": "sword",
-        "rarity": 4,
-        "icon": "images/weapon/sword/銀灯.webp"
-    },
-    {
-        "id": "silver_sword",
-        "name": "銀の剣",
-        "type": "sword",
-        "rarity": 2,
-        "icon": "images/weapon/sword/銀の剣.webp"
-    },
-    {
-        "id": "silvershower_heartstrings",
-        "name": "白雨心弦",
-        "type": "bow",
-        "rarity": 5,
-        "icon": "images/weapon/bow/白雨心弦.webp"
-    },
-    {
-        "id": "skyrider_greatsword",
-        "name": "飛天大御剣",
-        "type": "claymore",
-        "rarity": 3,
-        "icon": "images/weapon/claymore/飛天大御剣.webp"
-    },
-    {
-        "id": "skyrider_sword",
-        "name": "飛天御剣",
-        "type": "sword",
-        "rarity": 3,
-        "icon": "images/weapon/sword/飛天御剣.webp"
-    },
-    {
-        "id": "skyward_atlas",
-        "name": "天空の巻",
-        "type": "catalyst",
-        "rarity": 5,
-        "icon": "images/weapon/catalyst/天空の巻.webp"
-    },
-    {
-        "id": "skyward_blade",
-        "name": "天空の刃",
-        "type": "sword",
-        "rarity": 5,
-        "icon": "images/weapon/sword/天空の刃.webp"
-    },
-    {
-        "id": "skyward_harp",
-        "name": "天空の翼",
-        "type": "bow",
-        "rarity": 5,
-        "icon": "images/weapon/bow/天空の翼.webp"
-    },
-    {
-        "id": "skyward_pride",
-        "name": "天空の傲",
-        "type": "claymore",
-        "rarity": 5,
-        "icon": "images/weapon/claymore/天空の傲.webp"
-    },
-    {
-        "id": "skyward_spine",
-        "name": "天空の脊",
-        "type": "polearm",
-        "rarity": 5,
-        "icon": "images/weapon/polearm/天空の脊.webp"
-    },
-    {
-        "id": "slingshot",
-        "name": "弾弓",
-        "type": "bow",
-        "rarity": 3,
-        "icon": "images/weapon/bow/弾弓.webp"
-    },
-    {
-        "id": "snare_hook",
-        "name": "羅網の針",
-        "type": "bow",
-        "rarity": 4,
-        "icon": "images/weapon/bow/羅網の針.webp"
-    },
-    {
-        "id": "snowtombed_starsilver",
-        "name": "雪葬の星銀",
-        "type": "claymore",
-        "rarity": 4,
-        "icon": "images/weapon/claymore/雪葬の星銀.webp"
-    },
-    {
-        "id": "solar_pearl",
-        "name": "匣中日月",
-        "type": "catalyst",
-        "rarity": 4,
-        "icon": "images/weapon/catalyst/匣中日月.webp"
-    },
-    {
-        "id": "song_of_broken_pines",
-        "name": "松韻の響く頃",
-        "type": "claymore",
-        "rarity": 5,
-        "icon": "images/weapon/claymore/松韻の響く頃.webp"
-    },
-    {
-        "id": "song_of_stillness",
-        "name": "静寂の唄",
-        "type": "bow",
-        "rarity": 4,
-        "icon": "images/weapon/bow/静寂の唄.webp"
-    },
-    {
-        "id": "song_of_the_vigil",
-        "name": "遠望の歌",
-        "type": "polearm",
-        "rarity": 4,
-        "icon": "images/weapon/polearm/遠望の歌.webp"
-    },
-    {
-        "id": "splendor_of_tranquil_waters",
-        "name": "静水流転の輝き",
-        "type": "sword",
-        "rarity": 5,
-        "icon": "images/weapon/sword/静水流転の輝き.webp"
-    },
-    {
-        "id": "staff_of_homa",
-        "name": "護摩の杖",
-        "type": "polearm",
-        "rarity": 5,
-        "icon": "images/weapon/polearm/護摩の杖.webp"
-    },
-    {
-        "id": "staff_of_the_scarlet_sands",
-        "name": "赤砂の杖",
-        "type": "polearm",
-        "rarity": 5,
-        "icon": "images/weapon/polearm/赤砂の杖.webp"
-    },
-    {
-        "id": "starcallers_watch",
-        "name": "祭星者の眺め",
-        "type": "catalyst",
-        "rarity": 5,
-        "icon": "images/weapon/catalyst/祭星者の眺め.webp"
-    },
-    {
-        "id": "sturdy_bone",
-        "name": "ストロング・ボーン",
-        "type": "sword",
-        "rarity": 4,
-        "icon": "images/weapon/sword/ストロング・ボーン.webp"
-    },
-    {
-        "id": "summit_shaper",
-        "name": "斬山の刃",
-        "type": "sword",
-        "rarity": 5,
-        "icon": "images/weapon/sword/斬山の刃.webp"
-    },
-    {
-        "id": "sunny_morning_sleepin",
-        "name": "寝正月の初晴",
-        "type": "catalyst",
-        "rarity": 5,
-        "icon": "images/weapon/catalyst/寝正月の初晴.webp"
-    },
-    {
-        "id": "surfs_up",
-        "name": "サーフィンタイム",
-        "type": "catalyst",
-        "rarity": 5,
-        "icon": "images/weapon/catalyst/サーフィンタイム.webp"
-    },
-    {
-        "id": "sword_of_descension",
-        "name": "降臨の剣",
-        "type": "sword",
-        "rarity": 4,
-        "icon": "images/weapon/sword/降臨の剣.webp"
-    },
-    {
-        "id": "sword_of_narzissenkreuz",
-        "name": "水仙十字の剣",
-        "type": "sword",
-        "rarity": 4,
-        "icon": "images/weapon/sword/水仙十字の剣.webp"
-    },
-    {
-        "id": "symphonist_of_scents",
-        "name": "香りのシンフォニスト",
-        "type": "polearm",
-        "rarity": 5,
-        "icon": "images/weapon/polearm/香りのシンフォニスト.webp"
-    },
-    {
-        "id": "talking_stick",
-        "name": "話死合い棒",
-        "type": "claymore",
-        "rarity": 4,
-        "icon": "images/weapon/claymore/話死合い棒.webp"
-    },
-    {
-        "id": "tamayuratei_no_ohanashi",
-        "name": "玉響停の御噺",
-        "type": "polearm",
-        "rarity": 4,
-        "icon": "images/weapon/polearm/玉響停の御噺.webp"
-    },
-    {
-        "id": "the_alley_flash",
-        "name": "ダークアレイの閃光",
-        "type": "sword",
-        "rarity": 4,
-        "icon": "images/weapon/sword/ダークアレイの閃光.webp"
-    },
-    {
-        "id": "the_bell",
-        "name": "鐘の剣",
-        "type": "claymore",
-        "rarity": 4,
-        "icon": "images/weapon/claymore/鐘の剣.webp"
-    },
-    {
-        "id": "the_black_sword",
-        "name": "黒剣",
-        "type": "sword",
-        "rarity": 4,
-        "icon": "images/weapon/sword/黒剣.webp"
-    },
-    {
-        "id": "the_catch",
-        "name": "「漁獲」",
-        "type": "polearm",
-        "rarity": 4,
-        "icon": "images/weapon/polearm/「漁獲」.webp"
-    },
-    {
-        "id": "the_daybreak_chronicles",
-        "name": "暁を告げる歴史",
-        "type": "bow",
-        "rarity": 5,
-        "icon": "images/weapon/bow/暁を告げる歴史.webp"
-    },
-    {
-        "id": "the_dockhands_assistant",
-        "name": "船渠剣",
-        "type": "sword",
-        "rarity": 4,
-        "icon": "images/weapon/sword/船渠剣.webp"
-    },
-    {
-        "id": "the_first_great_magic",
-        "name": "始まりの大魔術",
-        "type": "bow",
-        "rarity": 5,
-        "icon": "images/weapon/bow/始まりの大魔術.webp"
-    },
-    {
-        "id": "the_flute",
-        "name": "笛の剣",
-        "type": "sword",
-        "rarity": 4,
-        "icon": "images/weapon/sword/笛の剣.webp"
-    },
-    {
-        "id": "the_stringless",
-        "name": "絶弦",
-        "type": "bow",
-        "rarity": 4,
-        "icon": "images/weapon/bow/絶弦.webp"
-    },
-    {
-        "id": "the_unforged",
-        "name": "無工の剣",
-        "type": "claymore",
-        "rarity": 5,
-        "icon": "images/weapon/claymore/無工の剣.webp"
-    },
-    {
-        "id": "the_viridescent_hunt",
-        "name": "蒼翠の狩猟弓",
-        "type": "bow",
-        "rarity": 4,
-        "icon": "images/weapon/bow/蒼翠の狩猟弓.webp"
-    },
-    {
-        "id": "the_widsith",
-        "name": "流浪楽章",
-        "type": "catalyst",
-        "rarity": 4,
-        "icon": "images/weapon/catalyst/流浪楽章.webp"
-    },
-    {
-        "id": "thrilling_tales_of_dragon_slayers",
-        "name": "龍殺しの英傑譚",
-        "type": "catalyst",
-        "rarity": 3,
-        "icon": "images/weapon/catalyst/龍殺しの英傑譚.webp"
-    },
-    {
-        "id": "thundering_pulse",
-        "name": "飛雷の鳴弦",
-        "type": "bow",
-        "rarity": 5,
-        "icon": "images/weapon/bow/飛雷の鳴弦.webp"
-    },
-    {
-        "id": "tidal_shadow",
-        "name": "タイダル·シャドー",
-        "type": "claymore",
-        "rarity": 4,
-        "icon": "images/weapon/claymore/タイダル·シャドー.webp"
-    },
-    {
-        "id": "tome_of_the_eternal_flow",
-        "name": "久遠流転の大典",
-        "type": "catalyst",
-        "rarity": 5,
-        "icon": "images/weapon/catalyst/久遠流転の大典.webp"
-    },
-    {
-        "id": "toukabou_shigure",
-        "name": "東花坊時雨",
-        "type": "sword",
-        "rarity": 4,
-        "icon": "images/weapon/sword/東花坊時雨.webp"
-    },
-    {
-        "id": "travelers_handy_sword",
-        "name": "旅道の剣",
-        "type": "sword",
-        "rarity": 3,
-        "icon": "images/weapon/sword/旅道の剣.webp"
-    },
-    {
-        "id": "tulaytullahs_remembrance",
-        "name": "トゥライトゥーラの記憶",
-        "type": "catalyst",
-        "rarity": 5,
-        "icon": "images/weapon/catalyst/トゥライトゥーラの記憶.webp"
-    },
-    {
-        "id": "twin_nephrite",
-        "name": "特級の宝玉",
-        "type": "catalyst",
-        "rarity": 3,
-        "icon": "images/weapon/catalyst/特級の宝玉.webp"
-    },
-    {
-        "id": "ultimate_overlords_mega_magic_sword",
-        "name": "「スーパーアルティメット覇王魔剣」",
-        "type": "claymore",
-        "rarity": 4,
-        "icon": "images/weapon/claymore/「スーパーアルティメット覇王魔剣」.webp"
-    },
-    {
-        "id": "uraku_misugiri",
-        "name": "有楽御簾切",
-        "type": "sword",
-        "rarity": 5,
-        "icon": "images/weapon/sword/有楽御簾切.webp"
-    },
-    {
-        "id": "verdict",
-        "name": "裁断",
-        "type": "claymore",
-        "rarity": 5,
-        "icon": "images/weapon/claymore/裁断.webp"
-    },
-    {
-        "id": "vivid_notions",
-        "name": "ヴィヴィッド・ハート",
-        "type": "catalyst",
-        "rarity": 5,
-        "icon": "images/weapon/catalyst/ヴィヴィッド・ハート.webp"
-    },
-    {
-        "id": "vortex_vanquisher",
-        "name": "破天の槍",
-        "type": "polearm",
-        "rarity": 5,
-        "icon": "images/weapon/polearm/破天の槍.webp"
-    },
-    {
-        "id": "wandering_evenstar",
-        "name": "彷徨える星",
-        "type": "catalyst",
-        "rarity": 4,
-        "icon": "images/weapon/catalyst/彷徨える星.webp"
-    },
-    {
-        "id": "waster_greatsword",
-        "name": "訓練用大剣",
-        "type": "claymore",
-        "rarity": 1,
-        "icon": "images/weapon/claymore/訓練用大剣.webp"
-    },
-    {
-        "id": "wavebreakers_fin",
-        "name": "斬波のひれ長",
-        "type": "polearm",
-        "rarity": 4,
-        "icon": "images/weapon/polearm/斬波のひれ長.webp"
-    },
-    {
-        "id": "waveriding_whirl",
-        "name": "波乗りの旋回",
-        "type": "catalyst",
-        "rarity": 4,
-        "icon": "images/weapon/catalyst/波乗りの旋回.webp"
-    },
-    {
-        "id": "white_iron_greatsword",
-        "name": "白鉄の大剣",
-        "type": "claymore",
-        "rarity": 3,
-        "icon": "images/weapon/claymore/白鉄の大剣.webp"
-    },
-    {
-        "id": "white_tassel",
-        "name": "白纓槍",
-        "type": "polearm",
-        "rarity": 3,
-        "icon": "images/weapon/polearm/白纓槍.webp"
-    },
-    {
-        "id": "whiteblind",
-        "name": "白影の剣",
-        "type": "claymore",
-        "rarity": 4,
-        "icon": "images/weapon/claymore/白影の剣.webp"
-    },
-    {
-        "id": "whitelake_frostfeather",
-        "name": "白銀の湖を舞う翼",
-        "type": "sword",
-        "rarity": 5,
-        "icon": "images/weapon/sword/白銀の湖を舞う翼.webp"
-    },
-    {
-        "id": "windblume_ode",
-        "name": "風花の頌歌",
-        "type": "bow",
-        "rarity": 4,
-        "icon": "images/weapon/bow/風花の頌歌.webp"
-    },
-    {
-        "id": "wine_and_song",
-        "name": "ダークアレイの酒と詩",
-        "type": "catalyst",
-        "rarity": 4,
-        "icon": "images/weapon/catalyst/ダークアレイの酒と詩.webp"
-    },
-    {
-        "id": "winters_heavy_heart",
-        "name": "雪に沈む心",
-        "type": "catalyst",
-        "rarity": 4,
-        "icon": "images/weapon/catalyst/雪に沈む心.webp"
-    },
-    {
-        "id": "wolffang",
-        "name": "狼牙",
-        "type": "sword",
-        "rarity": 4,
-        "icon": "images/weapon/sword/狼牙.webp"
-    },
-    {
-        "id": "wolfs_gravestone",
-        "name": "狼の末路",
-        "type": "claymore",
-        "rarity": 5,
-        "icon": "images/weapon/claymore/狼の末路.webp"
-    },
-    {
-        "id": "xiphos_moonlight",
-        "name": "サイフォスの月明かり",
-        "type": "sword",
-        "rarity": 4,
-        "icon": "images/weapon/sword/サイフォスの月明かり.webp"
-    }
+  {
+    "id": "a_teaspoon_of_transcendence",
+    "name": "超越の鍵",
+    "type": "claymore",
+    "rarity": 5,
+    "icon": "images/weapon/claymore/超越の鍵.webp",
+    "ver": "6.7"
+  },
+  {
+    "id": "a_thousand_blazing_suns",
+    "name": "千烈の日輪",
+    "type": "claymore",
+    "rarity": 5,
+    "icon": "images/weapon/claymore/千烈の日輪.webp",
+    "ver": "5.3"
+  },
+  {
+    "id": "a_thousand_floating_dreams",
+    "name": "千夜に浮かぶ夢",
+    "type": "catalyst",
+    "rarity": 5,
+    "icon": "images/weapon/catalyst/千夜に浮かぶ夢.webp",
+    "ver": "3.2"
+  },
+  {
+    "id": "absolution",
+    "name": "赦罪",
+    "type": "sword",
+    "rarity": 5,
+    "icon": "images/weapon/sword/赦罪.webp",
+    "ver": "4.7"
+  },
+  {
+    "id": "akuoumaru",
+    "name": "惡王丸",
+    "type": "claymore",
+    "rarity": 4,
+    "icon": "images/weapon/claymore/惡王丸.webp",
+    "ver": "2.2"
+  },
+  {
+    "id": "alley_hunter",
+    "name": "ダークアレイの狩人",
+    "type": "bow",
+    "rarity": 4,
+    "icon": "images/weapon/bow/ダークアレイの狩人.webp",
+    "ver": "1.4"
+  },
+  {
+    "id": "amenoma_kageuchi",
+    "name": "天目影打",
+    "type": "sword",
+    "rarity": 4,
+    "icon": "images/weapon/sword/天目影打.webp",
+    "ver": "2.0"
+  },
+  {
+    "id": "amos_bow",
+    "name": "アモスの弓",
+    "type": "bow",
+    "rarity": 5,
+    "icon": "images/weapon/bow/アモスの弓.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "angelos_heptades",
+    "name": "塵と光の七つの誓約",
+    "type": "catalyst",
+    "rarity": 5,
+    "icon": "images/weapon/catalyst/塵と光の七つの誓約.webp",
+    "ver": "6.6"
+  },
+  {
+    "id": "aqua_simulacra",
+    "name": "若水",
+    "type": "bow",
+    "rarity": 5,
+    "icon": "images/weapon/bow/若水.webp",
+    "ver": "2.6"
+  },
+  {
+    "id": "aquila_favonia",
+    "name": "風鷹剣",
+    "type": "sword",
+    "rarity": 5,
+    "icon": "images/weapon/sword/風鷹剣.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "ashgraven_drinking_horn",
+    "name": "蒼紋の角杯",
+    "type": "catalyst",
+    "rarity": 4,
+    "icon": "images/weapon/catalyst/蒼紋の角杯.webp",
+    "ver": "5.0"
+  },
+  {
+    "id": "astral_vultures_crimson_plumage",
+    "name": "星鷲の紅き羽",
+    "type": "bow",
+    "rarity": 5,
+    "icon": "images/weapon/bow/星鷲の紅き羽.webp",
+    "ver": "5.2"
+  },
+  {
+    "id": "athame_artis",
+    "name": "黒蝕",
+    "type": "sword",
+    "rarity": 5,
+    "icon": "images/weapon/sword/黒蝕.webp",
+    "ver": "6.2"
+  },
+  {
+    "id": "azurelight",
+    "name": "蒼耀",
+    "type": "sword",
+    "rarity": 5,
+    "icon": "images/weapon/sword/蒼耀.webp",
+    "ver": "5.7"
+  },
+  {
+    "id": "ballad_of_the_boundless_blue",
+    "name": "果てなき紺碧の唄",
+    "type": "catalyst",
+    "rarity": 4,
+    "icon": "images/weapon/catalyst/果てなき紺碧の唄.webp",
+    "ver": "4.1"
+  },
+  {
+    "id": "ballad_of_the_fjords",
+    "name": "フィヨルドの歌",
+    "type": "polearm",
+    "rarity": 4,
+    "icon": "images/weapon/polearm/フィヨルドの歌.webp",
+    "ver": "4.0"
+  },
+  {
+    "id": "beacon_of_the_reed_sea",
+    "name": "葦海の標",
+    "type": "claymore",
+    "rarity": 5,
+    "icon": "images/weapon/claymore/葦海の標.webp",
+    "ver": "3.5"
+  },
+  {
+    "id": "beyond_the_chrysalis",
+    "name": "蝶の羽化",
+    "type": "sword",
+    "rarity": 5,
+    "icon": "images/weapon/sword/蝶の羽化.webp",
+    "ver": "7.1"
+  },
+  {
+    "id": "blackcliff_agate",
+    "name": "黒岩の緋玉",
+    "type": "catalyst",
+    "rarity": 4,
+    "icon": "images/weapon/catalyst/黒岩の緋玉.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "blackcliff_longsword",
+    "name": "黒岩の長剣",
+    "type": "sword",
+    "rarity": 4,
+    "icon": "images/weapon/sword/黒岩の長剣.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "blackcliff_pole",
+    "name": "黒岩の突槍",
+    "type": "polearm",
+    "rarity": 4,
+    "icon": "images/weapon/polearm/黒岩の突槍.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "blackcliff_slasher",
+    "name": "黒岩の斬刀",
+    "type": "claymore",
+    "rarity": 4,
+    "icon": "images/weapon/claymore/黒岩の斬刀.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "blackcliff_warbow",
+    "name": "黒岩の戦弓",
+    "type": "bow",
+    "rarity": 4,
+    "icon": "images/weapon/bow/黒岩の戦弓.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "blackmarrow_lantern",
+    "name": "烏髄の孤灯",
+    "type": "catalyst",
+    "rarity": 4,
+    "icon": "images/weapon/catalyst/烏髄の孤灯.webp",
+    "ver": "6.0"
+  },
+  {
+    "id": "blade_of_atonement",
+    "name": "救済の剣",
+    "type": "claymore",
+    "rarity": 4,
+    "icon": "images/weapon/claymore/救済の剣.webp",
+    "ver": "7.0"
+  },
+  {
+    "id": "bloodsoaked_ruins",
+    "name": "血染めの荒れ地",
+    "type": "polearm",
+    "rarity": 5,
+    "icon": "images/weapon/polearm/血染めの荒れ地.webp",
+    "ver": "6.1"
+  },
+  {
+    "id": "breezeborne_refrain",
+    "name": "風に遊ぶ弦",
+    "type": "bow",
+    "rarity": 4,
+    "icon": "images/weapon/bow/風に遊ぶ弦.webp",
+    "ver": "7.1"
+  },
+  {
+    "id": "calamity_of_eshu",
+    "name": "厄水の災い",
+    "type": "sword",
+    "rarity": 4,
+    "icon": "images/weapon/sword/厄水の災い.webp",
+    "ver": "5.2"
+  },
+  {
+    "id": "calamity_queller",
+    "name": "息災",
+    "type": "polearm",
+    "rarity": 5,
+    "icon": "images/weapon/polearm/息災.webp",
+    "ver": "2.4"
+  },
+  {
+    "id": "cashflow_supervision",
+    "name": "凛流の監視者",
+    "type": "catalyst",
+    "rarity": 5,
+    "icon": "images/weapon/catalyst/凛流の監視者.webp",
+    "ver": "4.1"
+  },
+  {
+    "id": "chain_breaker",
+    "name": "チェーンブレイカー",
+    "type": "bow",
+    "rarity": 4,
+    "icon": "images/weapon/bow/チェーンブレイカー.webp",
+    "ver": "5.0"
+  },
+  {
+    "id": "cinnabar_spindle",
+    "name": "シナバースピンドル",
+    "type": "sword",
+    "rarity": 4,
+    "icon": "images/weapon/sword/シナバースピンドル.webp",
+    "ver": "2.3"
+  },
+  {
+    "id": "clash_of_kings",
+    "name": "諸王の対局",
+    "type": "catalyst",
+    "rarity": 4,
+    "icon": "images/weapon/catalyst/諸王の対局.webp",
+    "ver": "7.0"
+  },
+  {
+    "id": "cloudforged",
+    "name": "築雲",
+    "type": "bow",
+    "rarity": 4,
+    "icon": "images/weapon/bow/築雲.webp",
+    "ver": "4.7"
+  },
+  {
+    "id": "compound_bow",
+    "name": "リングボウ",
+    "type": "bow",
+    "rarity": 4,
+    "icon": "images/weapon/bow/リングボウ.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "covenant_of_frost_and_snow",
+    "name": "霜雪の契",
+    "type": "bow",
+    "rarity": 4,
+    "icon": "images/weapon/bow/霜雪の契.webp",
+    "ver": "7.0"
+  },
+  {
+    "id": "cranes_echoing_call",
+    "name": "鶴鳴の余韻",
+    "type": "catalyst",
+    "rarity": 5,
+    "icon": "images/weapon/catalyst/鶴鳴の余韻.webp",
+    "ver": "4.4"
+  },
+  {
+    "id": "crescent_pike",
+    "name": "流月の針",
+    "type": "polearm",
+    "rarity": 4,
+    "icon": "images/weapon/polearm/流月の針.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "crimson_moons_semblance",
+    "name": "赤月のシルエット",
+    "type": "polearm",
+    "rarity": 5,
+    "icon": "images/weapon/polearm/赤月のシルエット.webp",
+    "ver": "4.6"
+  },
+  {
+    "id": "dawning_frost",
+    "name": "霜辰",
+    "type": "catalyst",
+    "rarity": 4,
+    "icon": "images/weapon/catalyst/霜辰.webp",
+    "ver": "6.2"
+  },
+  {
+    "id": "deathmatch",
+    "name": "死闘の槍",
+    "type": "polearm",
+    "rarity": 4,
+    "icon": "images/weapon/polearm/死闘の槍.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "dialogues_of_the_desert_sages",
+    "name": "砂中の賢者達の問答",
+    "type": "polearm",
+    "rarity": 4,
+    "icon": "images/weapon/polearm/砂中の賢者達の問答.webp",
+    "ver": "4.4"
+  },
+  {
+    "id": "disaster_and_remorse",
+    "name": "災憾",
+    "type": "polearm",
+    "rarity": 5,
+    "icon": "images/weapon/polearm/災憾.webp",
+    "ver": "6.6"
+  },
+  {
+    "id": "dodoco_tales",
+    "name": "ドドコの物語",
+    "type": "catalyst",
+    "rarity": 4,
+    "icon": "images/weapon/catalyst/ドドコの物語.webp",
+    "ver": "1.6"
+  },
+  {
+    "id": "dragons_bane",
+    "name": "匣中滅龍",
+    "type": "polearm",
+    "rarity": 4,
+    "icon": "images/weapon/polearm/匣中滅龍.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "dragonspine_spear",
+    "name": "ドラゴンスピア",
+    "type": "polearm",
+    "rarity": 4,
+    "icon": "images/weapon/polearm/ドラゴンスピア.webp",
+    "ver": "1.2"
+  },
+  {
+    "id": "earth_shaker",
+    "name": "アースシェイカー",
+    "type": "claymore",
+    "rarity": 4,
+    "icon": "images/weapon/claymore/アースシェイカー.webp",
+    "ver": "5.0"
+  },
+  {
+    "id": "echoes_of_the_heart",
+    "name": "胸中の谺",
+    "type": "catalyst",
+    "rarity": 4,
+    "icon": "images/weapon/catalyst/胸中の谺.webp",
+    "ver": "7.0"
+  },
+  {
+    "id": "elegy_for_the_end",
+    "name": "終焉を嘆く詩",
+    "type": "bow",
+    "rarity": 5,
+    "icon": "images/weapon/bow/終焉を嘆く詩.webp",
+    "ver": "1.4"
+  },
+  {
+    "id": "emberwell",
+    "name": "導炎の源",
+    "type": "sword",
+    "rarity": 4,
+    "icon": "images/weapon/sword/導炎の源.webp",
+    "ver": "7.0"
+  },
+  {
+    "id": "end_of_the_line",
+    "name": "竭沢",
+    "type": "bow",
+    "rarity": 4,
+    "icon": "images/weapon/bow/竭沢.webp",
+    "ver": "3.0"
+  },
+  {
+    "id": "engulfing_lightning",
+    "name": "草薙の稲光",
+    "type": "polearm",
+    "rarity": 5,
+    "icon": "images/weapon/polearm/草薙の稲光.webp",
+    "ver": "2.1"
+  },
+  {
+    "id": "etherlight_spindlelute",
+    "name": "天光のリュート",
+    "type": "catalyst",
+    "rarity": 4,
+    "icon": "images/weapon/catalyst/天光のリュート.webp",
+    "ver": "6.0"
+  },
+  {
+    "id": "everlasting_moonglow",
+    "name": "不滅の月華",
+    "type": "catalyst",
+    "rarity": 5,
+    "icon": "images/weapon/catalyst/不滅の月華.webp",
+    "ver": "2.1"
+  },
+  {
+    "id": "exaiphanes_blade",
+    "name": "星鋒の剣",
+    "type": "sword",
+    "rarity": 5,
+    "icon": "images/weapon/sword/星鋒の剣.webp",
+    "ver": "7.0"
+  },
+  {
+    "id": "eye_of_perception",
+    "name": "昭心",
+    "type": "catalyst",
+    "rarity": 4,
+    "icon": "images/weapon/catalyst/昭心.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "fading_twilight",
+    "name": "落霞",
+    "type": "bow",
+    "rarity": 4,
+    "icon": "images/weapon/bow/落霞.webp",
+    "ver": "2.7"
+  },
+  {
+    "id": "fang_of_the_mountain_king",
+    "name": "山の王の長牙",
+    "type": "claymore",
+    "rarity": 5,
+    "icon": "images/weapon/claymore/山の王の長牙.webp",
+    "ver": "5.0"
+  },
+  {
+    "id": "favonius_codex",
+    "name": "西風秘典",
+    "type": "catalyst",
+    "rarity": 4,
+    "icon": "images/weapon/catalyst/西風秘典.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "favonius_greatsword",
+    "name": "西風大剣",
+    "type": "claymore",
+    "rarity": 4,
+    "icon": "images/weapon/claymore/西風大剣.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "favonius_lance",
+    "name": "西風長槍",
+    "type": "polearm",
+    "rarity": 4,
+    "icon": "images/weapon/polearm/西風長槍.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "favonius_sword",
+    "name": "西風剣",
+    "type": "sword",
+    "rarity": 4,
+    "icon": "images/weapon/sword/西風剣.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "favonius_warbow",
+    "name": "西風猟弓",
+    "type": "bow",
+    "rarity": 4,
+    "icon": "images/weapon/bow/西風猟弓.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "festering_desire",
+    "name": "腐植の剣",
+    "type": "sword",
+    "rarity": 4,
+    "icon": "images/weapon/sword/腐植の剣.webp",
+    "ver": "1.2"
+  },
+  {
+    "id": "finale_of_the_deep",
+    "name": "海淵のフィナーレ",
+    "type": "sword",
+    "rarity": 4,
+    "icon": "images/weapon/sword/海淵のフィナーレ.webp",
+    "ver": "4.0"
+  },
+  {
+    "id": "flameforged_insight",
+    "name": "知恵の溶炎",
+    "type": "claymore",
+    "rarity": 4,
+    "icon": "images/weapon/claymore/知恵の溶炎.webp",
+    "ver": "5.8"
+  },
+  {
+    "id": "fleuve_cendre_ferryman",
+    "name": "サーンドルの渡し守",
+    "type": "sword",
+    "rarity": 4,
+    "icon": "images/weapon/sword/サーンドルの渡し守.webp",
+    "ver": "4.0"
+  },
+  {
+    "id": "flowerwreathed_feathers",
+    "name": "花飾りの羽",
+    "type": "bow",
+    "rarity": 4,
+    "icon": "images/weapon/bow/花飾りの羽.webp",
+    "ver": "5.2"
+  },
+  {
+    "id": "flowing_purity",
+    "name": "純水流華",
+    "type": "catalyst",
+    "rarity": 4,
+    "icon": "images/weapon/catalyst/純水流華.webp",
+    "ver": "4.0"
+  },
+  {
+    "id": "flute_of_ezpitzal",
+    "name": "エズピツァルの笛",
+    "type": "sword",
+    "rarity": 4,
+    "icon": "images/weapon/sword/エズピツァルの笛.webp",
+    "ver": "5.0"
+  },
+  {
+    "id": "footprint_of_the_rainbow",
+    "name": "虹の行方",
+    "type": "polearm",
+    "rarity": 4,
+    "icon": "images/weapon/polearm/虹の行方.webp",
+    "ver": "5.0"
+  },
+  {
+    "id": "forest_regalia",
+    "name": "森林のレガリア",
+    "type": "claymore",
+    "rarity": 4,
+    "icon": "images/weapon/claymore/森林のレガリア.webp",
+    "ver": "3.0"
+  },
+  {
+    "id": "forged_by_the_golden_melody",
+    "name": "シンフォニーの鋳影",
+    "type": "claymore",
+    "rarity": 4,
+    "icon": "images/weapon/claymore/シンフォニーの鋳影.webp",
+    "ver": "7.0"
+  },
+  {
+    "id": "fractured_halo",
+    "name": "砕け散る光輪",
+    "type": "polearm",
+    "rarity": 5,
+    "icon": "images/weapon/polearm/砕け散る光輪.webp",
+    "ver": "5.8"
+  },
+  {
+    "id": "freedomsworn",
+    "name": "蒼古なる自由への誓い",
+    "type": "sword",
+    "rarity": 5,
+    "icon": "images/weapon/sword/蒼古なる自由への誓い.webp",
+    "ver": "1.6"
+  },
+  {
+    "id": "frostbearer",
+    "name": "冬忍びの実",
+    "type": "catalyst",
+    "rarity": 4,
+    "icon": "images/weapon/catalyst/冬忍びの実.webp",
+    "ver": "1.2"
+  },
+  {
+    "id": "frostbreath",
+    "name": "氷の吐息",
+    "type": "polearm",
+    "rarity": 4,
+    "icon": "images/weapon/polearm/氷の吐息.webp",
+    "ver": "7.0"
+  },
+  {
+    "id": "fruit_of_fulfillment",
+    "name": "満悦の実",
+    "type": "catalyst",
+    "rarity": 4,
+    "icon": "images/weapon/catalyst/満悦の実.webp",
+    "ver": "3.0"
+  },
+  {
+    "id": "fruitful_hook",
+    "name": "実りの鉤鉈",
+    "type": "claymore",
+    "rarity": 4,
+    "icon": "images/weapon/claymore/実りの鉤鉈.webp",
+    "ver": "5.1"
+  },
+  {
+    "id": "gest_of_the_mighty_wolf",
+    "name": "狼の武勲詩",
+    "type": "claymore",
+    "rarity": 5,
+    "icon": "images/weapon/claymore/狼の武勲詩.webp",
+    "ver": "6.4"
+  },
+  {
+    "id": "golden_frostbound_oath",
+    "name": "霜契の金枝",
+    "type": "bow",
+    "rarity": 5,
+    "icon": "images/weapon/bow/霜契の金枝.webp",
+    "ver": "6.5"
+  },
+  {
+    "id": "hakushin_ring",
+    "name": "白辰の輪",
+    "type": "catalyst",
+    "rarity": 4,
+    "icon": "images/weapon/catalyst/白辰の輪.webp",
+    "ver": "2.0"
+  },
+  {
+    "id": "haran_geppaku_futsu",
+    "name": "波乱月白経津",
+    "type": "sword",
+    "rarity": 5,
+    "icon": "images/weapon/sword/波乱月白経津.webp",
+    "ver": "2.6"
+  },
+  {
+    "id": "harbinger_of_dawn",
+    "name": "黎明の神剣",
+    "type": "sword",
+    "rarity": 3,
+    "icon": "images/weapon/sword/黎明の神剣.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "heretics_molten_blade",
+    "name": "異端を狩る熔刃",
+    "type": "sword",
+    "rarity": 4,
+    "icon": "images/weapon/sword/異端を狩る熔刃.webp",
+    "ver": "7.0"
+  },
+  {
+    "id": "hunters_path",
+    "name": "狩人の道",
+    "type": "bow",
+    "rarity": 5,
+    "icon": "images/weapon/bow/狩人の道.webp",
+    "ver": "3.0"
+  },
+  {
+    "id": "hymn_of_the_maelstrom",
+    "name": "旋流の讃美歌",
+    "type": "catalyst",
+    "rarity": 5,
+    "icon": "images/weapon/catalyst/旋流の讃美歌.webp",
+    "ver": "7.1"
+  },
+  {
+    "id": "ibis_piercer",
+    "name": "トキの嘴",
+    "type": "bow",
+    "rarity": 4,
+    "icon": "images/weapon/bow/トキの嘴.webp",
+    "ver": "3.7"
+  },
+  {
+    "id": "iron_sting",
+    "name": "鉄蜂の刺し",
+    "type": "sword",
+    "rarity": 4,
+    "icon": "images/weapon/sword/鉄蜂の刺し.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "jade_vista",
+    "name": "千鈞懸黎",
+    "type": "bow",
+    "rarity": 4,
+    "icon": "images/weapon/bow/千鈞懸黎.webp",
+    "ver": "7.0"
+  },
+  {
+    "id": "jadefalls_splendor",
+    "name": "碧落の瓏",
+    "type": "catalyst",
+    "rarity": 5,
+    "icon": "images/weapon/catalyst/碧落の瓏.webp",
+    "ver": "3.6"
+  },
+  {
+    "id": "kagotsurube_isshin",
+    "name": "籠釣瓶一心",
+    "type": "sword",
+    "rarity": 4,
+    "icon": "images/weapon/sword/籠釣瓶一心.webp",
+    "ver": "2.8"
+  },
+  {
+    "id": "kaguras_verity",
+    "name": "神楽の真意",
+    "type": "catalyst",
+    "rarity": 5,
+    "icon": "images/weapon/catalyst/神楽の真意.webp",
+    "ver": "2.5"
+  },
+  {
+    "id": "katsuragikiri_nagamasa",
+    "name": "桂木斬長正",
+    "type": "claymore",
+    "rarity": 4,
+    "icon": "images/weapon/claymore/桂木斬長正.webp",
+    "ver": "2.0"
+  },
+  {
+    "id": "key_of_khajnisut",
+    "name": "聖顕の鍵",
+    "type": "sword",
+    "rarity": 5,
+    "icon": "images/weapon/sword/聖顕の鍵.webp",
+    "ver": "3.1"
+  },
+  {
+    "id": "kings_squire",
+    "name": "王の近侍",
+    "type": "bow",
+    "rarity": 4,
+    "icon": "images/weapon/bow/王の近侍.webp",
+    "ver": "3.0"
+  },
+  {
+    "id": "kitain_cross_spear",
+    "name": "喜多院十文字槍",
+    "type": "polearm",
+    "rarity": 4,
+    "icon": "images/weapon/polearm/喜多院十文字槍.webp",
+    "ver": "2.0"
+  },
+  {
+    "id": "light_of_foliar_incision",
+    "name": "萃光の裁葉",
+    "type": "sword",
+    "rarity": 5,
+    "icon": "images/weapon/sword/萃光の裁葉.webp",
+    "ver": "3.4"
+  },
+  {
+    "id": "lightbearing_moonshard",
+    "name": "三日月の含光",
+    "type": "sword",
+    "rarity": 5,
+    "icon": "images/weapon/sword/三日月の含光.webp",
+    "ver": "6.3"
+  },
+  {
+    "id": "lions_roar",
+    "name": "匣中龍吟",
+    "type": "sword",
+    "rarity": 4,
+    "icon": "images/weapon/sword/匣中龍吟.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "lithic_blade",
+    "name": "千岩古剣",
+    "type": "claymore",
+    "rarity": 4,
+    "icon": "images/weapon/claymore/千岩古剣.webp",
+    "ver": "1.3"
+  },
+  {
+    "id": "lithic_spear",
+    "name": "千岩長槍",
+    "type": "polearm",
+    "rarity": 4,
+    "icon": "images/weapon/polearm/千岩長槍.webp",
+    "ver": "1.3"
+  },
+  {
+    "id": "lost_prayer_to_the_sacred_winds",
+    "name": "四風原典",
+    "type": "catalyst",
+    "rarity": 5,
+    "icon": "images/weapon/catalyst/四風原典.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "lumidouce_elegy",
+    "name": "ルミドゥースの挽歌",
+    "type": "polearm",
+    "rarity": 5,
+    "icon": "images/weapon/polearm/ルミドゥースの挽歌.webp",
+    "ver": "4.8"
+  },
+  {
+    "id": "luxurious_sealord",
+    "name": "銜玉の海皇",
+    "type": "claymore",
+    "rarity": 4,
+    "icon": "images/weapon/claymore/銜玉の海皇.webp",
+    "ver": "2.1"
+  },
+  {
+    "id": "mailed_flower",
+    "name": "鉄彩の花",
+    "type": "claymore",
+    "rarity": 4,
+    "icon": "images/weapon/claymore/鉄彩の花.webp",
+    "ver": "3.5"
+  },
+  {
+    "id": "makhaira_aquamarine",
+    "name": "マカイラの水色",
+    "type": "claymore",
+    "rarity": 4,
+    "icon": "images/weapon/claymore/マカイラの水色.webp",
+    "ver": "3.1"
+  },
+  {
+    "id": "mappa_mare",
+    "name": "万国諸海の図譜",
+    "type": "catalyst",
+    "rarity": 4,
+    "icon": "images/weapon/catalyst/万国諸海の図譜.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "master_key",
+    "name": "万能の鍵",
+    "type": "claymore",
+    "rarity": 4,
+    "icon": "images/weapon/claymore/万能の鍵.webp",
+    "ver": "6.7"
+  },
+  {
+    "id": "memory_of_dust",
+    "name": "浮世の錠",
+    "type": "catalyst",
+    "rarity": 5,
+    "icon": "images/weapon/catalyst/浮世の錠.webp",
+    "ver": "1.1"
+  },
+  {
+    "id": "missive_windspear",
+    "name": "風信の矛",
+    "type": "polearm",
+    "rarity": 4,
+    "icon": "images/weapon/polearm/風信の矛.webp",
+    "ver": "3.1"
+  },
+  {
+    "id": "mistsplitter_reforged",
+    "name": "霧切の廻光",
+    "type": "sword",
+    "rarity": 5,
+    "icon": "images/weapon/sword/霧切の廻光.webp",
+    "ver": "2.0"
+  },
+  {
+    "id": "mitternachts_waltz",
+    "name": "幽夜のワルツ",
+    "type": "bow",
+    "rarity": 4,
+    "icon": "images/weapon/bow/幽夜のワルツ.webp",
+    "ver": "1.6"
+  },
+  {
+    "id": "moonpiercer",
+    "name": "ムーンピアサー",
+    "type": "polearm",
+    "rarity": 4,
+    "icon": "images/weapon/polearm/ムーンピアサー.webp",
+    "ver": "3.0"
+  },
+  {
+    "id": "moonweavers_dawn",
+    "name": "月紡ぎの曙光",
+    "type": "sword",
+    "rarity": 4,
+    "icon": "images/weapon/sword/月紡ぎの曙光.webp",
+    "ver": "6.2"
+  },
+  {
+    "id": "mountainbracing_bolt",
+    "name": "鎮山の釘",
+    "type": "polearm",
+    "rarity": 4,
+    "icon": "images/weapon/polearm/鎮山の釘.webp",
+    "ver": "5.1"
+  },
+  {
+    "id": "mouuns_moon",
+    "name": "曚雲の月",
+    "type": "bow",
+    "rarity": 4,
+    "icon": "images/weapon/bow/曚雲の月.webp",
+    "ver": "2.2"
+  },
+  {
+    "id": "new_bough",
+    "name": "新たなる枝",
+    "type": "sword",
+    "rarity": 4,
+    "icon": "images/weapon/sword/新たなる枝.webp",
+    "ver": "7.1"
+  },
+  {
+    "id": "nightweavers_looking_glass",
+    "name": "夜を紡ぐ天鏡",
+    "type": "catalyst",
+    "rarity": 5,
+    "icon": "images/weapon/catalyst/夜を紡ぐ天鏡.webp",
+    "ver": "6.0"
+  },
+  {
+    "id": "nocturnes_curtain_call",
+    "name": "帳の夜曲",
+    "type": "catalyst",
+    "rarity": 5,
+    "icon": "images/weapon/catalyst/帳の夜曲.webp",
+    "ver": "6.3"
+  },
+  {
+    "id": "oathsworn_eye",
+    "name": "誓いの明瞳",
+    "type": "catalyst",
+    "rarity": 4,
+    "icon": "images/weapon/catalyst/誓いの明瞳.webp",
+    "ver": "2.5"
+  },
+  {
+    "id": "peak_patrol_song",
+    "name": "岩峰を巡る歌",
+    "type": "sword",
+    "rarity": 5,
+    "icon": "images/weapon/sword/岩峰を巡る歌.webp",
+    "ver": "5.1"
+  },
+  {
+    "id": "polar_star",
+    "name": "冬極の白星",
+    "type": "bow",
+    "rarity": 5,
+    "icon": "images/weapon/bow/冬極の白星.webp",
+    "ver": "2.2"
+  },
+  {
+    "id": "portable_power_saw",
+    "name": "携帯型チェーンソー",
+    "type": "claymore",
+    "rarity": 4,
+    "icon": "images/weapon/claymore/携帯型チェーンソー.webp",
+    "ver": "4.1"
+  },
+  {
+    "id": "predator",
+    "name": "プレデター",
+    "type": "bow",
+    "rarity": 4,
+    "icon": "images/weapon/bow/プレデター.webp",
+    "ver": "2.1"
+  },
+  {
+    "id": "primordial_jade_cutter",
+    "name": "磐岩結緑",
+    "type": "sword",
+    "rarity": 5,
+    "icon": "images/weapon/sword/磐岩結緑.webp",
+    "ver": "1.3"
+  },
+  {
+    "id": "primordial_jade_wingedspear",
+    "name": "和璞鳶",
+    "type": "polearm",
+    "rarity": 5,
+    "icon": "images/weapon/polearm/和璞鳶.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "prospectors_drill",
+    "name": "プロスペクタードリル",
+    "type": "polearm",
+    "rarity": 4,
+    "icon": "images/weapon/polearm/プロスペクタードリル.webp",
+    "ver": "4.1"
+  },
+  {
+    "id": "prospectors_shovel",
+    "name": "金掘りのシャベル",
+    "type": "polearm",
+    "rarity": 4,
+    "icon": "images/weapon/polearm/金掘りのシャベル.webp",
+    "ver": "5.0"
+  },
+  {
+    "id": "prototype_amber",
+    "name": "金珀·試作",
+    "type": "catalyst",
+    "rarity": 4,
+    "icon": "images/weapon/catalyst/金珀·試作.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "prototype_archaic",
+    "name": "古華·試作",
+    "type": "claymore",
+    "rarity": 4,
+    "icon": "images/weapon/claymore/古華·試作.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "prototype_crescent",
+    "name": "澹月·試作",
+    "type": "bow",
+    "rarity": 4,
+    "icon": "images/weapon/bow/澹月·試作.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "prototype_rancour",
+    "name": "斬岩·試作",
+    "type": "sword",
+    "rarity": 4,
+    "icon": "images/weapon/sword/斬岩·試作.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "prototype_starglitter",
+    "name": "星鎌·試作",
+    "type": "polearm",
+    "rarity": 4,
+    "icon": "images/weapon/polearm/星鎌·試作.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "rainbow_serpents_rain_bow",
+    "name": "虹蛇の雨弦",
+    "type": "bow",
+    "rarity": 4,
+    "icon": "images/weapon/bow/虹蛇の雨弦.webp",
+    "ver": "6.2"
+  },
+  {
+    "id": "rainslasher",
+    "name": "雨裁",
+    "type": "claymore",
+    "rarity": 4,
+    "icon": "images/weapon/claymore/雨裁.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "range_gauge",
+    "name": "レンジゲージ",
+    "type": "bow",
+    "rarity": 4,
+    "icon": "images/weapon/bow/レンジゲージ.webp",
+    "ver": "4.1"
+  },
+  {
+    "id": "redhorn_stonethresher",
+    "name": "赤角石塵滅砕",
+    "type": "claymore",
+    "rarity": 5,
+    "icon": "images/weapon/claymore/赤角石塵滅砕.webp",
+    "ver": "2.3"
+  },
+  {
+    "id": "reliquary_of_truth",
+    "name": "真言の匣",
+    "type": "catalyst",
+    "rarity": 5,
+    "icon": "images/weapon/catalyst/真言の匣.webp",
+    "ver": "6.1"
+  },
+  {
+    "id": "rightful_reward",
+    "name": "正義の報酬",
+    "type": "polearm",
+    "rarity": 4,
+    "icon": "images/weapon/polearm/正義の報酬.webp",
+    "ver": "4.0"
+  },
+  {
+    "id": "ring_of_yaxche",
+    "name": "ヤシュチェの環",
+    "type": "catalyst",
+    "rarity": 4,
+    "icon": "images/weapon/catalyst/ヤシュチェの環.webp",
+    "ver": "5.0"
+  },
+  {
+    "id": "royal_bow",
+    "name": "旧貴族長弓",
+    "type": "bow",
+    "rarity": 4,
+    "icon": "images/weapon/bow/旧貴族長弓.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "royal_greatsword",
+    "name": "旧貴族大剣",
+    "type": "claymore",
+    "rarity": 4,
+    "icon": "images/weapon/claymore/旧貴族大剣.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "royal_grimoire",
+    "name": "旧貴族秘法録",
+    "type": "catalyst",
+    "rarity": 4,
+    "icon": "images/weapon/catalyst/旧貴族秘法録.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "royal_longsword",
+    "name": "旧貴族長剣",
+    "type": "sword",
+    "rarity": 4,
+    "icon": "images/weapon/sword/旧貴族長剣.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "royal_spear",
+    "name": "旧貴族猟槍",
+    "type": "polearm",
+    "rarity": 4,
+    "icon": "images/weapon/polearm/旧貴族猟槍.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "rust",
+    "name": "弓蔵",
+    "type": "bow",
+    "rarity": 4,
+    "icon": "images/weapon/bow/弓蔵.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "sacrificers_staff",
+    "name": "聖祭者の輝杖",
+    "type": "polearm",
+    "rarity": 4,
+    "icon": "images/weapon/polearm/聖祭者の輝杖.webp",
+    "ver": "6.2"
+  },
+  {
+    "id": "sacrificial_bow",
+    "name": "祭礼の弓",
+    "type": "bow",
+    "rarity": 4,
+    "icon": "images/weapon/bow/祭礼の弓.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "sacrificial_fragments",
+    "name": "祭礼の断片",
+    "type": "catalyst",
+    "rarity": 4,
+    "icon": "images/weapon/catalyst/祭礼の断片.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "sacrificial_greatsword",
+    "name": "祭礼の大剣",
+    "type": "claymore",
+    "rarity": 4,
+    "icon": "images/weapon/claymore/祭礼の大剣.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "sacrificial_jade",
+    "name": "古祠の瓏",
+    "type": "catalyst",
+    "rarity": 4,
+    "icon": "images/weapon/catalyst/古祠の瓏.webp",
+    "ver": "4.0"
+  },
+  {
+    "id": "sacrificial_sword",
+    "name": "祭礼の剣",
+    "type": "sword",
+    "rarity": 4,
+    "icon": "images/weapon/sword/祭礼の剣.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "sapwood_blade",
+    "name": "原木刀",
+    "type": "sword",
+    "rarity": 4,
+    "icon": "images/weapon/sword/原木刀.webp",
+    "ver": "3.0"
+  },
+  {
+    "id": "scion_of_the_blazing_sun",
+    "name": "烈日の後嗣",
+    "type": "bow",
+    "rarity": 4,
+    "icon": "images/weapon/bow/烈日の後嗣.webp",
+    "ver": "4.0"
+  },
+  {
+    "id": "sequence_of_solitude",
+    "name": "冷寂の音",
+    "type": "bow",
+    "rarity": 4,
+    "icon": "images/weapon/bow/冷寂の音.webp",
+    "ver": "5.6"
+  },
+  {
+    "id": "serenitys_call",
+    "name": "静謐の笛",
+    "type": "sword",
+    "rarity": 4,
+    "icon": "images/weapon/sword/静謐の笛.webp",
+    "ver": "6.0"
+  },
+  {
+    "id": "serpent_spine",
+    "name": "螭龍の剣",
+    "type": "claymore",
+    "rarity": 4,
+    "icon": "images/weapon/claymore/螭龍の剣.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "silver_light",
+    "name": "銀灯",
+    "type": "sword",
+    "rarity": 4,
+    "icon": "images/weapon/sword/銀灯.webp",
+    "ver": "7.1"
+  },
+  {
+    "id": "silvershower_heartstrings",
+    "name": "白雨心弦",
+    "type": "bow",
+    "rarity": 5,
+    "icon": "images/weapon/bow/白雨心弦.webp",
+    "ver": "4.8"
+  },
+  {
+    "id": "skyward_atlas",
+    "name": "天空の巻",
+    "type": "catalyst",
+    "rarity": 5,
+    "icon": "images/weapon/catalyst/天空の巻.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "skyward_blade",
+    "name": "天空の刃",
+    "type": "sword",
+    "rarity": 5,
+    "icon": "images/weapon/sword/天空の刃.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "skyward_harp",
+    "name": "天空の翼",
+    "type": "bow",
+    "rarity": 5,
+    "icon": "images/weapon/bow/天空の翼.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "skyward_pride",
+    "name": "天空の傲",
+    "type": "claymore",
+    "rarity": 5,
+    "icon": "images/weapon/claymore/天空の傲.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "skyward_spine",
+    "name": "天空の脊",
+    "type": "polearm",
+    "rarity": 5,
+    "icon": "images/weapon/polearm/天空の脊.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "slingshot",
+    "name": "弾弓",
+    "type": "bow",
+    "rarity": 3,
+    "icon": "images/weapon/bow/弾弓.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "snare_hook",
+    "name": "羅網の針",
+    "type": "bow",
+    "rarity": 4,
+    "icon": "images/weapon/bow/羅網の針.webp",
+    "ver": "6.0"
+  },
+  {
+    "id": "snowtombed_starsilver",
+    "name": "雪葬の星銀",
+    "type": "claymore",
+    "rarity": 4,
+    "icon": "images/weapon/claymore/雪葬の星銀.webp",
+    "ver": "1.2"
+  },
+  {
+    "id": "solar_pearl",
+    "name": "匣中日月",
+    "type": "catalyst",
+    "rarity": 4,
+    "icon": "images/weapon/catalyst/匣中日月.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "song_of_broken_pines",
+    "name": "松韻の響く頃",
+    "type": "claymore",
+    "rarity": 5,
+    "icon": "images/weapon/claymore/松韻の響く頃.webp",
+    "ver": "1.5"
+  },
+  {
+    "id": "song_of_stillness",
+    "name": "静寂の唄",
+    "type": "bow",
+    "rarity": 4,
+    "icon": "images/weapon/bow/静寂の唄.webp",
+    "ver": "4.0"
+  },
+  {
+    "id": "song_of_the_vigil",
+    "name": "遠望の歌",
+    "type": "polearm",
+    "rarity": 4,
+    "icon": "images/weapon/polearm/遠望の歌.webp",
+    "ver": "7.0"
+  },
+  {
+    "id": "splendor_of_tranquil_waters",
+    "name": "静水流転の輝き",
+    "type": "sword",
+    "rarity": 5,
+    "icon": "images/weapon/sword/静水流転の輝き.webp",
+    "ver": "4.2"
+  },
+  {
+    "id": "staff_of_homa",
+    "name": "護摩の杖",
+    "type": "polearm",
+    "rarity": 5,
+    "icon": "images/weapon/polearm/護摩の杖.webp",
+    "ver": "1.3"
+  },
+  {
+    "id": "staff_of_the_scarlet_sands",
+    "name": "赤砂の杖",
+    "type": "polearm",
+    "rarity": 5,
+    "icon": "images/weapon/polearm/赤砂の杖.webp",
+    "ver": "3.1"
+  },
+  {
+    "id": "starcallers_watch",
+    "name": "祭星者の眺め",
+    "type": "catalyst",
+    "rarity": 5,
+    "icon": "images/weapon/catalyst/祭星者の眺め.webp",
+    "ver": "5.3"
+  },
+  {
+    "id": "sturdy_bone",
+    "name": "ストロング・ボーン",
+    "type": "sword",
+    "rarity": 4,
+    "icon": "images/weapon/sword/ストロング・ボーン.webp",
+    "ver": "4.8"
+  },
+  {
+    "id": "summit_shaper",
+    "name": "斬山の刃",
+    "type": "sword",
+    "rarity": 5,
+    "icon": "images/weapon/sword/斬山の刃.webp",
+    "ver": "1.2"
+  },
+  {
+    "id": "sunny_morning_sleepin",
+    "name": "寝正月の初晴",
+    "type": "catalyst",
+    "rarity": 5,
+    "icon": "images/weapon/catalyst/寝正月の初晴.webp",
+    "ver": "5.3"
+  },
+  {
+    "id": "surfs_up",
+    "name": "サーフィンタイム",
+    "type": "catalyst",
+    "rarity": 5,
+    "icon": "images/weapon/catalyst/サーフィンタイム.webp",
+    "ver": "5.0"
+  },
+  {
+    "id": "sword_of_descension",
+    "name": "降臨の剣",
+    "type": "sword",
+    "rarity": 4,
+    "icon": "images/weapon/sword/降臨の剣.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "sword_of_narzissenkreuz",
+    "name": "水仙十字の剣",
+    "type": "sword",
+    "rarity": 4,
+    "icon": "images/weapon/sword/水仙十字の剣.webp",
+    "ver": "4.2"
+  },
+  {
+    "id": "symphonist_of_scents",
+    "name": "香りのシンフォニスト",
+    "type": "polearm",
+    "rarity": 5,
+    "icon": "images/weapon/polearm/香りのシンフォニスト.webp",
+    "ver": "5.6"
+  },
+  {
+    "id": "talking_stick",
+    "name": "話死合い棒",
+    "type": "claymore",
+    "rarity": 4,
+    "icon": "images/weapon/claymore/話死合い棒.webp",
+    "ver": "4.0"
+  },
+  {
+    "id": "tamayuratei_no_ohanashi",
+    "name": "玉響停の御噺",
+    "type": "polearm",
+    "rarity": 4,
+    "icon": "images/weapon/polearm/玉響停の御噺.webp",
+    "ver": "5.4"
+  },
+  {
+    "id": "the_alley_flash",
+    "name": "ダークアレイの閃光",
+    "type": "sword",
+    "rarity": 4,
+    "icon": "images/weapon/sword/ダークアレイの閃光.webp",
+    "ver": "1.4"
+  },
+  {
+    "id": "the_bell",
+    "name": "鐘の剣",
+    "type": "claymore",
+    "rarity": 4,
+    "icon": "images/weapon/claymore/鐘の剣.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "the_black_sword",
+    "name": "黒剣",
+    "type": "sword",
+    "rarity": 4,
+    "icon": "images/weapon/sword/黒剣.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "the_catch",
+    "name": "「漁獲」",
+    "type": "polearm",
+    "rarity": 4,
+    "icon": "images/weapon/polearm/「漁獲」.webp",
+    "ver": "2.1"
+  },
+  {
+    "id": "the_daybreak_chronicles",
+    "name": "暁を告げる歴史",
+    "type": "bow",
+    "rarity": 5,
+    "icon": "images/weapon/bow/暁を告げる歴史.webp",
+    "ver": "6.2"
+  },
+  {
+    "id": "the_dockhands_assistant",
+    "name": "船渠剣",
+    "type": "sword",
+    "rarity": 4,
+    "icon": "images/weapon/sword/船渠剣.webp",
+    "ver": "4.1"
+  },
+  {
+    "id": "the_first_great_magic",
+    "name": "始まりの大魔術",
+    "type": "bow",
+    "rarity": 5,
+    "icon": "images/weapon/bow/始まりの大魔術.webp",
+    "ver": "4.0"
+  },
+  {
+    "id": "the_flute",
+    "name": "笛の剣",
+    "type": "sword",
+    "rarity": 4,
+    "icon": "images/weapon/sword/笛の剣.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "the_stringless",
+    "name": "絶弦",
+    "type": "bow",
+    "rarity": 4,
+    "icon": "images/weapon/bow/絶弦.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "the_unforged",
+    "name": "無工の剣",
+    "type": "claymore",
+    "rarity": 5,
+    "icon": "images/weapon/claymore/無工の剣.webp",
+    "ver": "1.1"
+  },
+  {
+    "id": "the_viridescent_hunt",
+    "name": "蒼翠の狩猟弓",
+    "type": "bow",
+    "rarity": 4,
+    "icon": "images/weapon/bow/蒼翠の狩猟弓.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "the_widsith",
+    "name": "流浪楽章",
+    "type": "catalyst",
+    "rarity": 4,
+    "icon": "images/weapon/catalyst/流浪楽章.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "thrilling_tales_of_dragon_slayers",
+    "name": "龍殺しの英傑譚",
+    "type": "catalyst",
+    "rarity": 3,
+    "icon": "images/weapon/catalyst/龍殺しの英傑譚.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "thundering_pulse",
+    "name": "飛雷の鳴弦",
+    "type": "bow",
+    "rarity": 5,
+    "icon": "images/weapon/bow/飛雷の鳴弦.webp",
+    "ver": "2.0"
+  },
+  {
+    "id": "tidal_shadow",
+    "name": "タイダル·シャドー",
+    "type": "claymore",
+    "rarity": 4,
+    "icon": "images/weapon/claymore/タイダル·シャドー.webp",
+    "ver": "4.0"
+  },
+  {
+    "id": "tome_of_the_eternal_flow",
+    "name": "久遠流転の大典",
+    "type": "catalyst",
+    "rarity": 5,
+    "icon": "images/weapon/catalyst/久遠流転の大典.webp",
+    "ver": "4.1"
+  },
+  {
+    "id": "toukabou_shigure",
+    "name": "東花坊時雨",
+    "type": "sword",
+    "rarity": 4,
+    "icon": "images/weapon/sword/東花坊時雨.webp",
+    "ver": "3.3"
+  },
+  {
+    "id": "tulaytullahs_remembrance",
+    "name": "トゥライトゥーラの記憶",
+    "type": "catalyst",
+    "rarity": 5,
+    "icon": "images/weapon/catalyst/トゥライトゥーラの記憶.webp",
+    "ver": "3.3"
+  },
+  {
+    "id": "ultimate_overlords_mega_magic_sword",
+    "name": "「スーパーアルティメット覇王魔剣」",
+    "type": "claymore",
+    "rarity": 4,
+    "icon": "images/weapon/claymore/「スーパーアルティメット覇王魔剣」.webp",
+    "ver": "4.3"
+  },
+  {
+    "id": "uraku_misugiri",
+    "name": "有楽御簾切",
+    "type": "sword",
+    "rarity": 5,
+    "icon": "images/weapon/sword/有楽御簾切.webp",
+    "ver": "4.5"
+  },
+  {
+    "id": "verdict",
+    "name": "裁断",
+    "type": "claymore",
+    "rarity": 5,
+    "icon": "images/weapon/claymore/裁断.webp",
+    "ver": "4.3"
+  },
+  {
+    "id": "vivid_notions",
+    "name": "ヴィヴィッド・ハート",
+    "type": "catalyst",
+    "rarity": 5,
+    "icon": "images/weapon/catalyst/ヴィヴィッド・ハート.webp",
+    "ver": "5.5"
+  },
+  {
+    "id": "vortex_vanquisher",
+    "name": "破天の槍",
+    "type": "polearm",
+    "rarity": 5,
+    "icon": "images/weapon/polearm/破天の槍.webp",
+    "ver": "1.1"
+  },
+  {
+    "id": "wandering_evenstar",
+    "name": "彷徨える星",
+    "type": "catalyst",
+    "rarity": 4,
+    "icon": "images/weapon/catalyst/彷徨える星.webp",
+    "ver": "3.1"
+  },
+  {
+    "id": "wavebreakers_fin",
+    "name": "斬波のひれ長",
+    "type": "polearm",
+    "rarity": 4,
+    "icon": "images/weapon/polearm/斬波のひれ長.webp",
+    "ver": "2.2"
+  },
+  {
+    "id": "waveriding_whirl",
+    "name": "波乗りの旋回",
+    "type": "catalyst",
+    "rarity": 4,
+    "icon": "images/weapon/catalyst/波乗りの旋回.webp",
+    "ver": "5.2"
+  },
+  {
+    "id": "whiteblind",
+    "name": "白影の剣",
+    "type": "claymore",
+    "rarity": 4,
+    "icon": "images/weapon/claymore/白影の剣.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "whitelake_frostfeather",
+    "name": "白銀の湖を舞う翼",
+    "type": "sword",
+    "rarity": 5,
+    "icon": "images/weapon/sword/白銀の湖を舞う翼.webp",
+    "ver": "7.0"
+  },
+  {
+    "id": "windblume_ode",
+    "name": "風花の頌歌",
+    "type": "bow",
+    "rarity": 4,
+    "icon": "images/weapon/bow/風花の頌歌.webp",
+    "ver": "1.4"
+  },
+  {
+    "id": "wine_and_song",
+    "name": "ダークアレイの酒と詩",
+    "type": "catalyst",
+    "rarity": 4,
+    "icon": "images/weapon/catalyst/ダークアレイの酒と詩.webp",
+    "ver": "1.4"
+  },
+  {
+    "id": "winters_heavy_heart",
+    "name": "雪に沈む心",
+    "type": "catalyst",
+    "rarity": 4,
+    "icon": "images/weapon/catalyst/雪に沈む心.webp",
+    "ver": "7.1"
+  },
+  {
+    "id": "wolffang",
+    "name": "狼牙",
+    "type": "sword",
+    "rarity": 4,
+    "icon": "images/weapon/sword/狼牙.webp",
+    "ver": "4.0"
+  },
+  {
+    "id": "wolfs_gravestone",
+    "name": "狼の末路",
+    "type": "claymore",
+    "rarity": 5,
+    "icon": "images/weapon/claymore/狼の末路.webp",
+    "ver": "1.0"
+  },
+  {
+    "id": "xiphos_moonlight",
+    "name": "サイフォスの月明かり",
+    "type": "sword",
+    "rarity": 4,
+    "icon": "images/weapon/sword/サイフォスの月明かり.webp",
+    "ver": "3.1"
+  }
 ]

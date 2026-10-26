@@ -5,7 +5,8 @@
     "element": "anemo",
     "weaponType": "sword",
     "rarity": 5,
-    "icon": "images/character/vesna.webp"
+    "icon": "images/character/vesna.webp",
+    "ver": "7.1"
   },
   {
     "id": "vodyanitsa",
@@ -13,7 +14,8 @@
     "element": "hydro",
     "weaponType": "catalyst",
     "rarity": 5,
-    "icon": "images/character/vodyanitsa.webp"
+    "icon": "images/character/vodyanitsa.webp",
+    "ver": "7.1"
   },
   {
     "id": "odette",
@@ -21,7 +23,8 @@
     "element": "cryo",
     "weaponType": "sword",
     "rarity": 5,
-    "icon": "images/character/odette.webp"
+    "icon": "images/character/odette.webp",
+    "ver": "7.0"
   },
   {
     "id": "alyosha",
@@ -29,7 +32,8 @@
     "element": "electro",
     "weaponType": "polearm",
     "rarity": 4,
-    "icon": "images/character/alyosha.webp"
+    "icon": "images/character/alyosha.webp",
+    "ver": "7.0"
   },
   {
     "id": "sandrone",
@@ -37,7 +41,8 @@
     "element": "cryo",
     "weaponType": "claymore",
     "rarity": 5,
-    "icon": "images/character/sandrone.webp"
+    "icon": "images/character/sandrone.webp",
+    "ver": "6.7"
   },
   {
     "id": "lohen",
@@ -45,7 +50,8 @@
     "element": "cryo",
     "weaponType": "polearm",
     "rarity": 5,
-    "icon": "images/character/lohen.webp"
+    "icon": "images/character/lohen.webp",
+    "ver": "6.6"
   },
   {
     "id": "nicole",
@@ -53,7 +59,8 @@
     "element": "pyro",
     "weaponType": "catalyst",
     "rarity": 5,
-    "icon": "images/character/nicole.webp"
+    "icon": "images/character/nicole.webp",
+    "ver": "6.6"
   },
   {
     "id": "plune",
@@ -61,7 +68,8 @@
     "element": "anemo",
     "weaponType": "catalyst",
     "rarity": 4,
-    "icon": "images/character/plune.webp"
+    "icon": "images/character/plune.webp",
+    "ver": "6.6"
   },
   {
     "id": "linnea",
@@ -69,7 +77,8 @@
     "element": "geo",
     "weaponType": "bow",
     "rarity": 5,
-    "icon": "images/character/linnea.webp"
+    "icon": "images/character/linnea.webp",
+    "ver": "6.5"
   },
   {
     "id": "varka",
@@ -77,7 +86,8 @@
     "element": "anemo",
     "weaponType": "claymore",
     "rarity": 5,
-    "icon": "images/character/varka.webp"
+    "icon": "images/character/varka.webp",
+    "ver": "6.4"
   },
   {
     "id": "zibai",
@@ -85,7 +95,8 @@
     "element": "geo",
     "weaponType": "sword",
     "rarity": 5,
-    "icon": "images/character/zibai.webp"
+    "icon": "images/character/zibai.webp",
+    "ver": "6.3"
   },
   {
     "id": "illuga",
@@ -93,7 +104,8 @@
     "element": "geo",
     "weaponType": "polearm",
     "rarity": 4,
-    "icon": "images/character/illuga.webp"
+    "icon": "images/character/illuga.webp",
+    "ver": "6.3"
   },
   {
     "id": "columbina",
@@ -101,7 +113,8 @@
     "element": "hydro",
     "weaponType": "catalyst",
     "rarity": 5,
-    "icon": "images/character/columbina.webp"
+    "icon": "images/character/columbina.webp",
+    "ver": "6.3"
   },
   {
     "id": "durin",
@@ -109,7 +122,8 @@
     "element": "pyro",
     "weaponType": "sword",
     "rarity": 5,
-    "icon": "images/character/durin.webp"
+    "icon": "images/character/durin.webp",
+    "ver": "6.2"
   },
   {
     "id": "jahoda",
@@ -117,7 +131,8 @@
     "element": "anemo",
     "weaponType": "bow",
     "rarity": 4,
-    "icon": "images/character/jahoda.webp"
+    "icon": "images/character/jahoda.webp",
+    "ver": "6.2"
   },
   {
     "id": "nefer",
@@ -125,7 +140,8 @@
     "element": "dendro",
     "weaponType": "catalyst",
     "rarity": 5,
-    "icon": "images/character/nefer.webp"
+    "icon": "images/character/nefer.webp",
+    "ver": "6.1"
   },
   {
     "id": "flins",
@@ -133,7 +149,8 @@
     "element": "electro",
     "weaponType": "polearm",
     "rarity": 5,
-    "icon": "images/character/flins.webp"
+    "icon": "images/character/flins.webp",
+    "ver": "6.1"
   },
   {
     "id": "lauma",
@@ -141,7 +158,8 @@
     "element": "dendro",
     "weaponType": "catalyst",
     "rarity": 5,
-    "icon": "images/character/lauma.webp"
+    "icon": "images/character/lauma.webp",
+    "ver": "6.0"
   },
   {
     "id": "aino",
@@ -149,7 +167,8 @@
     "element": "hydro",
     "weaponType": "claymore",
     "rarity": 4,
-    "icon": "images/character/aino.webp"
+    "icon": "images/character/aino.webp",
+    "ver": "6.0"
   },
   {
     "id": "ineffa",
@@ -157,7 +176,8 @@
     "element": "electro",
     "weaponType": "polearm",
     "rarity": 5,
-    "icon": "images/character/ineffa.webp"
+    "icon": "images/character/ineffa.webp",
+    "ver": "5.8"
   },
   {
     "id": "skirk",
@@ -165,7 +185,8 @@
     "element": "cryo",
     "weaponType": "sword",
     "rarity": 5,
-    "icon": "images/character/skirk.webp"
+    "icon": "images/character/skirk.webp",
+    "ver": "5.7"
   },
   {
     "id": "dahlia",
@@ -173,7 +194,8 @@
     "element": "hydro",
     "weaponType": "sword",
     "rarity": 4,
-    "icon": "images/character/dahlia.webp"
+    "icon": "images/character/dahlia.webp",
+    "ver": "5.7"
   },
   {
     "id": "escoffier",
@@ -181,7 +203,8 @@
     "element": "cryo",
     "weaponType": "polearm",
     "rarity": 5,
-    "icon": "images/character/escoffier.webp"
+    "icon": "images/character/escoffier.webp",
+    "ver": "5.6"
   },
   {
     "id": "ifa",
@@ -189,7 +212,8 @@
     "element": "anemo",
     "weaponType": "catalyst",
     "rarity": 4,
-    "icon": "images/character/ifa.webp"
+    "icon": "images/character/ifa.webp",
+    "ver": "5.6"
   },
   {
     "id": "varesa",
@@ -197,7 +221,8 @@
     "element": "electro",
     "weaponType": "catalyst",
     "rarity": 5,
-    "icon": "images/character/varesa.webp"
+    "icon": "images/character/varesa.webp",
+    "ver": "5.5"
   },
   {
     "id": "iansan",
@@ -205,7 +230,8 @@
     "element": "electro",
     "weaponType": "polearm",
     "rarity": 4,
-    "icon": "images/character/iansan.webp"
+    "icon": "images/character/iansan.webp",
+    "ver": "5.5"
   },
   {
     "id": "yumemizuki mizuki",
@@ -213,7 +239,8 @@
     "element": "anemo",
     "weaponType": "catalyst",
     "rarity": 5,
-    "icon": "images/character/yumemizuki mizuki.webp"
+    "icon": "images/character/yumemizuki mizuki.webp",
+    "ver": "5.4"
   },
   {
     "id": "lan yan",
@@ -221,7 +248,8 @@
     "element": "anemo",
     "weaponType": "catalyst",
     "rarity": 4,
-    "icon": "images/character/lan yan.webp"
+    "icon": "images/character/lan yan.webp",
+    "ver": "5.3"
   },
   {
     "id": "mavuika",
@@ -229,7 +257,8 @@
     "element": "pyro",
     "weaponType": "claymore",
     "rarity": 5,
-    "icon": "images/character/mavuika.webp"
+    "icon": "images/character/mavuika.webp",
+    "ver": "5.3"
   },
   {
     "id": "citlali",
@@ -237,7 +266,8 @@
     "element": "cryo",
     "weaponType": "catalyst",
     "rarity": 5,
-    "icon": "images/character/citlali.webp"
+    "icon": "images/character/citlali.webp",
+    "ver": "5.3"
   },
   {
     "id": "chasca",
@@ -245,7 +275,8 @@
     "element": "anemo",
     "weaponType": "bow",
     "rarity": 5,
-    "icon": "images/character/chasca.webp"
+    "icon": "images/character/chasca.webp",
+    "ver": "5.2"
   },
   {
     "id": "ororon",
@@ -253,7 +284,8 @@
     "element": "electro",
     "weaponType": "bow",
     "rarity": 4,
-    "icon": "images/character/ororon.webp"
+    "icon": "images/character/ororon.webp",
+    "ver": "5.2"
   },
   {
     "id": "xilonen",
@@ -261,7 +293,8 @@
     "element": "geo",
     "weaponType": "sword",
     "rarity": 5,
-    "icon": "images/character/xilonen.webp"
+    "icon": "images/character/xilonen.webp",
+    "ver": "5.1"
   },
   {
     "id": "kinich",
@@ -269,7 +302,8 @@
     "element": "dendro",
     "weaponType": "claymore",
     "rarity": 5,
-    "icon": "images/character/kinich.webp"
+    "icon": "images/character/kinich.webp",
+    "ver": "5.0"
   },
   {
     "id": "mualani",
@@ -277,7 +311,8 @@
     "element": "hydro",
     "weaponType": "catalyst",
     "rarity": 5,
-    "icon": "images/character/mualani.webp"
+    "icon": "images/character/mualani.webp",
+    "ver": "5.0"
   },
   {
     "id": "kachina",
@@ -285,7 +320,8 @@
     "element": "geo",
     "weaponType": "polearm",
     "rarity": 4,
-    "icon": "images/character/kachina.webp"
+    "icon": "images/character/kachina.webp",
+    "ver": "5.0"
   },
   {
     "id": "emilie",
@@ -293,7 +329,8 @@
     "element": "dendro",
     "weaponType": "polearm",
     "rarity": 5,
-    "icon": "images/character/emilie.webp"
+    "icon": "images/character/emilie.webp",
+    "ver": "4.8"
   },
   {
     "id": "sigewinne",
@@ -301,7 +338,8 @@
     "element": "hydro",
     "weaponType": "bow",
     "rarity": 5,
-    "icon": "images/character/sigewinne.webp"
+    "icon": "images/character/sigewinne.webp",
+    "ver": "4.7"
   },
   {
     "id": "clorinde",
@@ -309,7 +347,8 @@
     "element": "electro",
     "weaponType": "sword",
     "rarity": 5,
-    "icon": "images/character/clorinde.webp"
+    "icon": "images/character/clorinde.webp",
+    "ver": "4.7"
   },
   {
     "id": "sethos",
@@ -317,7 +356,8 @@
     "element": "electro",
     "weaponType": "bow",
     "rarity": 4,
-    "icon": "images/character/sethos.webp"
+    "icon": "images/character/sethos.webp",
+    "ver": "4.7"
   },
   {
     "id": "arlecchino",
@@ -325,7 +365,8 @@
     "element": "pyro",
     "weaponType": "polearm",
     "rarity": 5,
-    "icon": "images/character/arlecchino.webp"
+    "icon": "images/character/arlecchino.webp",
+    "ver": "4.6"
   },
   {
     "id": "chiori",
@@ -333,7 +374,8 @@
     "element": "geo",
     "weaponType": "sword",
     "rarity": 5,
-    "icon": "images/character/chiori.webp"
+    "icon": "images/character/chiori.webp",
+    "ver": "4.5"
   },
   {
     "id": "xianyun",
@@ -341,7 +383,8 @@
     "element": "anemo",
     "weaponType": "catalyst",
     "rarity": 5,
-    "icon": "images/character/xianyun.webp"
+    "icon": "images/character/xianyun.webp",
+    "ver": "4.4"
   },
   {
     "id": "gaming",
@@ -349,7 +392,8 @@
     "element": "pyro",
     "weaponType": "claymore",
     "rarity": 4,
-    "icon": "images/character/gaming.webp"
+    "icon": "images/character/gaming.webp",
+    "ver": "4.4"
   },
   {
     "id": "chevreuse",
@@ -357,7 +401,8 @@
     "element": "pyro",
     "weaponType": "polearm",
     "rarity": 4,
-    "icon": "images/character/chevreuse.webp"
+    "icon": "images/character/chevreuse.webp",
+    "ver": "4.3"
   },
   {
     "id": "navia",
@@ -365,7 +410,8 @@
     "element": "geo",
     "weaponType": "claymore",
     "rarity": 5,
-    "icon": "images/character/navia.webp"
+    "icon": "images/character/navia.webp",
+    "ver": "4.3"
   },
   {
     "id": "furina",
@@ -373,7 +419,8 @@
     "element": "hydro",
     "weaponType": "sword",
     "rarity": 5,
-    "icon": "images/character/furina.webp"
+    "icon": "images/character/furina.webp",
+    "ver": "4.2"
   },
   {
     "id": "charlotte",
@@ -381,7 +428,8 @@
     "element": "cryo",
     "weaponType": "catalyst",
     "rarity": 4,
-    "icon": "images/character/charlotte.webp"
+    "icon": "images/character/charlotte.webp",
+    "ver": "4.2"
   },
   {
     "id": "wriothesley",
@@ -389,7 +437,8 @@
     "element": "cryo",
     "weaponType": "catalyst",
     "rarity": 5,
-    "icon": "images/character/wriothesley.webp"
+    "icon": "images/character/wriothesley.webp",
+    "ver": "4.1"
   },
   {
     "id": "neuvillette",
@@ -397,7 +446,8 @@
     "element": "hydro",
     "weaponType": "catalyst",
     "rarity": 5,
-    "icon": "images/character/neuvillette.webp"
+    "icon": "images/character/neuvillette.webp",
+    "ver": "4.1"
   },
   {
     "id": "lyney",
@@ -405,7 +455,8 @@
     "element": "pyro",
     "weaponType": "bow",
     "rarity": 5,
-    "icon": "images/character/lyney.webp"
+    "icon": "images/character/lyney.webp",
+    "ver": "4.0"
   },
   {
     "id": "faruzan",
@@ -413,7 +464,8 @@
     "element": "anemo",
     "weaponType": "bow",
     "rarity": 4,
-    "icon": "images/character/faruzan.webp"
+    "icon": "images/character/faruzan.webp",
+    "ver": "3.3"
   },
   {
     "id": "nahida",
@@ -421,7 +473,8 @@
     "element": "dendro",
     "weaponType": "catalyst",
     "rarity": 5,
-    "icon": "images/character/nahida.webp"
+    "icon": "images/character/nahida.webp",
+    "ver": "3.2"
   },
   {
     "id": "nilou",
@@ -429,7 +482,8 @@
     "element": "hydro",
     "weaponType": "sword",
     "rarity": 5,
-    "icon": "images/character/nilou.webp"
+    "icon": "images/character/nilou.webp",
+    "ver": "3.1"
   },
   {
     "id": "shenhe",
@@ -437,7 +491,8 @@
     "element": "cryo",
     "weaponType": "polearm",
     "rarity": 5,
-    "icon": "images/character/shenhe.webp"
+    "icon": "images/character/shenhe.webp",
+    "ver": "2.4"
   },
   {
     "id": "raiden shogun",
@@ -445,7 +500,8 @@
     "element": "electro",
     "weaponType": "polearm",
     "rarity": 5,
-    "icon": "images/character/raiden shogun.webp"
+    "icon": "images/character/raiden shogun.webp",
+    "ver": "2.1"
   },
   {
     "id": "kamisato ayaka",
@@ -453,7 +509,8 @@
     "element": "cryo",
     "weaponType": "sword",
     "rarity": 5,
-    "icon": "images/character/kamisato ayaka.webp"
+    "icon": "images/character/kamisato ayaka.webp",
+    "ver": "2.0"
   },
   {
     "id": "albedo",
@@ -461,7 +518,8 @@
     "element": "geo",
     "weaponType": "sword",
     "rarity": 5,
-    "icon": "images/character/albedo.webp"
+    "icon": "images/character/albedo.webp",
+    "ver": "1.2"
   },
   {
     "id": "zhongli",
@@ -469,7 +527,8 @@
     "element": "geo",
     "weaponType": "polearm",
     "rarity": 5,
-    "icon": "images/character/zhongli.webp"
+    "icon": "images/character/zhongli.webp",
+    "ver": "1.1"
   },
   {
     "id": "tartaglia",
@@ -477,7 +536,8 @@
     "element": "hydro",
     "weaponType": "bow",
     "rarity": 5,
-    "icon": "images/character/tartaglia.webp"
+    "icon": "images/character/tartaglia.webp",
+    "ver": "1.1"
   },
   {
     "id": "diona",
@@ -485,7 +545,8 @@
     "element": "cryo",
     "weaponType": "bow",
     "rarity": 4,
-    "icon": "images/character/diona.webp"
+    "icon": "images/character/diona.webp",
+    "ver": "1.1"
   },
   {
     "id": "jean",
@@ -493,7 +554,8 @@
     "element": "anemo",
     "weaponType": "sword",
     "rarity": 5,
-    "icon": "images/character/jean.webp"
+    "icon": "images/character/jean.webp",
+    "ver": "1.0"
   },
   {
     "id": "mona",
@@ -501,7 +563,8 @@
     "element": "hydro",
     "weaponType": "catalyst",
     "rarity": 5,
-    "icon": "images/character/mona.webp"
+    "icon": "images/character/mona.webp",
+    "ver": "1.0"
   },
   {
     "id": "qiqi",
@@ -509,7 +572,8 @@
     "element": "cryo",
     "weaponType": "sword",
     "rarity": 5,
-    "icon": "images/character/qiqi.webp"
+    "icon": "images/character/qiqi.webp",
+    "ver": "1.0"
   },
   {
     "id": "bennett",
@@ -517,7 +581,8 @@
     "element": "pyro",
     "weaponType": "sword",
     "rarity": 4,
-    "icon": "images/character/bennett.webp"
+    "icon": "images/character/bennett.webp",
+    "ver": "1.0"
   },
   {
     "id": "barbara",
@@ -525,7 +590,8 @@
     "element": "hydro",
     "weaponType": "catalyst",
     "rarity": 4,
-    "icon": "images/character/barbara.webp"
+    "icon": "images/character/barbara.webp",
+    "ver": "1.0"
   },
   {
     "id": "sucrose",
@@ -533,7 +599,8 @@
     "element": "anemo",
     "weaponType": "catalyst",
     "rarity": 4,
-    "icon": "images/character/sucrose.webp"
+    "icon": "images/character/sucrose.webp",
+    "ver": "1.0"
   },
   {
     "id": "fischl",
@@ -541,7 +608,8 @@
     "element": "electro",
     "weaponType": "bow",
     "rarity": 4,
-    "icon": "images/character/fischl.webp"
+    "icon": "images/character/fischl.webp",
+    "ver": "1.0"
   },
   {
     "id": "xingqiu",
@@ -549,7 +617,8 @@
     "element": "hydro",
     "weaponType": "sword",
     "rarity": 4,
-    "icon": "images/character/xingqiu.webp"
+    "icon": "images/character/xingqiu.webp",
+    "ver": "1.0"
   },
   {
     "id": "beidou",
@@ -557,6 +626,7 @@
     "element": "electro",
     "weaponType": "claymore",
     "rarity": 4,
-    "icon": "images/character/beidou.webp"
+    "icon": "images/character/beidou.webp",
+    "ver": "1.0"
   }
 ]

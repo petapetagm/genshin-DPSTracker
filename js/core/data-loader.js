@@ -18,9 +18,22 @@ async function loadGameData() {
         fetchJson('data/weapons.json'),
         fetchJson('data/artifacts.json')
     ]);
+
     CHARACTERS_DATA = chars;
-    WEAPONS_DATA = weapons.slice().sort((a, b) => b.rarity - a.rarity);
-    ARTIFACTS_DATA = artifacts.slice().sort((a, b) => b.rarity - a.rarity);
+    WEAPONS_DATA = weapons.sort((a,b) => {
+        const rarityDiff = b.rarity - a.rarity;
+        if(rarityDiff !== 0)
+            return rarityDiff;
+        return -a.ver.localeCompare(b.ver, undefined, { numeric: true });
+    });
+    ARTIFACTS_DATA = artifacts.sort((a,b) => {
+        const verDiff = -a.ver.localeCompare(b.ver, undefined, { numeric: true });
+        if(verDiff !== 0)
+            return verDiff;
+        return b.rarity - a.rarity;
+    });
+    //WEAPONS_DATA = weapons.slice().sort((a, b) => b.rarity - a.rarity);
+    //ARTIFACTS_DATA = artifacts.slice().sort((a, b) => b.rarity - a.rarity);
 }
 
 function showDataLoadError(err) {
